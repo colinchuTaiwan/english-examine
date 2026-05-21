@@ -47,11 +47,24 @@ def init_firebase():
     if firebase_admin._apps:
         return firebase_admin.get_app()
 
-    fb = dict(st.secrets["firebase"])
-    database_url = fb.pop("database_url")           # 分開取出
-    fb["private_key"] = fb["private_key"].replace("\\n", "\n")  # 修正換行
+    s = st.secrets["firebase"]
 
-    cred = credentials.Certificate(fb)
+    # 明確取出每個欄位，避免 dict 轉換後 key 遺失問題
+    cert_dict = {
+        "type":                        s["type"],
+        "project_id":                  s["project_id"],
+        "private_key_id":              s["private_key_id"],
+        "private_key":                 s["private_key"].replace("\n", "\n").replace("\\n", "\n"),
+        "client_email":                s["client_email"],
+        "client_id":                   s["client_id"],
+        "auth_uri":                    s["auth_uri"],
+        "token_uri":                   s["token_uri"],
+        "client_x509_cert_url":        s.get("client_x509_cert_url", ""),
+        "auth_provider_x509_cert_url": s.get("auth_provider_x509_cert_url", ""),
+    }
+    database_url = s["database_url"]
+
+    cred = credentials.Certificate(cert_dict)
     return firebase_admin.initialize_app(cred, {"databaseURL": database_url})
 
 # =========================
@@ -85,21 +98,18 @@ def _gh_branch() -> str: return st.secrets.get("github", {}).get("branch", "main
 
 @st.cache_data(ttl=300)   # 題庫快取 5 分鐘
 def load_questions_cached(filepath: str) -> list:
-    """從 GitHub 讀取題庫 JSON（快取 5 分鐘）。"""
-    url  = f"https://api.github.com/repos/{_gh_repo()}/contents/{filepath}"
-    resp = requests.get(
-        url,
-        headers=_gh_headers(),
-        params={"ref": _gh_branch()},
-        timeout=10,
-    )
+    """
+    從 GitHub 讀取題庫 JSON（快取 5 分鐘）。
+    公開 repo 直接用 raw URL，不需要 token，速度更快也不會有權限問題。
+    """
+    url  = f"https://raw.githubusercontent.com/{_gh_repo()}/{_gh_branch()}/{filepath}"
+    resp = requests.get(url, timeout=10)
     if not resp.ok:
         st.warning(f"⚠️ 讀取題庫失敗（{resp.status_code}）：{filepath}")
         return []
-    content = base64.b64decode(resp.json()["content"]).decode("utf-8")
     try:
-        return json.loads(content)
-    except json.JSONDecodeError:
+        return resp.json()
+    except Exception:
         return []
 
 # =========================
