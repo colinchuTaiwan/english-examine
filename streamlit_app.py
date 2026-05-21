@@ -1,19 +1,6 @@
 """
 app.py — 英文測驗網頁（Streamlit Cloud + Firebase Realtime Database）
 
-對，架構是這樣：
-
-| 功能 | 用什麼 |
-|------|--------|
-| 讀題庫（element/junior/high/practice.json） | GitHub（你的 repo） |
-| 存成績 / 讀榮譽榜 | Firebase |
-
-題庫放在 GitHub 是合理的，因為它是靜態資料，公開 repo 直接讀就好，不需要 token。
-
-Firebase 只負責成績記錄，因為那個需要多人即時寫入。
-
-所以 Secrets 只需要 `[firebase]` 那段，`[github]` 可以整個刪掉。
-
 部署設定（Streamlit Cloud Secrets）：
     [firebase]
     type = "service_account"
@@ -26,6 +13,10 @@ Firebase 只負責成績記錄，因為那個需要多人即時寫入。
     token_uri = "https://oauth2.googleapis.com/token"
     database_url = "https://your-project-default-rtdb.firebaseio.com"
 
+    [github]
+    token  = "ghp_xxxxxxxxxxxx"
+    repo   = "colinchuTaiwan/english-examine"
+    branch = "main"
 
 requirements.txt：
     streamlit
@@ -146,7 +137,7 @@ def save_record(name: str, score: int, difficulty: str) -> str:
     """
     init_firebase()
     record_id = str(uuid.uuid4())
-    firebase_db.reference("records").push({
+    firebase_db.reference("records_english").push({
         "id":         record_id,
         "name":       name,
         "score":      score,
@@ -161,7 +152,7 @@ def save_record(name: str, score: int, difficulty: str) -> str:
 def load_records_cached() -> list:
     """從 Firebase 讀取所有成績（快取 30 秒）。"""
     init_firebase()
-    data = firebase_db.reference("records").get()
+    data = firebase_db.reference("records_english").get()
     if not data:
         return []
     # Firebase 回傳 dict（key: push_key, value: record_dict）
@@ -411,7 +402,7 @@ elif st.session_state.step == "quiz":
                         correct = (user_ans == current_q["answer"])
                         if correct:
                             st.session_state.streak += 1
-                            points = time_left + (st.session_state.streak-1) * STREAK_BONUS
+                            points = time_left + st.session_state.streak * STREAK_BONUS
                         else:
                             st.session_state.streak = 0
                             points = 0
