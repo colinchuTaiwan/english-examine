@@ -85,15 +85,17 @@ FILES = {
 # GitHub API：讀取題庫
 # =========================
 
-def _gh_headers() -> dict:
-    token = st.secrets.get("github", {}).get("token", "")
-    return {
-        "Authorization": f"token {token}",
-        "Accept": "application/vnd.github.v3+json",
-    }
+def _gh_repo() -> str:
+    try:
+        return st.secrets["github"]["repo"]
+    except Exception:
+        return ""
 
-def _gh_repo()   -> str: return st.secrets.get("github", {}).get("repo",   "")
-def _gh_branch() -> str: return st.secrets.get("github", {}).get("branch", "main")
+def _gh_branch() -> str:
+    try:
+        return st.secrets["github"]["branch"]
+    except Exception:
+        return "main"
 
 
 @st.cache_data(ttl=300)   # 題庫快取 5 分鐘
