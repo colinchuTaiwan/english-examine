@@ -1,7 +1,6 @@
 """
 app.py — 英文測驗網頁（Streamlit Cloud + Firebase Realtime Database）
 
-
 部署設定（Streamlit Cloud Secrets）：
     [firebase]
     type = "service_account"
@@ -12,7 +11,7 @@ app.py — 英文測驗網頁（Streamlit Cloud + Firebase Realtime Database）
     client_id = "xxxx"
     auth_uri = "https://accounts.google.com/o/oauth2/auth"
     token_uri = "https://oauth2.googleapis.com/token"
-    database_url = "https://your-project-default-rtdb.firebaseio.app"
+    database_url = "https://your-project-default-rtdb.firebaseio.com"
 
     [github]
     token  = "ghp_xxxxxxxxxxxx"
