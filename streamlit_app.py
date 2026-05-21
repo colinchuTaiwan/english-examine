@@ -1,13 +1,27 @@
 """
-app.py — 英文測驗網頁（Streamlit Cloud + GitHub）
+app.py — 英文測驗網頁（Streamlit Cloud + Firebase Realtime Database）
+
 
 部署設定（Streamlit Cloud Secrets）：
-    GITHUB_TOKEN  = "ghp_xxxxxxxxxxxx"
-    GITHUB_REPO   = "colinchuTaiwan/english-examine"
-    GITHUB_BRANCH = "main"
+    [firebase]
+    type = "service_account"
+    project_id = "your-project-id"
+    private_key_id = "xxxx"
+    private_key = "-----BEGIN PRIVATE KEY-----\\nxxxx\\n-----END PRIVATE KEY-----\\n"
+    client_email = "firebase-adminsdk-xxxx@your-project.iam.gserviceaccount.com"
+    client_id = "xxxx"
+    auth_uri = "https://accounts.google.com/o/oauth2/auth"
+    token_uri = "https://oauth2.googleapis.com/token"
+    database_url = "https://your-project-default-rtdb.firebaseio.app"
+
+    [github]
+    token  = "ghp_xxxxxxxxxxxx"
+    repo   = "colinchuTaiwan/english-examine"
+    branch = "main"
 
 requirements.txt：
     streamlit
+    firebase-admin
     requests
 """
 
@@ -18,15 +32,33 @@ import random
 import time
 import base64
 import requests
-from datetime import datetime, timedelta
 import uuid
+from datetime import datetime, timedelta
+
+# =========================
+# Firebase 初始化
+# =========================
+
+import firebase_admin
+from firebase_admin import credentials, db as firebase_db
+
+@st.cache_resource
+def init_firebase():
+    """初始化 Firebase（整個 app 只做一次）。"""
+    if firebase_admin._apps:
+        return firebase_admin.get_app()
+
+    fb = dict(st.secrets["firebase"])
+    database_url = fb.pop("database_url")           # 分開取出
+    fb["private_key"] = fb["private_key"].replace("\\n", "\n")  # 修正換行
+
+    cred = credentials.Certificate(fb)
+    return firebase_admin.initialize_app(cred, {"databaseURL": database_url})
 
 # =========================
 # 設定
 # =========================
 
-DB_PATH      = "db"
-RECORDS_FILE = "db/records.json"
 TIME_LIMIT   = 30
 STREAK_BONUS = 5
 
@@ -38,83 +70,38 @@ FILES = {
 }
 
 # =========================
-# GitHub API 讀寫
+# GitHub API：讀取題庫
 # =========================
 
 def _gh_headers() -> dict:
-    token = st.secrets.get("GITHUB_TOKEN", "")
+    token = st.secrets.get("github", {}).get("token", "")
     return {
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github.v3+json",
     }
 
-def _gh_repo() -> str:
-    return st.secrets.get("GITHUB_REPO", "")
-
-def _gh_branch() -> str:
-    return st.secrets.get("GITHUB_BRANCH", "main")
+def _gh_repo()   -> str: return st.secrets.get("github", {}).get("repo",   "")
+def _gh_branch() -> str: return st.secrets.get("github", {}).get("branch", "main")
 
 
-def gh_read_json(path: str) -> tuple[list | dict, str | None]:
-    """
-    從 GitHub 讀取 JSON 檔案。
-    回傳 (資料, sha)，sha 用於後續寫入；失敗回傳 ([], None)。
-    """
-    url  = f"https://api.github.com/repos/{_gh_repo()}/contents/{path}"
+@st.cache_data(ttl=300)   # 題庫快取 5 分鐘
+def load_questions_cached(filepath: str) -> list:
+    """從 GitHub 讀取題庫 JSON（快取 5 分鐘）。"""
+    url  = f"https://api.github.com/repos/{_gh_repo()}/contents/{filepath}"
     resp = requests.get(
         url,
         headers=_gh_headers(),
         params={"ref": _gh_branch()},
         timeout=10,
     )
-    if resp.status_code == 404:
-        return [], None
     if not resp.ok:
-        st.warning(f"⚠️ 讀取 GitHub 檔案失敗（{resp.status_code}）：{path}")
-        return [], None
-
-    meta    = resp.json()
-    sha     = meta.get("sha")
-    content = base64.b64decode(meta["content"]).decode("utf-8")
+        st.warning(f"⚠️ 讀取題庫失敗（{resp.status_code}）：{filepath}")
+        return []
+    content = base64.b64decode(resp.json()["content"]).decode("utf-8")
     try:
-        return json.loads(content), sha
+        return json.loads(content)
     except json.JSONDecodeError:
-        return [], sha
-
-
-def gh_write_json(path: str, data: list | dict | None, sha: str | None,
-                  message: str = "update records") -> bool:
-    """
-    把 JSON 資料寫回 GitHub（commit）。
-    sha 為 None 時建立新檔，否則更新現有檔案。
-    成功回傳 True，失敗回傳 False。
-    """
-    url     = f"https://api.github.com/repos/{_gh_repo()}/contents/{path}"
-    content = base64.b64encode(
-        json.dumps(data, ensure_ascii=False, indent=2).encode("utf-8")
-    ).decode("utf-8")
-
-    payload = {
-        "message": message,
-        "content": content,
-        "branch":  _gh_branch(),
-    }
-    if sha:
-        payload["sha"] = sha
-
-    resp = requests.put(url, headers=_gh_headers(), json=payload, timeout=15)
-    if not resp.ok:
-        st.warning(f"⚠️ 寫入 GitHub 失敗（{resp.status_code}）：{resp.json().get('message','')}")
-    return resp.ok
-
-
-@st.cache_data(ttl=60)
-def load_questions_cached(filename: str) -> list:
-    """
-    讀取題庫（快取 60 秒，避免每次答題都打 GitHub API）。
-    """
-    data, _ = gh_read_json(filename)
-    return data if isinstance(data, list) else []
+        return []
 
 # =========================
 # 題庫驗證
@@ -141,59 +128,37 @@ def validate_questions(qs: list) -> list:
     return valid
 
 # =========================
-# 成績讀寫（GitHub）
+# Firebase：成績讀寫
 # =========================
 
 def save_record(name: str, score: int, difficulty: str) -> str:
     """
-    把本次成績寫入 GitHub records.json，回傳 record_id。
-
-    衝突處理（樂觀鎖 + retry）：
-    - 讀取最新 sha → 附加記錄 → commit
-    - 若兩人同時提交，後者收到 409 Conflict
-    - 自動重新讀取最新版本再重試，最多 MAX_SAVE_RETRY 次
+    寫入一筆成績到 Firebase Realtime Database。
+    Firebase push() 自動產生唯一 key，完全無競態衝突。
+    回傳 record_id 供排名查詢。
     """
-    MAX_SAVE_RETRY = 3
-    SAVE_RETRY_WAIT = 1   # 秒
-
+    init_firebase()
     record_id = str(uuid.uuid4())
-    new_record = {
+    firebase_db.reference("records").push({
         "id":         record_id,
         "name":       name,
         "score":      score,
         "difficulty": difficulty,
         "timestamp":  datetime.now().isoformat(),
-    }
-
-    for attempt in range(1, MAX_SAVE_RETRY + 1):
-        # 每次重試都重新讀取最新 sha，確保附加在最新版本上
-        records, sha = gh_read_json(RECORDS_FILE)
-        if not isinstance(records, list):
-            records = []
-        records.append(new_record)
-
-        ok = gh_write_json(
-            RECORDS_FILE, records, sha,
-            message=f"score: {name} {score}pts ({difficulty})"
-        )
-        if ok:
-            break   # commit 成功，離開重試迴圈
-
-        if attempt < MAX_SAVE_RETRY:
-            time.sleep(SAVE_RETRY_WAIT)   # 稍等後重試
-        else:
-            st.warning("成績暫時無法儲存（多人衝突），請稍後再試。")
-
-    # 清除快取讓榜單立刻更新
-    load_records_cached.clear()
+    })
+    load_records_cached.clear()   # 清除快取，榜單立刻更新
     return record_id
 
 
-@st.cache_data(ttl=30)
+@st.cache_data(ttl=30)   # 榜單快取 30 秒
 def load_records_cached() -> list:
-    """讀取成績記錄（快取 30 秒，減少 GitHub API 呼叫次數）。"""
-    data, _ = gh_read_json(RECORDS_FILE)
-    return data if isinstance(data, list) else []
+    """從 Firebase 讀取所有成績（快取 30 秒）。"""
+    init_firebase()
+    data = firebase_db.reference("records").get()
+    if not data:
+        return []
+    # Firebase 回傳 dict（key: push_key, value: record_dict）
+    return list(data.values())
 
 # =========================
 # 排行榜過濾
@@ -226,9 +191,9 @@ def filter_records(records: list, difficulty: str, period: str) -> list:
 
 def reset_session(keep_name: bool = True) -> None:
     name = st.session_state.get("name", "")
-    for k in ["step","score","streak","q_index","questions","start_time",
-              "last_correct","last_answer","last_points","last_q",
-              "record_id","last_timeout"]:
+    for k in ["step", "score", "streak", "q_index", "questions", "start_time",
+              "last_correct", "last_answer", "last_points", "last_q",
+              "record_id", "last_timeout"]:
         st.session_state.pop(k, None)
     st.session_state.step         = "setup"
     st.session_state.score        = 0
@@ -313,7 +278,6 @@ elif st.session_state.step == "setup":
 
     tab_quiz, tab_board = st.tabs(["🎯 開始測驗", "🏅 榮譽榜"])
 
-    # ── 開始測驗 ──
     with tab_quiz:
         col1, col2 = st.columns(2)
         with col1:
@@ -348,7 +312,6 @@ elif st.session_state.step == "setup":
                 st.session_state.step         = "quiz"
                 st.rerun()
 
-    # ── 榮譽榜 ──
     with tab_board:
         with st.spinner("載入榜單..."):
             records = load_records_cached()
