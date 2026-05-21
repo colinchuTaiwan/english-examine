@@ -1,20 +1,14 @@
 """
-app.py — 英文測驗網頁（Streamlit）
+app.py — 英文測驗網頁（Streamlit Cloud + GitHub）
 
-環境需求：
-    pip install streamlit
+部署設定（Streamlit Cloud Secrets）：
+    GITHUB_TOKEN  = "ghp_xxxxxxxxxxxx"
+    GITHUB_REPO   = "colinchuTaiwan/english-examine"
+    GITHUB_BRANCH = "main"
 
-使用方式：
-    streamlit run app.py
-"""
-"""
-app.py — 英文測驗網頁（Streamlit）
-
-環境需求：
-    pip install streamlit
-
-使用方式：
-    streamlit run app.py
+requirements.txt：
+    streamlit
+    requests
 """
 
 import streamlit as st
@@ -22,75 +16,111 @@ import json
 import os
 import random
 import time
+import base64
+import requests
 from datetime import datetime, timedelta
+import uuid
 
 # =========================
 # 設定
 # =========================
 
-DB_DIR       = "db"
-RECORD_FILE  = os.path.join(DB_DIR, "records.json")
+DB_PATH      = "db"
+RECORDS_FILE = "db/records.json"
 TIME_LIMIT   = 30
 STREAK_BONUS = 5
 
 FILES = {
-    "國小": "element.json",
-    "國中": "junior.json",
-    "高中": "high.json",
-    "練習": "practice.json",
+    "國小": "db/element.json",
+    "國中": "db/junior.json",
+    "高中": "db/high.json",
+    "練習": "db/practice.json",
 }
 
-os.makedirs(DB_DIR, exist_ok=True)
-
 # =========================
-# JSON 讀寫（os.replace 跨平台 atomic write）
+# GitHub API 讀寫
 # =========================
 
-def _read_json(path: str) -> list:
-    if not os.path.exists(path):
-        return []
+def _gh_headers() -> dict:
+    token = st.secrets.get("GITHUB_TOKEN", "")
+    return {
+        "Authorization": f"token {token}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+
+def _gh_repo() -> str:
+    return st.secrets.get("GITHUB_REPO", "")
+
+def _gh_branch() -> str:
+    return st.secrets.get("GITHUB_BRANCH", "main")
+
+
+def gh_read_json(path: str) -> tuple[list | dict, str | None]:
+    """
+    從 GitHub 讀取 JSON 檔案。
+    回傳 (資料, sha)，sha 用於後續寫入；失敗回傳 ([], None)。
+    """
+    url  = f"https://api.github.com/repos/{_gh_repo()}/contents/{path}"
+    resp = requests.get(
+        url,
+        headers=_gh_headers(),
+        params={"ref": _gh_branch()},
+        timeout=10,
+    )
+    if resp.status_code == 404:
+        return [], None
+    if not resp.ok:
+        st.warning(f"⚠️ 讀取 GitHub 檔案失敗（{resp.status_code}）：{path}")
+        return [], None
+
+    meta    = resp.json()
+    sha     = meta.get("sha")
+    content = base64.b64decode(meta["content"]).decode("utf-8")
     try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except (json.JSONDecodeError, OSError):
-        return []
+        return json.loads(content), sha
+    except json.JSONDecodeError:
+        return [], sha
 
 
-def _write_json(path: str, data: list) -> None:
-    tmp = path + ".tmp"
-    try:
-        with open(tmp, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        os.replace(tmp, path)   # 跨平台 atomic write，Windows 相容
-    except OSError:
-        if os.path.exists(tmp):
-            os.remove(tmp)
-        raise
+def gh_write_json(path: str, data: list | dict | None, sha: str | None,
+                  message: str = "update records") -> bool:
+    """
+    把 JSON 資料寫回 GitHub（commit）。
+    sha 為 None 時建立新檔，否則更新現有檔案。
+    成功回傳 True，失敗回傳 False。
+    """
+    url     = f"https://api.github.com/repos/{_gh_repo()}/contents/{path}"
+    content = base64.b64encode(
+        json.dumps(data, ensure_ascii=False, indent=2).encode("utf-8")
+    ).decode("utf-8")
+
+    payload = {
+        "message": message,
+        "content": content,
+        "branch":  _gh_branch(),
+    }
+    if sha:
+        payload["sha"] = sha
+
+    resp = requests.put(url, headers=_gh_headers(), json=payload, timeout=15)
+    if not resp.ok:
+        st.warning(f"⚠️ 寫入 GitHub 失敗（{resp.status_code}）：{resp.json().get('message','')}")
+    return resp.ok
+
+
+@st.cache_data(ttl=60)
+def load_questions_cached(filename: str) -> list:
+    """
+    讀取題庫（快取 60 秒，避免每次答題都打 GitHub API）。
+    """
+    data, _ = gh_read_json(filename)
+    return data if isinstance(data, list) else []
 
 # =========================
-# 儲存成績
-# =========================
-
-def save_record(name: str, score: int, difficulty: str) -> str:
-    """儲存成績並回傳本次記錄的唯一 id，供排名查詢使用。"""
-    import uuid as _uuid
-    record_id = str(_uuid.uuid4())
-    records   = _read_json(RECORD_FILE)
-    records.append({
-        "id":         record_id,
-        "name":       name,
-        "score":      score,
-        "difficulty": difficulty,
-        "timestamp":  datetime.now().isoformat(),
-    })
-    _write_json(RECORD_FILE, records)
-    return record_id
-# =========================
-# 題庫驗證（過濾壞題）
+# 題庫驗證
 # =========================
 
 def validate_questions(qs: list) -> list:
-    """過濾格式不合法的題目，確保測驗不因壞題崩潰。"""
     valid = []
     for q in qs:
         if not isinstance(q, dict):
@@ -110,14 +140,67 @@ def validate_questions(qs: list) -> list:
             valid.append(q)
     return valid
 
+# =========================
+# 成績讀寫（GitHub）
+# =========================
 
+def save_record(name: str, score: int, difficulty: str) -> str:
+    """
+    把本次成績寫入 GitHub records.json，回傳 record_id。
+
+    衝突處理（樂觀鎖 + retry）：
+    - 讀取最新 sha → 附加記錄 → commit
+    - 若兩人同時提交，後者收到 409 Conflict
+    - 自動重新讀取最新版本再重試，最多 MAX_SAVE_RETRY 次
+    """
+    MAX_SAVE_RETRY = 3
+    SAVE_RETRY_WAIT = 1   # 秒
+
+    record_id = str(uuid.uuid4())
+    new_record = {
+        "id":         record_id,
+        "name":       name,
+        "score":      score,
+        "difficulty": difficulty,
+        "timestamp":  datetime.now().isoformat(),
+    }
+
+    for attempt in range(1, MAX_SAVE_RETRY + 1):
+        # 每次重試都重新讀取最新 sha，確保附加在最新版本上
+        records, sha = gh_read_json(RECORDS_FILE)
+        if not isinstance(records, list):
+            records = []
+        records.append(new_record)
+
+        ok = gh_write_json(
+            RECORDS_FILE, records, sha,
+            message=f"score: {name} {score}pts ({difficulty})"
+        )
+        if ok:
+            break   # commit 成功，離開重試迴圈
+
+        if attempt < MAX_SAVE_RETRY:
+            time.sleep(SAVE_RETRY_WAIT)   # 稍等後重試
+        else:
+            st.warning("成績暫時無法儲存（多人衝突），請稍後再試。")
+
+    # 清除快取讓榜單立刻更新
+    load_records_cached.clear()
+    return record_id
+
+
+@st.cache_data(ttl=30)
+def load_records_cached() -> list:
+    """讀取成績記錄（快取 30 秒，減少 GitHub API 呼叫次數）。"""
+    data, _ = gh_read_json(RECORDS_FILE)
+    return data if isinstance(data, list) else []
 
 # =========================
 # 排行榜過濾
 # =========================
 
 def filter_records(records: list, difficulty: str, period: str) -> list:
-    now = datetime.now()
+    now    = datetime.now()
     cutoff = {
         "本年度": now - timedelta(days=365),
         "本季":   now - timedelta(days=91),
@@ -138,25 +221,21 @@ def filter_records(records: list, difficulty: str, period: str) -> list:
     )
 
 # =========================
-# 安全重置 session（避免 List 參照污染）
+# 安全重置 session
 # =========================
 
 def reset_session(keep_name: bool = True) -> None:
     name = st.session_state.get("name", "")
-    keys = [
-        "step", "score", "streak", "q_index",
-        "questions", "start_time",
-        "last_correct", "last_answer", "last_points", "last_q",
-    ]
-    for k in keys:
-        if k in st.session_state:
-            del st.session_state[k]
-    st.session_state.step        = "setup"
-    st.session_state.score       = 0
-    st.session_state.streak      = 0
-    st.session_state.q_index     = 0
-    st.session_state.questions   = []   # 全新 List，無參照污染
-    st.session_state.start_time  = 0.0
+    for k in ["step","score","streak","q_index","questions","start_time",
+              "last_correct","last_answer","last_points","last_q",
+              "record_id","last_timeout"]:
+        st.session_state.pop(k, None)
+    st.session_state.step         = "setup"
+    st.session_state.score        = 0
+    st.session_state.streak       = 0
+    st.session_state.q_index      = 0
+    st.session_state.questions    = []
+    st.session_state.start_time   = 0.0
     st.session_state.last_correct = None
     st.session_state.last_answer  = None
     st.session_state.last_points  = 0
@@ -196,12 +275,12 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-.big-title { font-size:2rem; font-weight:800; text-align:center; margin-bottom:.4rem; }
-.sub-title { font-size:1rem; text-align:center; color:#888; margin-bottom:1.5rem; }
-.score-box { font-size:3rem; font-weight:900; text-align:center; color:#1e88e5; margin:1rem 0; }
+.big-title  { font-size:2rem; font-weight:800; text-align:center; margin-bottom:.4rem; }
+.sub-title  { font-size:1rem; text-align:center; color:#888; margin-bottom:1.5rem; }
+.score-box  { font-size:3rem; font-weight:900; text-align:center; color:#1e88e5; margin:1rem 0; }
 .champ-name { font-size:1rem; font-weight:700; color:#1e88e5; }
-.champ-score { font-size:.9rem; color:#333; }
-.champ-date  { font-size:.75rem; color:#999; }
+.champ-score{ font-size:.9rem; color:#333; }
+.champ-date { font-size:.75rem; color:#999; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -214,7 +293,7 @@ if st.session_state.step == "login":
     st.markdown('<div class="sub-title">測試你的英文實力，挑戰榮譽榜！</div>', unsafe_allow_html=True)
 
     with st.form("login_form"):
-        name = st.text_input("請輸入你的名字：", placeholder="例如：小明")
+        name      = st.text_input("請輸入你的名字：", placeholder="例如：小明")
         submitted = st.form_submit_button("進入測驗 →", use_container_width=True)
         if submitted:
             if name.strip():
@@ -248,19 +327,21 @@ elif st.session_state.step == "setup":
         )
 
         if st.button("🚀 開始測驗！", use_container_width=True, type="primary"):
-            filepath = os.path.join(DB_DIR, FILES[difficulty])
-            all_qs   = validate_questions(_read_json(filepath))
+            with st.spinner("載入題庫中..."):
+                raw_qs = load_questions_cached(FILES[difficulty])
+                all_qs = validate_questions(raw_qs)
+
             if len(all_qs) < q_count:
                 st.error(
                     f"「{difficulty}」題庫目前只有 {len(all_qs)} 題，"
-                    f"請先執行 generate_questions.py 生成題目，或選擇較少題數。"
+                    f"請先執行 generate_questions.py 補充題目，或選擇較少題數。"
                 )
             else:
-                st.session_state.questions   = random.sample(all_qs, q_count)
-                st.session_state.difficulty  = difficulty
-                st.session_state.score       = 0
-                st.session_state.streak      = 0
-                st.session_state.q_index     = 0
+                st.session_state.questions    = random.sample(all_qs, q_count)
+                st.session_state.difficulty   = difficulty
+                st.session_state.score        = 0
+                st.session_state.streak       = 0
+                st.session_state.q_index      = 0
                 st.session_state.last_correct = None
                 st.session_state.last_answer  = None
                 st.session_state.start_time   = time.time()
@@ -269,14 +350,15 @@ elif st.session_state.step == "setup":
 
     # ── 榮譽榜 ──
     with tab_board:
-        records = _read_json(RECORD_FILE)
+        with st.spinner("載入榜單..."):
+            records = load_records_cached()
+
         if not records:
             st.info("目前尚無成績記錄，完成第一場測驗後即可上榜！")
         else:
             diff_tab = st.selectbox("選擇難度榜", list(FILES.keys()), key="board_diff")
             periods  = ["本日", "本週", "本月", "本季", "本年度"]
 
-            # 冠軍橫排顯示（並排 5 格，有儀式感）
             st.markdown("#### 🥇 各時段冠軍")
             cols = st.columns(len(periods))
             for idx, period in enumerate(periods):
@@ -289,15 +371,13 @@ elif st.session_state.step == "setup":
                             f"<div class='champ-name'>{champ['name']}</div>"
                             f"<div class='champ-score'>{champ['score']} 分</div>"
                             f"<div class='champ-date'>{champ['timestamp'][:10]}</div>",
-                            unsafe_allow_html=True
+                            unsafe_allow_html=True,
                         )
                     else:
                         st.markdown("<span style='color:#aaa'>虛位以待</span>",
                                     unsafe_allow_html=True)
 
             st.markdown("---")
-
-            # 前 10 名
             st.markdown(f"#### 📋 {diff_tab} 前 10 名（本年度）")
             top10 = filter_records(records, diff_tab, "本年度")[:10]
             if not top10:
@@ -309,8 +389,9 @@ elif st.session_state.step == "setup":
                     st.markdown(
                         f"{medal} &nbsp; **{r['name']}** &nbsp; "
                         f"<span style='color:#1e88e5;font-weight:700'>{r['score']} 分</span>"
-                        f"<span style='color:#aaa;font-size:.82rem'> ／ {r['difficulty']} ／ {r['timestamp'][:10]}</span>",
-                        unsafe_allow_html=True
+                        f"<span style='color:#aaa;font-size:.82rem'>"
+                        f" ／ {r['difficulty']} ／ {r['timestamp'][:10]}</span>",
+                        unsafe_allow_html=True,
                     )
 
 # =========================
@@ -324,14 +405,12 @@ elif st.session_state.step == "quiz":
     if q_idx < total_q:
         current_q = st.session_state.questions[q_idx]
 
-        # 進度列
         st.progress(q_idx / total_q)
         col_l, col_m, col_r = st.columns([2, 2, 2])
         col_l.markdown(f"**第 {q_idx+1} 題 / 共 {total_q} 題**")
         col_m.markdown(f"🔥 連勝：**{st.session_state.streak}**")
         col_r.markdown(f"⭐ 分數：**{st.session_state.score}**")
 
-        # 剩餘時間（靜態顯示，以提交時實際時間計算）
         elapsed   = time.time() - st.session_state.start_time
         time_left = max(0, TIME_LIMIT - int(elapsed))
         color     = "success" if time_left > 20 else "warning" if time_left > 10 else "error"
@@ -355,7 +434,6 @@ elif st.session_state.step == "quiz":
                     is_timeout = elapsed > TIME_LIMIT
 
                     if is_timeout:
-                        # 超時：強制答錯，斷連勝，0 分
                         correct = False
                         st.session_state.streak = 0
                         points  = 0
@@ -377,13 +455,14 @@ elif st.session_state.step == "quiz":
                     st.session_state.step          = "show_result"
                     st.rerun()
     else:
-        rid = save_record(
-            st.session_state.name,
-            st.session_state.score,
-            st.session_state.difficulty,
-        )
+        with st.spinner("儲存成績中..."):
+            rid = save_record(
+                st.session_state.name,
+                st.session_state.score,
+                st.session_state.difficulty,
+            )
         st.session_state.record_id = rid
-        st.session_state.step = "result"
+        st.session_state.step      = "result"
         st.rerun()
 
 # =========================
@@ -391,23 +470,19 @@ elif st.session_state.step == "quiz":
 # =========================
 
 elif st.session_state.step == "show_result":
-    current_q = st.session_state.last_q
-    correct   = st.session_state.last_correct
-    points    = st.session_state.last_points
-    q_idx     = st.session_state.q_index
-    total_q   = len(st.session_state.questions)
+    current_q  = st.session_state.last_q
+    correct    = st.session_state.last_correct
+    points     = st.session_state.last_points
+    q_idx      = st.session_state.q_index
+    total_q    = len(st.session_state.questions)
+    is_timeout = st.session_state.get("last_timeout", False)
 
     st.progress((q_idx + 1) / total_q)
-
-    is_timeout = st.session_state.get("last_timeout", False)
 
     if is_timeout:
         st.error(f"⏰ 超時！正確答案是：**{current_q['answer']}**（超過 {TIME_LIMIT} 秒，本題 0 分）")
     elif correct:
-        st.success(
-            f"✅ 答對了！本題獲得 **{points} 分**"
-            f"（連勝 {st.session_state.streak} 回合）"
-        )
+        st.success(f"✅ 答對了！本題獲得 **{points} 分**（連勝 {st.session_state.streak} 回合）")
     else:
         st.error(f"❌ 答錯了！正確答案是：**{current_q['answer']}**")
 
@@ -433,7 +508,7 @@ elif st.session_state.step == "show_result":
 
     if st.button(btn_label, use_container_width=True, type="primary"):
         st.session_state.q_index    += 1
-        st.session_state.start_time  = time.time()   # 下一題才重置計時
+        st.session_state.start_time  = time.time()
         st.session_state.step        = "quiz"
         st.rerun()
 
@@ -454,22 +529,22 @@ elif st.session_state.step == "result":
     st.markdown(f'<div class="score-box">{st.session_state.score} 分</div>',
                 unsafe_allow_html=True)
 
-    # 查詢排名
-    records  = _read_json(RECORD_FILE)
-    top_year = filter_records(records, st.session_state.difficulty, "本年度")
-    record_id = st.session_state.get("record_id")
-    rank      = next(
-        (i + 1 for i, r in enumerate(top_year)
-         if r.get("id") == record_id),
-        None,
-    )
+    with st.spinner("查詢排名中..."):
+        records   = load_records_cached()
+        top_year  = filter_records(records, st.session_state.difficulty, "本年度")
+        record_id = st.session_state.get("record_id")
+        rank      = next(
+            (i + 1 for i, r in enumerate(top_year) if r.get("id") == record_id),
+            None,
+        )
+
     if rank:
         if rank == 1:
             st.success(f"🥇 恭喜！你是「{st.session_state.difficulty}」本年度第 1 名！")
         elif rank <= 3:
-            st.success(f"🏅 太棒了！你在「{st.session_state.difficulty}」本年度榜單排名第 **{rank}** 名！")
+            st.success(f"🏅 太棒了！本年度排名第 **{rank}** 名！")
         else:
-            st.info(f"📊 你在「{st.session_state.difficulty}」本年度榜單排名第 **{rank}** 名，繼續加油！")
+            st.info(f"📊 本年度排名第 **{rank}** 名，繼續加油！")
 
     st.markdown("---")
     col1, col2 = st.columns(2)
