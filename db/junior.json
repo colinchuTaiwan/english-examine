@@ -1,0 +1,1705 @@
+[
+  {
+    "question": "The students are very ____ about the upcoming school trip to Taroko Gorge.",
+    "options": [
+      "excited",
+      "boring",
+      "tired",
+      "sad"
+    ],
+    "answer": "excited",
+    "explanation": "題目考驗單字辨識。\"excited\" 意為\"興奮的\"，符合學生們對學校旅行感到期待的情境。\"boring\" 意為\"無聊的\"，\"tired\" 意為\"疲倦的\"，\"sad\" 意為\"難過的\"，皆不符合題意。",
+    "id": "e1c81e2c-389a-416c-b564-93857cbb05bb",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Could you please ____ me a hand with these heavy boxes?",
+    "options": [
+      "give",
+      "take",
+      "make",
+      "do"
+    ],
+    "answer": "give",
+    "explanation": "題目考驗常用片語 \"give someone a hand\"，意為\"幫助某人\"。這是固定用法，其他選項皆不適用。",
+    "id": "e253872c-82cc-4c1d-acef-5c70e5de4182",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The concert was so ____ that everyone started dancing.",
+    "options": [
+      "lively",
+      "quiet",
+      "slow",
+      "calm"
+    ],
+    "answer": "lively",
+    "explanation": "題目考驗單字辨識。\"lively\" 意為\"活潑的\"，符合演唱會氣氛熱烈、讓大家想跳舞的情境。\"quiet\" 意為\"安靜的\"，\"slow\" 意為\"緩慢的\"，\"calm\" 意為\"平靜的\"，皆與題意不符。",
+    "id": "d0649ada-b900-497a-9c22-9bdb9690d9f0",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If it ____ tomorrow, we will have to cancel the picnic.",
+    "options": [
+      "rains",
+      "rain",
+      "raining",
+      "rained"
+    ],
+    "answer": "rains",
+    "explanation": "題目考驗第一條件句的用法。當未來事實的條件句，If 子句的動詞要用現在簡單式 (主詞為單數第三人稱時加 s)。\"rains\" 是符合規則的現在簡單式動詞。",
+    "id": "192e32f2-f4c6-410e-bdbd-dc7c8a5e5f3b",
+    "difficulty": "medium"
+  },
+  {
+    "question": "She has been studying English ____ three years.",
+    "options": [
+      "for",
+      "since",
+      "at",
+      "on"
+    ],
+    "answer": "for",
+    "explanation": "題目考驗介係詞的用法。\"for + 一段時間\" 表示持續一段時間，符合 \"three years\" (三年) 的時間長度。\"since\" 後面通常接一個點的時間 (例如 since 2020)。",
+    "id": "0ff9f4e7-485f-49b9-b5f5-38182fa14766",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The teacher asked the students to ____ their homework before class.",
+    "options": [
+      "hand in",
+      "put up",
+      "take off",
+      "turn on"
+    ],
+    "answer": "hand in",
+    "explanation": "題目考驗常用片語辨識。\"hand in\" 意為\"繳交\"，符合老師要求學生繳交作業的情境。\"put up\" 意為\"舉起\"，\"take off\" 意為\"脫下\"，\"turn on\" 意為\"打開\"，皆不符合題意。",
+    "id": "80984aa5-3e84-4583-bf3e-8a871750eeb9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My brother is interested ____ playing basketball.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "answer": "in",
+    "explanation": "題目考驗固定搭配。片語 \"be interested in\" 意為\"對...有興趣\"。這是常見的固定用法。",
+    "id": "80617715-856c-4da3-88ff-9220c6053768",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How ____ do you go to the library every week?",
+    "options": [
+      "often",
+      "much",
+      "long",
+      "many"
+    ],
+    "answer": "often",
+    "explanation": "題目考驗疑問詞的用法。\"How often\" 用來詢問頻率，符合 \"every week\" (每週) 的時間表示。\"How much\" 和 \"How many\" 用來詢問數量，\"How long\" 用來詢問時間長度。",
+    "id": "96e666a5-cbdb-4aae-8b11-258f91c90922",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The movie was ____ interesting that I watched it twice.",
+    "options": [
+      "so",
+      "too",
+      "very",
+      "quite"
+    ],
+    "answer": "so",
+    "explanation": "題目考驗 \"so...that...\" 的句型結構，意為\"如此...以至於...\"。這個句型用來連接一個結果。\"too\" 後面通常接形容詞或副詞，表示\"太...\"，後面會接 to do sth。\"very\" 和 \"quite\" 雖然也表示程度，但無法構成 \"very/quite...that...\" 的句型。",
+    "id": "6ba65cfc-5000-4508-b5a5-3bdc60ae6aa4",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The students ____ working on the project since this morning.",
+    "options": [
+      "have been",
+      "were",
+      "are",
+      "had been"
+    ],
+    "answer": "have been",
+    "explanation": "題目考驗現在完成進行式。\"since + 一個時間點\" 是現在完成進行式的標誌，表示從過去某個時間點開始一直持續到現在的動作。\"have been\" 是現在完成進行式的助動詞組合。",
+    "id": "db4ad190-acf0-4261-84fc-bbc3a6e0c332",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The library is a quiet place where people can ____ books and study.",
+    "options": [
+      "borrow",
+      "lend",
+      "buy",
+      "sell"
+    ],
+    "answer": "borrow",
+    "explanation": "題幹意指圖書館是一個安靜的地方，人們可以在那裡「借閱」書籍和學習。borrow 意為借入，lend 意為借出，buy 意為購買，sell 意為賣出。在這個情境下，人們是向圖書館借書，所以 borrow 是最適合的單字。",
+    "id": "d5b35901-15e0-428e-b269-f2ebafd904a8",
+    "difficulty": "medium"
+  },
+  {
+    "question": "She was very ____ when she won the first prize in the competition.",
+    "options": [
+      "excited",
+      "bored",
+      "sad",
+      "angry"
+    ],
+    "answer": "excited",
+    "explanation": "題幹描述「她贏得比賽一等獎時」，通常伴隨著高昂的情緒。excited 意為興奮的，bored 意為無聊的，sad 意為悲傷的，angry 意為生氣的。贏得獎項會讓人感到興奮，故 excited 為正確答案。",
+    "id": "21665010-d922-4121-84c9-8393421ab96d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "We should try to ____ our planet by reducing pollution and saving energy.",
+    "options": [
+      "protect",
+      "destroy",
+      "ignore",
+      "harm"
+    ],
+    "answer": "protect",
+    "explanation": "題幹在強調我們應該透過減少污染和節約能源來「保護」我們的地球。protect 意為保護，destroy 意為摧毀，ignore 意為忽略，harm 意為傷害。為了環境永續，保護地球是正確的行動。",
+    "id": "8d9ff424-eadf-45f5-b867-59a9eb4dd059",
+    "difficulty": "medium"
+  },
+  {
+    "question": "He's always willing to ____ a helping hand to those in need.",
+    "options": [
+      "give",
+      "take",
+      "get",
+      "receive"
+    ],
+    "answer": "give",
+    "explanation": "片語 \"give a helping hand\" 意為伸出援手。題幹表示他總是願意「伸出援手」幫助有需要的人。take 意為拿取，get 意為得到，receive 意為接收。在這裡，主動給予幫助，所以用 give。",
+    "id": "9fae8d85-804f-4a10-88d7-f0b91b6ba18b",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Don't worry about the test; just ____ your best and see what happens.",
+    "options": [
+      "do",
+      "make",
+      "try",
+      "play"
+    ],
+    "answer": "do",
+    "explanation": "片語 \"do one's best\" 意為盡力而為。題幹鼓勵人們「盡力而為」去應對考試。make 意為製作，try 意為嘗試，play 意為玩。雖然 try 也有嘗試的意思，但在 \"do one's best\" 這個固定片語中，必須使用 do。",
+    "id": "99b449c9-ef09-4e4d-a41f-4340587a8c87",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The weather forecast says it might ____ rain this afternoon.",
+    "options": [
+      "look like",
+      "turn into",
+      "get away",
+      "run out"
+    ],
+    "answer": "look like",
+    "explanation": "片語 \"look like\" 意為看起來像，有...的樣子。題幹表示天氣預報說今天下午「可能」會下雨，形容的是一種景象或趨勢。turn into 意為變成，get away 意為逃脫，run out 意為用完。在這裡，預報的是「看起來」要下雨，所以 look like 是最適合的片語。",
+    "id": "a910de2e-e1a2-4060-b3f4-8948dab45e20",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If you ____ to the party, you'll have a lot of fun.",
+    "options": [
+      "come",
+      "comes",
+      "coming",
+      "came"
+    ],
+    "answer": "come",
+    "explanation": "這是一個條件句 (If clause)。當 if 子句的時態是現在簡單式（主詞 + 原形動詞或第三人稱單數動詞），用來表示事實、習慣或將來可能發生的情況，並且句子的主句是一般現在式或未來式。在這裡，主詞是 you (第二人稱)，所以動詞要用原形 go。",
+    "id": "7bb29ab5-f935-48ec-a384-df0be3f9474e",
+    "difficulty": "medium"
+  },
+  {
+    "question": "She ____ to the library every week to borrow some new books.",
+    "options": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "answer": "goes",
+    "explanation": "句中的 \"every week\" 表示這是個習慣性的動作，因此需要使用現在簡單式。主詞 \"She\" 是第三人稱單數，所以動詞 \"go\" 要加上 \"es\" 變成 \"goes\"。",
+    "id": "bb3ccf87-8132-4f9f-9e97-975b3843cd02",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I ____ my homework yesterday evening.",
+    "options": [
+      "finished",
+      "finish",
+      "finishes",
+      "finishing"
+    ],
+    "answer": "finished",
+    "explanation": "句中的時間副詞 \"yesterday evening\" 明確指示了動作發生在過去，因此需要使用過去式。動詞 \"finish\" 的過去式是 \"finished\"。",
+    "id": "085118b8-10ec-4afd-9edf-10f3158c41f0",
+    "difficulty": "medium"
+  },
+  {
+    "question": "There ____ two apples and one banana on the table.",
+    "options": [
+      "are",
+      "is",
+      "be",
+      "am"
+    ],
+    "answer": "are",
+    "explanation": "這是一個存在句，句型為 \"There + be動詞 + 主詞\"。當主詞有多個時，be動詞要用複數形式。在這裡，主詞是 \"two apples and one banana\"，\"two apples\" 是複數，因此 be動詞要用 \"are\"。",
+    "id": "57fc30d7-ddd0-4257-b0be-ec12d3d5059d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The company is looking for a talented and ______ person to join their marketing team.",
+    "options": [
+      "energetic",
+      "sadly",
+      "boring",
+      "quietly"
+    ],
+    "answer": "energetic",
+    "explanation": "題幹在描述一位加入行銷團隊的有才華且______的人。選項中，energetic（精力充沛的）最符合形容一個有潛力加入行銷團隊的人，且與 talented（有才華的）形成正面連結。sadly（悲傷地）是副詞，boring（無聊的）是負面形容詞，quietly（安靜地）是副詞，都不適合形容一個有潛力的團隊成員。",
+    "id": "ded50e0c-218f-40c7-84f1-770c9aaf59e3",
+    "difficulty": "medium"
+  },
+  {
+    "question": "She decided to ______ a new hobby, like painting or playing the guitar.",
+    "options": [
+      "take up",
+      "put off",
+      "get over",
+      "turn down"
+    ],
+    "answer": "take up",
+    "explanation": "題幹在說她決定______一個新嗜好，像是畫畫或彈吉他。take up 是一個片語動詞，意思是「開始從事（某種活動或嗜好）」。put off 意思是「拖延」，get over 意思是「克服」，turn down 意思是「拒絕」，這些都不符合題意。",
+    "id": "16d917be-7673-4cec-b7ea-0ee5655c3761",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I need to ______ the bus at the next stop.",
+    "options": [
+      "get off",
+      "get on",
+      "look for",
+      "run into"
+    ],
+    "answer": "get off",
+    "explanation": "題幹在說我需要在下一站______公車。get off 是一個片語動詞，意思是「從（車輛、火車等）下來」。get on 意思是「上車」，look for 意思是「尋找」，run into 意思是「偶然遇見」，都不符合語境。",
+    "id": "81314af8-a79c-4ffe-a8b6-deb776cabd44",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If it rains tomorrow, we ______ our picnic.",
+    "options": [
+      "will cancel",
+      "cancel",
+      "cancels",
+      "canceled"
+    ],
+    "answer": "will cancel",
+    "explanation": "這是一個第一條件句的結構（If + 現在簡單式, will + 原形動詞），用來表達假設的情況和可能的結果。題幹描述了「如果明天下雨」這個假設，因此我們將會「取消」野餐。所以，will cancel 是正確的用法。",
+    "id": "f0034c19-0480-498f-b182-18023f843c69",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My sister ______ every day to improve her English.",
+    "options": [
+      "studies hard",
+      "study hard",
+      "studied hard",
+      "studying hard"
+    ],
+    "answer": "studies hard",
+    "explanation": "題幹中的 every day（每天）是一個表示頻率的副詞，表明這是一個習慣或現在的規律性動作。主語是 my sister（單數第三人稱），因此現在簡單式的動詞需要加上 -s。studies hard 是正確的現在簡單式單數第三人稱形式。",
+    "id": "bcfb3426-6c2e-445e-b050-80193bd32e43",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The movie was so ______ that I fell asleep halfway through.",
+    "options": [
+      "boring",
+      "exciting",
+      "interesting",
+      "funny"
+    ],
+    "answer": "boring",
+    "explanation": "題幹在描述電影的狀況，導致我看到一半就睡著了。能夠讓人睡著的電影通常是無聊的。boring（無聊的）符合這個情境。exciting（令人興奮的）、interesting（有趣的）和 funny（有趣的）都是正面的形容詞，不太可能讓人睡著。",
+    "id": "11cf2003-4440-4d79-9478-5ccd11fec9b7",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Could you please ______ me a favor and help me move this table?",
+    "options": [
+      "do",
+      "make",
+      "give",
+      "have"
+    ],
+    "answer": "do",
+    "explanation": "do someone a favor 是一個固定片語，意思是「幫某人一個忙」。題幹在請求對方幫忙搬桌子，所以 do a favor 是最適合的搭配。",
+    "id": "50dda167-c794-461f-9829-a7e1bea280e9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "We decided to ______ the old house because it was too expensive to repair.",
+    "options": [
+      "tear down",
+      "build up",
+      "look after",
+      "set up"
+    ],
+    "answer": "tear down",
+    "explanation": "題幹在說我們決定______這棟老房子，因為修理它的費用太高了。tear down 是一個片語動詞，意思是「拆除」。build up 意思是「建立」，look after 意思是「照顧」，set up 意思是「設立」，都不符合題意。",
+    "id": "b3ef1946-093a-487b-bb45-6dd05030f839",
+    "difficulty": "medium"
+  },
+  {
+    "question": "She ______ her homework when the phone rang.",
+    "options": [
+      "was doing",
+      "did",
+      "does",
+      "has done"
+    ],
+    "answer": "was doing",
+    "explanation": "這是一個過去進行式和過去簡單式的組合。當一個動作（電話鈴響）發生時，另一個正在進行的動作（做功課）被打斷。過去進行式（was doing）用來描述過去某個時間點正在進行的動作。過去簡單式（rang）用來描述打斷的那個瞬間發生的動作。因此，was doing 是正確的。",
+    "id": "812a4c6f-2896-4832-8cec-3e3af7d6c355",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I haven't seen him ______ last week.",
+    "options": [
+      "since",
+      "for",
+      "ago",
+      "during"
+    ],
+    "answer": "since",
+    "explanation": "在表示「從某個時間點開始」到現在為止的持續性動作或狀態時，常用現在完成式（haven't seen）加上 since + 時間點。since last week 表示「自從上週以來」。for 用於表示持續的時間長度。ago 用於表示過去的某個時間點。during 用於表示在某個時間段內。因此，since 是最恰當的用法。",
+    "id": "a69476c5-0ecb-4d6e-bc47-520acd1710c0",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After a long hike, the students were very ____ and thirsty.",
+    "options": [
+      "energetic",
+      "exhausted",
+      "excited",
+      "comfortable"
+    ],
+    "answer": "exhausted",
+    "explanation": "此題為單字題。題幹描述健行後，學生感到疲憊且口渴。exhausted (疲憊的) 最符合此情境。",
+    "id": "465a3cd4-e1bd-4b02-b266-3fd41e6e8873",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The teacher asked the students to ____ their homework by Friday.",
+    "options": [
+      "hand out",
+      "hand in",
+      "look for",
+      "put on"
+    ],
+    "answer": "hand in",
+    "explanation": "此題為片語題。題幹表示老師要求學生在週五前『繳交』作業。hand in (繳交) 是正確的片語。",
+    "id": "ae901b81-5ba3-4532-b6b0-ba8aa28b26b6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "She is good at ____ English, but she needs to practice speaking more.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "to read"
+    ],
+    "answer": "reading",
+    "explanation": "此題為文法題。介詞 (at) 後面通常接動名詞 (V-ing)。因此，reading 是正確的用法。",
+    "id": "d0f5019a-24e1-4177-b1e9-a2b15257db40",
+    "difficulty": "medium"
+  },
+  {
+    "question": "There are many old temples ____ the mountain.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "answer": "on",
+    "explanation": "此題為文法題。當指地點『在』山『上』時，介詞 'on' 是最恰當的。'in the mountain' 通常指山『裡面』，'at the mountain' 較少單獨使用，'for the mountain' 意思不符。",
+    "id": "cb53756a-688f-4a21-9349-05007ab13a26",
+    "difficulty": "medium"
+  },
+  {
+    "question": "He decided to ____ his dream of becoming a musician.",
+    "options": [
+      "postpone",
+      "achieve",
+      "abandon",
+      "ignore"
+    ],
+    "answer": "achieve",
+    "explanation": "此題為單字題。題幹描述他決定『實現』成為音樂家的夢想。achieve (實現) 是最符合語意的單字。",
+    "id": "ac58b5ff-e90f-4e4d-8fa4-36689fa1aa8a",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If it ____ tomorrow, we will stay at home.",
+    "options": [
+      "rains",
+      "rain",
+      "is raining",
+      "rained"
+    ],
+    "answer": "rains",
+    "explanation": "此題為文法題。這是第一條件句 (First Conditional)，表示未來可能發生的情況。句型為 If + 主詞 + V (現在簡單式), 主詞 + will + V (原形)。因此，'rains' 是正確的。",
+    "id": "c57288fc-6e32-445b-922c-fc80a0926a90",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The movie was so ____ that everyone started crying.",
+    "options": [
+      "hilarious",
+      "boring",
+      "exciting",
+      "touching"
+    ],
+    "answer": "touching",
+    "explanation": "此題為單字題。題幹描述電影『感人』到讓大家開始哭。touching (感人的) 是最符合此情境的形容詞。",
+    "id": "c76186c9-554a-4c21-89fb-98c899a5495c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I'm looking forward ____ my grandparents next week.",
+    "options": [
+      "to see",
+      "seeing",
+      "to seeing",
+      "seen"
+    ],
+    "answer": "to seeing",
+    "explanation": "此題為文法題。片語 'look forward to' 後面需要接動名詞 (V-ing)。所以，'to seeing' 是正確的用法。",
+    "id": "fb616250-c2a7-45be-83bf-3c2a6eeb4d96",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Could you please ____ the window? It's a bit cold in here.",
+    "options": [
+      "open",
+      "close",
+      "turn on",
+      "turn off"
+    ],
+    "answer": "close",
+    "explanation": "此題為片語題。題幹提到『有點冷』，所以需要『關上』窗戶。close the window (關窗戶) 是符合情境的選項。turn on/off 通常用於電器。",
+    "id": "b5859fec-b2c5-400a-a777-7867e481b820",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The weather today is very _______ . It's sunny and warm.",
+    "options": [
+      "terrible",
+      "gloomy",
+      "pleasant",
+      "stormy"
+    ],
+    "answer": "pleasant",
+    "explanation": "此題為單字題。題幹描述天氣晴朗溫暖，因此需要一個表示「愉快的、宜人的」的單字。pleasant 意為「令人愉快的、宜人的」，符合題意。terrible 意為「可怕的」，gloomy 意為「陰鬱的」，stormy 意為「暴風雨的」，皆不符合。",
+    "id": "1f8bfdfc-8501-4306-a76d-ca2f9b52fe99",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My sister always tries to _______ me up when I feel sad.",
+    "options": [
+      "cheer",
+      "look",
+      "get",
+      "take"
+    ],
+    "answer": "cheer",
+    "explanation": "此題為片語題。題幹意為「當我難過時，我姊姊總是試著讓我開心起來」。cheer up sb. 是一個固定片語，意為「使某人高興起來」。look up sb. 意為「拜訪某人」，get up 意為「起床」，take up 意為「從事、開始（一項嗜好或職業）」，皆不符合。",
+    "id": "a5040886-7b09-477a-8401-a18813b75d79",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Could you please _______ the window? It's too cold inside.",
+    "options": [
+      "open",
+      "close",
+      "turn",
+      "throw"
+    ],
+    "answer": "close",
+    "explanation": "此題為單字題。題幹表示「請把窗戶_______，因為裡面太冷了」。既然太冷，就應該把窗戶關上。close 意為「關閉」，符合題意。open 意為「打開」，turn 意為「轉動」，throw 意為「丟」，皆不符合。",
+    "id": "d04a03c6-f636-4c60-86ce-02272616d22f",
+    "difficulty": "medium"
+  },
+  {
+    "question": "She _______ to the library every Saturday to borrow some books.",
+    "options": [
+      "goes",
+      "went",
+      "going",
+      "go"
+    ],
+    "answer": "goes",
+    "explanation": "此題為文法題。題幹中的 \"every Saturday\" 表示一個習慣性的動作，應該使用現在簡單式。主詞 \"She\" 是第三人稱單數，所以動詞 \"go\" 需要加上 \"-es\"，變成 \"goes\"。",
+    "id": "cf60861d-39ee-48a3-9892-2cb26e026ff9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I can't believe he _______ such a delicious meal all by himself!",
+    "options": [
+      "made",
+      "make",
+      "makes",
+      "making"
+    ],
+    "answer": "made",
+    "explanation": "此題為文法題。題幹描述一個已經發生的令人驚訝的事情，故應使用過去式。動詞 \"make\" 的過去式是 \"made\"。",
+    "id": "752eee3c-c234-442f-812a-4c296fc71d4c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Don't _______ so much noise. The baby is sleeping.",
+    "options": [
+      "make",
+      "do",
+      "take",
+      "have"
+    ],
+    "answer": "make",
+    "explanation": "此題為片語題。題幹表示「不要製造這麼大的噪音，寶寶在睡覺」。make noise 是一個固定片語，意為「製造噪音」。do, take, have 搭配 noise 都不符合習慣用法。",
+    "id": "dbed67c0-f69a-422b-83dc-a70a16523e5d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If you _______ the bus, you will be late for school.",
+    "options": [
+      "miss",
+      "missed",
+      "missing",
+      "misses"
+    ],
+    "answer": "miss",
+    "explanation": "此題為文法題。此為一個假設語氣的複合句（If 條件句）。當 \"If\" 子句描述現在或未來的可能性時，通常使用現在簡單式。主詞 \"you\" 是第二人稱，所以動詞 \"miss\" 不加 \"-s\"。",
+    "id": "bd9d6e76-bfbd-4695-a665-d324eb7dc562",
+    "difficulty": "medium"
+  },
+  {
+    "question": "He promised _______ his homework before dinner.",
+    "options": [
+      "to finish",
+      "finishing",
+      "finish",
+      "finished"
+    ],
+    "answer": "to finish",
+    "explanation": "此題為文法題。動詞 \"promise\" 後面接不定詞 (to + V) 表示「答應做某事」。因此，應使用 \"to finish\"。",
+    "id": "8fca6977-c6c2-4af0-ae9c-e60cc90ad66c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The museum is _______ to the public from 9 AM to 5 PM.",
+    "options": [
+      "open",
+      "closed",
+      "closedly",
+      "opening"
+    ],
+    "answer": "open",
+    "explanation": "此題為單字題。題幹表示「博物館對公眾_______，時間是早上九點到下午五點」。這表示博物館在這個時間段內是開放的。open 意為「開放的」，符合題意。closed 意為「關閉的」，closedly 不是一個標準的英文單字，opening 意為「開放的（進行式）」，在這裡用 open 更為貼切。",
+    "id": "a35c7814-ddf7-4acc-88a3-089c4850ad5d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Taking the MRT is very _______ for people living in Taipei. It saves them a lot of time.",
+    "options": [
+      "convenient",
+      "dangerous",
+      "expensive",
+      "honest"
+    ],
+    "answer": "convenient",
+    "explanation": "本題考查國中重要單字「方便的 (convenient)」。句意為：「搭乘捷運對住在台北的人來說非常方便，為他們節省了許多時間。」選項解析：(A) 方便的；(B) 危險的；(C) 昂貴的；(D) 誠實的。根據後句「節省時間」可知，選 (A) 最符合句意。",
+    "id": "1aa0dbb8-e405-4361-a80b-5de78e8c3513",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The heavy rain lasted for three days and caused a terrible _______ in the town. Many houses were underwater.",
+    "options": [
+      "flood",
+      "breeze",
+      "earthquake",
+      "market"
+    ],
+    "answer": "flood",
+    "explanation": "本題考查大自然與災害相關單字「洪水 (flood)」。句意為：「大雨持續了三天，在鎮上造成了可怕的洪水。許多房子都淹水了。」選項解析：(A) 洪水；(B) 微風；(C) 地震；(D) 市場。由關鍵字「heavy rain (大雨)」與「underwater (在水下/淹水)」可知，正確答案為 (A)。",
+    "id": "04e9aad7-b7dd-47d6-9f80-9f8af6073f19",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My sister is a _______ girl. She always says 'please' and 'thank you' to everyone.",
+    "options": [
+      "polite",
+      "lazy",
+      "shy",
+      "scared"
+    ],
+    "answer": "polite",
+    "explanation": "本題考查形容人性格特質的單字「有禮貌的 (polite)」。句意為：「我妹妹是一個有禮貌的女孩。她總是對每個人說『請』和『謝謝』。」選項解析：(A) 有禮貌的；(B) 懶惰的；(C) 害羞的；(D) 害怕的。由常說請和謝謝可知其行為有禮貌，故選 (A)。",
+    "id": "503061a5-8288-4db7-b2c5-d6d3d64b72ad",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Since our parents are working late tonight, we have to _______ our little brother at home.",
+    "options": [
+      "look after",
+      "look for",
+      "give up",
+      "hear from"
+    ],
+    "answer": "look after",
+    "explanation": "本題考查常用片語「照顧 (look after)」。句意為：「因為我們父母今晚工作到很晚，我們必須在家照顧弟弟。」選項解析：(A) 照顧 (look after，等同於 take care of)；(B) 尋找；(C) 放棄；(D) 收到...的信/消息。依句意父母不在家，需照顧年幼的弟弟，故選 (A)。",
+    "id": "08d98b31-1beb-4373-b6c8-2b97d9e97e83",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Many students in our school decided to _______ the charity run to help poor children.",
+    "options": [
+      "take part in",
+      "grow up",
+      "take off",
+      "run away"
+    ],
+    "answer": "take part in",
+    "explanation": "本題考查常用動詞片語「參加 (take part in)」。句意為：「我們學校的許多學生決定參加這項慈善路跑，以幫助貧困孩童。」選項解析：(A) 參加 (等同於 join 或 participate in)；(B) 長大；(C) 起飛/脫掉；(D) 逃跑。依句意「參加路跑」，故選 (A)。",
+    "id": "3397f361-2277-439f-8cb2-f7300e21b2fe",
+    "difficulty": "medium"
+  },
+  {
+    "question": "It is getting dark. Please _______ the lights so we can read the books clearly.",
+    "options": [
+      "turn on",
+      "turn off",
+      "put on",
+      "take off"
+    ],
+    "answer": "turn on",
+    "explanation": "本題考查日常動詞片語「打開（電器）(turn on)」。句意為：「天色漸漸變暗了。請打開燈，這樣我們才能看清楚書本。」選項解析：(A) 打開（電器/燈）；(B) 關掉（電器/燈）；(C) 穿上（衣物）；(D) 脫掉（衣物）。因為天黑了且要看書，故必須「開燈」，選 (A)。",
+    "id": "433d4425-f311-48bf-9a9c-46a907a3ad9c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The beautiful song _______ by a famous Taiwanese singer ten years ago.",
+    "options": [
+      "was written",
+      "wrote",
+      "is writing",
+      "has written"
+    ],
+    "answer": "was written",
+    "explanation": "本題考查國中文法「過去簡單式的被動語態 (was/were + p.p.)」。句意為：「這首優美的歌是十年前由一位台灣知名歌手寫的。」主詞是「這首優美的歌 (The beautiful song)」，與動詞「寫 (write)」之間為被動關係（歌是被寫的），且時間副詞為「十年前 (ten years ago)」，故應使用過去式被動語態，選 (A) was written。",
+    "id": "fe317cd5-79be-4679-a451-dbcce8d802fa",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The young man _______ lives next door to us is a very friendly English teacher.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": "who",
+    "explanation": "本題考查國中文法「關係代名詞 (who)」引導的形容詞子句。句意為：「住在我們隔壁的那個年輕人是一位非常友善的英文老師。」先行詞為「人 (The young man)」，在關係子句中擔任主詞角色（後面直接接動詞 lives），故應選關係代名詞主格 (A) who。",
+    "id": "8ae6027a-0c29-4919-a634-5f2f2703b908",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If it _______ tomorrow, we will go on a picnic in the park near our school.",
+    "options": [
+      "is fine",
+      "will be fine",
+      "fine",
+      "was fine"
+    ],
+    "answer": "is fine",
+    "explanation": "本題考查國中文法「if 引導的條件副詞子句中，用現在代替未來」。句意為：「如果明天天氣好，我們就去學校附近的公園野餐。」在由 if 引導表示「如果」的條件副詞子句中，即使事情發生在未來（明天 tomorrow），子句動詞也必須用現在簡單式來代替未來式，而主要子句則維持未來式 (will go)。主詞 it 為單數，現在式 be 動詞用 is，故選 (A)。",
+    "id": "0dd121a6-8fb2-40c1-a269-b4048954fdb6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My father enjoys _______ movies in his free time because it helps him relax.",
+    "options": [
+      "watching",
+      "to watch",
+      "watch",
+      "watched"
+    ],
+    "answer": "watching",
+    "explanation": "本題考查國中文法「及物動詞後接動名詞 (V-ing) 作為受詞」。句意為：「我父親有空時喜歡看電影，因為這能幫他放鬆。」在英文中，動詞 enjoy (享受/喜愛) 後方若要接另一個動詞作其受詞，該動詞必須使用動名詞形式。故選 (A) watching。",
+    "id": "67fb2c09-8218-4035-8027-77d94529bc3c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "We need to buy some fresh ______ for dinner tonight, like cabbage and carrots.",
+    "options": [
+      "machines",
+      "vegetables",
+      "presents",
+      "tickets"
+    ],
+    "answer": "vegetables",
+    "explanation": "本題測試基礎單字。cabbage（高麗菜）與 carrots（紅蘿蔔）皆屬於蔬菜類，因此最符合句意的選項是 vegetables（蔬菜）。其他選項：machines（機器）、presents（禮物）、tickets（票券）皆不符合句意。",
+    "id": "1cf9aa4a-99c8-4a57-9f4c-91483738ae23",
+    "difficulty": "medium"
+  },
+  {
+    "question": "It is important to ______ your teeth at least twice a day to keep them healthy.",
+    "options": [
+      "brush",
+      "break",
+      "paint",
+      "catch"
+    ],
+    "answer": "brush",
+    "explanation": "本題測試動詞單字。句意為「一天至少……牙齒兩次以保持健康是很重要的」。與「牙齒（teeth）」搭配的最合適動詞為 brush（刷）。其他選項：break（打破/折斷）、paint（粉刷/畫畫）、catch（接住/接球）皆不符合語意。",
+    "id": "c844e8f4-a6dd-441d-af53-b2cda9d78215",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The weather is getting cold outside. Please ______ your jacket before going out.",
+    "options": [
+      "take off",
+      "put on",
+      "turn on",
+      "wake up"
+    ],
+    "answer": "put on",
+    "explanation": "本題測試衣物相關的動詞片語。句意為「外面天氣變冷了。出門前請『穿上』你的外套」。put on 意為「穿上」，符合句意。其他選項：take off（脫下）、turn on（打開電器）、wake up（醒來）皆不符合語意。",
+    "id": "e6b38e5d-bf86-44dc-b431-e8563667366f",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Jerry was late for school this morning because he forgot to set his alarm and didn't ______ on time.",
+    "options": [
+      "get up",
+      "give up",
+      "grow up",
+      "hurry up"
+    ],
+    "answer": "get up",
+    "explanation": "本題測試日常生活動詞片語。句意為「Jerry 今天早上上學遲到了，因為他忘記設鬧鐘，沒有準時『起床』」。get up 意為「起床」，最符合句意。其他選項：give up（放棄）、grow up（成長/長大）、hurry up（趕快）不符合上下文語意。",
+    "id": "c8932e4e-6509-4093-9373-f95e229c3e58",
+    "difficulty": "medium"
+  },
+  {
+    "question": "This beautiful song ______ by Jay Chou many years ago, but it is still very popular now.",
+    "options": [
+      "wrote",
+      "was written",
+      "writes",
+      "is writing"
+    ],
+    "answer": "was written",
+    "explanation": "本題測試被動語態與時態。主詞為 song（歌曲），與動詞 write（寫）的關係是被動的（歌曲是被寫的），故需用「be 動詞 + 過去分詞（V-p.p.）」結構。再者，句尾有時間副詞 many years ago（許多年前），表示過去發生的事實，因此 be 動詞應使用過去式單數 was。答案為 was written。",
+    "id": "a00b96ec-46e5-41ce-bd1f-f915b008d4b7",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The boy ______ is standing next to the door is my cousin, Kevin.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "what"
+    ],
+    "answer": "who",
+    "explanation": "本題測試關係代名詞（形容詞子句）。先行詞為 The boy（男孩），是「人」，且在關係子句中擔任主格（後面直接接動詞 is standing），因此關係代名詞應使用 who（或 that）。which 用於先行詞為物，whose 為所有格，what 不能當關係代名詞引導形容詞子句。",
+    "id": "23dcf6ee-4fb9-46b6-85cf-d35c594cc44b",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My brother enjoys ______ basketball with his friends at the park on weekends.",
+    "options": [
+      "to play",
+      "played",
+      "playing",
+      "plays"
+    ],
+    "answer": "playing",
+    "explanation": "本題測試動詞後接動名詞（V-ing）的用法。在英文中，動詞 enjoy（享受/喜愛）後面若要接另一個動詞，必須使用動名詞形式（V-ing），即 enjoy + V-ing，故選 playing。",
+    "id": "88f4717e-c91f-4945-b40c-58ae8b02b4c2",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The new supermarket is very _______ because it is near our house and open 24 hours a day.",
+    "options": [
+      "convenient",
+      "expensive",
+      "dangerous",
+      "heavy"
+    ],
+    "answer": "convenient",
+    "explanation": "本題測試基礎單字。句意為「這家新超市非常方便，因為它在我們家附近且24小時營業。」(A) convenient（方便的）最符合語意；(B) expensive（昂貴的）；(C) dangerous（危險的）；(D) heavy（重的）。",
+    "id": "2476bbde-ebb3-4b7d-a523-2d0f80502c3e",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Cooking for fifty people was a great _______ for Amy. She learned a lot from it.",
+    "options": [
+      "excuse",
+      "experience",
+      "package",
+      "stomach"
+    ],
+    "answer": "experience",
+    "explanation": "本題測試名詞單字。句意為「為五十個人做飯對Amy來說是一個很棒的經驗。她從中學到了很多。」(A) excuse（藉口）；(B) experience（經驗、體驗）符合語意；(C) package（包裹）；(D) stomach（胃）。",
+    "id": "21cac407-8583-464a-bfac-9f8387a11fcc",
+    "difficulty": "medium"
+  },
+  {
+    "question": "We should wear sunglasses to _______ our eyes when the sun is very bright.",
+    "options": [
+      "protect",
+      "destroy",
+      "waste",
+      "follow"
+    ],
+    "answer": "protect",
+    "explanation": "本題測試動詞單字。句意為「當太陽很大時，我們應該戴太陽眼鏡來保護我們的眼睛。」(A) protect（保護）符合語意；(B) destroy（破壞）；(C) waste（浪費）；(D) follow（跟隨）。",
+    "id": "72832087-cdb6-475f-b64c-e5483701e71a",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Playing the piano is difficult, but please don't _______ and keep practicing.",
+    "options": [
+      "give up",
+      "turn on",
+      "look for",
+      "run away"
+    ],
+    "answer": "give up",
+    "explanation": "本題測試動詞片語。句意為「彈鋼琴很困難，但請不要放棄，並繼續練習。」(A) give up（放棄）符合語意；(B) turn on（打開電源）；(C) look for（尋找）；(D) run away（逃跑）。",
+    "id": "b0a1f891-398c-4619-800d-1a2f2c1d1e3e",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My parents are not at home today, so I have to _______ my little sister.",
+    "options": [
+      "fall in love with",
+      "make fun of",
+      "take care of",
+      "get in touch with"
+    ],
+    "answer": "take care of",
+    "explanation": "本題測試動詞片語。句意為「我父母今天不在家，所以我必須照顧我的妹妹。」(A) fall in love with（愛上）；(B) make fun of（取笑）；(C) take care of（照顧）符合語意；(D) get in touch with（與...聯絡）。",
+    "id": "aa06875d-97a1-4f95-8a32-d40a23758efd",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Because of the heavy rain, we decided to _______ the baseball game until next weekend.",
+    "options": [
+      "put off",
+      "take off",
+      "wake up",
+      "grow up"
+    ],
+    "answer": "put off",
+    "explanation": "本題測試動詞片語。句意為「因為下大雨，我們決定把棒球比賽延期到下週末。」(A) put off（延期）符合語意；(B) take off（脫掉、起飛）；(C) wake up（醒來）；(D) grow up（成長）。",
+    "id": "fc037e0e-c517-41c5-b34c-2195ba9f3104",
+    "difficulty": "medium"
+  },
+  {
+    "question": "This famous book _______ by J.K. Rowling many years ago.",
+    "options": [
+      "wrote",
+      "was written",
+      "writes",
+      "has written"
+    ],
+    "answer": "was written",
+    "explanation": "本題測試被動語態。主詞 This famous book（這本著名的書）與動詞 write（寫）的關係為被動（書是被寫的），且時間副詞為 many years ago（多年前），因此必須使用過去被動式「was/were + 過去分詞 (p.p.)」，故選 (B) was written。",
+    "id": "8773cc4d-dc46-401d-9ca9-328cab75a260",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If it _______ tomorrow, we will go on a picnic in the park.",
+    "options": [
+      "doesn't rain",
+      "won't rain",
+      "didn't rain",
+      "isn't raining"
+    ],
+    "answer": "doesn't rain",
+    "explanation": "本題測試條件副詞子句的時態。在 if 引導的條件子句中，若表示「未來」的事情，必須用「現在簡單式」代替「未來式」。主要子句為未來式 will go，因此 if 子句中的 it 搭配現在式否定助動詞 doesn't 加上原形動詞 rain，故選 (A) doesn't rain。",
+    "id": "de950697-1a61-4116-ac8d-c463c305abdf",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The girl _______ has long hair and big eyes is my classmate, Judy.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": "who",
+    "explanation": "本題測試關係代名詞。先行詞為 The girl（人），且關係代名詞在關係子句中擔任「主格」（後面直接接動詞 has），因此要使用關係代名詞 (A) who。(B) which 用於先行詞是事物時；(C) whose 是所有格；(D) whom 是受格。",
+    "id": "3e3dbbe8-28d7-4a02-b445-f62cb98e45fc",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Mr. Lin _______ in Kaohsiung for ten years, and he still lives there now.",
+    "options": [
+      "lived",
+      "has lived",
+      "lives",
+      "will live"
+    ],
+    "answer": "has lived",
+    "explanation": "本題測試現在完成式。後半句提到「他現在仍住在那裡 (he still lives there now)」，配合前面的時間副詞「for ten years（持續十年）」，表示從過去持續到現在的狀態，因此應該用現在完成式「have/has + p.p.」。主詞 Mr. Lin 為單數，故選 (B) has lived。",
+    "id": "6b87f894-7bc4-4cd7-8155-9fc19011d32c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The weather is very hot today, so why don't we go swimming in the public ________?",
+    "options": [
+      "library",
+      "playground",
+      "museum",
+      "pool"
+    ],
+    "answer": "pool",
+    "explanation": "本題測試基礎單字。句意為：「今天天氣非常熱，我們為什麼不去公共游泳池游泳呢？」選項解析：library（圖書館）、playground（遊樂場）、museum（博物館）、pool（泳池）。根據關鍵字 go swimming（去游泳），最合理的去處是 pool（泳池），故選 pool。",
+    "id": "2ac961f4-12ed-4885-a11d-e331627f7457",
+    "difficulty": "medium"
+  },
+  {
+    "question": "To protect our Earth, we should bring our own shopping bags and reduce the use of ________ ones.",
+    "options": [
+      "plastic",
+      "expensive",
+      "magic",
+      "modern"
+    ],
+    "answer": "plastic",
+    "explanation": "本題測試環保相關單字。句意為：「為了保護我們的地球，我們應該攜帶自己的購物袋，並減少使用塑膠袋。」選項解析：plastic（塑膠的）、expensive（昂貴的）、magic（神奇的）、modern（現代的）。「減少使用塑膠袋」符合保護地球的語境，故選 plastic。",
+    "id": "a92c2a74-df0a-4183-935b-63e44f6855e3",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Mr. Lin is a very ________ person; he always helps his neighbors and donates money to the poor.",
+    "options": [
+      "lazy",
+      "serious",
+      "generous",
+      "proud"
+    ],
+    "answer": "generous",
+    "explanation": "本題測試形容詞單字。句意為：「林先生是一個非常慷慨的人；他總是幫助鄰居並捐錢給窮人。」選項解析：lazy（懶惰的）、serious（嚴肅的/認真的）、generous（慷慨的/大方的）、proud（驕傲的）。由後方「捐錢給窮人（donates money to the poor）」可知林先生非常大方慷慨，故選 generous。",
+    "id": "4698633e-07cd-40ee-b0de-2e93184eeee9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If you don't know the meaning of this new English word, you can ________ in the dictionary.",
+    "options": [
+      "look it up",
+      "pick it up",
+      "take it off",
+      "put it on"
+    ],
+    "answer": "look it up",
+    "explanation": "本題測試常用動詞片語。句意為：「如果你不知道這個英文新單字的意思，你可以查字典。」選項解析：look it up（查閱/尋找資訊）、pick it up（撿起/接送）、take it off（脫掉）、put it on（穿上）。查字典中的單字要用 look up，當受格為代名詞 it 時須置於中間，故選 look it up。",
+    "id": "7d0ef860-52dd-4e3d-aa9a-75e7beb3514b",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The school bus is coming! We need to ________ quickly, or we will be late for school.",
+    "options": [
+      "get on",
+      "get off",
+      "show off",
+      "wake up"
+    ],
+    "answer": "get on",
+    "explanation": "本題測試交通相關片語。句意為：「校車來了！我們需要趕快上車，否則我們上學會遲到。」選項解析：get on（上車，指大型交通工具如公車、火車等）、get off（下車）、show off（炫耀）、wake up（醒來）。根據 context（校車來了），我們應該要「上車」，故選 get on。",
+    "id": "9441df25-7625-4298-b6d2-9671b7f97497",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Lucy decided to ________ smoking because she wants to have a healthier body.",
+    "options": [
+      "give up",
+      "look after",
+      "carry on",
+      "bring about"
+    ],
+    "answer": "give up",
+    "explanation": "本題測試日常重要片語。句意為：「露西決定戒菸，因為她想要有更健康的身體。」選項解析：give up（放棄/戒除）、look after（照顧）、carry on（繼續）、bring about（導致）。「戒菸」的英文是 give up smoking，後接 V-ing。故選 give up。",
+    "id": "ec18e71a-d7d2-415b-9f4c-01a8f4a5ce28",
+    "difficulty": "medium"
+  },
+  {
+    "question": "We ________ each other since we were in elementary school. We are best friends.",
+    "options": [
+      "knew",
+      "know",
+      "have known",
+      "will know"
+    ],
+    "answer": "have known",
+    "explanation": "本題測試現在完成式文法。句意為：「自從我們讀國小以來，我們就認識彼此了。我們是最好的朋友。」解題關鍵在於「since + 過去時間/過去式子句」，這表示動作從過去持續到現在，主要子句必須使用「現在完成式（have/has + p.p.）」。故選 have known。",
+    "id": "906bd38e-3558-410a-9ade-0c8e5460b7ac",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The garbage ________ by my brother every night before he goes to bed.",
+    "options": [
+      "takes out",
+      "is taken out",
+      "was taking out",
+      "has taken out"
+    ],
+    "answer": "is taken out",
+    "explanation": "本題測試被動語態文法。句意為：「垃圾每天晚上在他上床睡覺前會被我弟弟拿出去丟。」主詞是「The garbage（垃圾）」，垃圾是「被拿出去」，因此必須使用被動語態（be動詞 + p.p.）。再由「every night（每天晚上）」可知本句為現在簡單式，主詞為單數，故使用 is taken out。",
+    "id": "7f0b40b5-2090-444e-95d8-f166ce2155af",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The girl ________ is standing next to the door is my cousin, Amy.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "what"
+    ],
+    "answer": "who",
+    "explanation": "本題測試關係代名詞（關係子句）。句意為：「站在門旁邊的那個女孩是我的表妹，艾咪。」先行詞是「The girl（人）」，在關係子句中擔任主格（後面直接接動詞 is standing），因此必須使用關係代名詞 who。故選 who。",
+    "id": "db6cf75d-8589-4cab-8576-91725428c26d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If it ________ tomorrow, we will stay at home and play video games instead of going out.",
+    "options": [
+      "rains",
+      "will rain",
+      "rained",
+      "is raining"
+    ],
+    "answer": "rains",
+    "explanation": "本題測試條件副詞子句的時態。句意為：「如果明天明天下雨，我們就會留在家裡玩電動，而不出去了。」在 if 引導的條件副詞子句中，若表示「未來」的情況，必須「用現在式代替未來式」。主句雖然是 will stay（未來式），但 if 子句的主詞 it 為第三人稱單數，動詞需用現在式單數，故選 rains。",
+    "id": "4ef9da07-38c3-424e-8b45-e7db317f442f",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Doing exercise every day is a ________ habit that can help us stay strong and live longer.",
+    "options": [
+      "healthy",
+      "dangerous",
+      "expensive",
+      "boring"
+    ],
+    "answer": "healthy",
+    "explanation": "本題測試基礎單字。句意為：「每天運動是一個『健康的』習慣，可以幫助我們保持強壯並活得更久。」根據前後文，「保持強壯、活得更久」是正面特質，故選 healthy（健康的）。其他選項：dangerous（危險的）、expensive（昂貴的）、boring（無聊的）皆不符合語意。",
+    "id": "0706a48e-5a0f-452f-aa6f-72ffcabceb43",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Although the train was very ________, Linda still found a seat near the window.",
+    "options": [
+      "crowded",
+      "quiet",
+      "cheap",
+      "hungry"
+    ],
+    "answer": "crowded",
+    "explanation": "本題測試基礎單字。句意為：「雖然這班火車非常『擁擠』，但 Linda 仍然在窗戶旁邊找到了一個座位。」Although（雖然）引導讓步子句，表示前後語意有對比。後半句提到「找到座位」，對比前面應該是車上人很多、很「擁擠的」（crowded）。其他選項：quiet（安靜的）、cheap（便宜的）、hungry（飢餓的）均不符合上下文邏輯。",
+    "id": "218da782-879a-44f5-8505-5dcde610d449",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Because of the heavy rain, the baseball game was put off until next ________.",
+    "options": [
+      "week",
+      "weather",
+      "season",
+      "ground"
+    ],
+    "answer": "week",
+    "explanation": "本題測試基礎單字。句意為：「因為大雨的關係，棒球比賽被延期到下個『星期』。」put off 意為延期，until next week（直到下週）是常見的時間表達。其他選項：weather（天氣）、season（季節）、ground（地面）在語意上皆不合理。",
+    "id": "ba67d288-b53e-466d-9b58-4fc997c2ca28",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Since our parents are busy working today, we have to look ________ our baby sister at home.",
+    "options": [
+      "after",
+      "for",
+      "like",
+      "out"
+    ],
+    "answer": "after",
+    "explanation": "本題測試動詞片語。句意為：「因為我們的父母今天忙著工作，我們必須在家照顧我們的嬰兒妹妹。」片語 look after 意為「照顧」，相當於 take care of。其他片語：look for（尋找）、look like（看起來像）、look out（小心/往外看）皆不符合句意。",
+    "id": "811ce9fc-0940-4d4e-95b2-553a35fa3408",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Learning English is not easy, but you should not give ________ easily. Keep trying!",
+    "options": [
+      "up",
+      "in",
+      "away",
+      "off"
+    ],
+    "answer": "up",
+    "explanation": "本題測試動詞片語。句意為：「學習英文並不容易，但是你不應該輕易『放棄』。繼續努力！」give up 為國中階段必背的重要片語，意為「放棄」。其他選項：give in（讓步/屈服）、give away（贈送/洩露）、give off（散發出香味/熱氣等）皆不符合句意。",
+    "id": "c3b602ee-33a5-4ea7-bd01-5edf9b3dcc0d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "It is getting cold outside. You should put ________ your coat before you go out.",
+    "options": [
+      "on",
+      "off",
+      "away",
+      "down"
+    ],
+    "answer": "on",
+    "explanation": "本題測試動詞片語。句意為：「外面天氣變冷了。你出門前應該『穿上』你的大衣。」put on 意為「穿上（衣服、鞋子）」或「戴上（帽子、眼鏡）」。其他選項：put off（延期）、put away（收好/收拾）、put down（放下/寫下）皆與衣物穿戴無關。",
+    "id": "5b0e4a2c-380b-4b6b-8249-6648610774be",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The trash on the playground ________ by the students every afternoon.",
+    "options": [
+      "is cleaned",
+      "cleaned",
+      "was cleaning",
+      "will clean"
+    ],
+    "answer": "is cleaned",
+    "explanation": "本題測試被動語態文法。主詞 The trash（垃圾）是無生命的事物，無法自己做出「清理（clean）」的動作，因此必須使用被動語態（be動詞 + 過去分詞 V-pp）。垃圾為不可數名詞，視為單數；配合句尾的 every afternoon（每天下午）表示這是一種常態性的習慣，應用現在簡單式，故選 is cleaned。",
+    "id": "2d233a58-e0b4-4a21-b4a8-0fdff8a32454",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The girl ________ is wearing a pink dress is my cousin, Emily.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": "who",
+    "explanation": "本題測試關係代名詞。先行詞為 The girl（人），且在關係子句中擔任主格（後面直接接動詞 is wearing），因此關係代名詞要使用 who（或 that）。which 用於修飾事物，whose 為所有格，whom 為受格，故選 who 為最佳答案。",
+    "id": "83d389f2-49c7-4340-8634-e163adb7f6d8",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My brother enjoys ________ comic books in his free time because it makes him laugh.",
+    "options": [
+      "reading",
+      "to read",
+      "reads",
+      "read"
+    ],
+    "answer": "reading",
+    "explanation": "本題測試動詞後接動名詞的用法。在英文中，及物動詞 enjoy（喜愛/享受）後面如果遇到另一個動詞時，該動詞必須轉化為「動名詞（V-ing）」形式作為 enjoy 的受格。因此答案選 reading。",
+    "id": "a80a6766-5e4c-4e81-9a07-874645d2448d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The new supermarket is very _______ because it is close to the MRT station and open 24 hours a day.",
+    "options": [
+      "expensive",
+      "convenient",
+      "crowded",
+      "dangerous"
+    ],
+    "answer": "convenient",
+    "explanation": "本題考單字。句意為「這家新超市非常方便，因為它靠近捷運站而且一天24小時營業。」選項：(A) 昂貴的 (B) 方便的 (C) 擁擠的 (D) 危險的。依句意應選擇最符合情境的 (B)。",
+    "id": "a7863cd0-a08d-4de5-9be6-853b9c348765",
+    "difficulty": "medium"
+  },
+  {
+    "question": "We should learn from our _______ so that we won't make the same wrong choices again.",
+    "options": [
+      "mistakes",
+      "hobbies",
+      "secrets",
+      "presents"
+    ],
+    "answer": "mistakes",
+    "explanation": "本題考單字。句意為「我們應該從錯誤中學習，這樣我們才不會再次做出相同的錯誤選擇。」選項：(A) 錯誤 (B) 嗜好 (C) 秘密 (D) 禮物。依據「不重複犯錯」之語意，應選擇 (A)。",
+    "id": "b914ccd3-c880-48a2-9fd4-fd5850a7b1fb",
+    "difficulty": "medium"
+  },
+  {
+    "question": "To _______ our planet, we should reduce plastic waste and recycle as much as possible.",
+    "options": [
+      "protect",
+      "celebrate",
+      "improve",
+      "prepare"
+    ],
+    "answer": "protect",
+    "explanation": "本題考單字。句意為「為了保護我們的地球，我們應該減少塑膠垃圾並盡可能回收。」選項：(A) 保護 (B) 慶祝 (C) 改善/進步 (D) 準備。依句意「減少塑膠與回收」是為了「保護」地球，故選 (A)。",
+    "id": "17a2d505-ee54-44bd-8fff-992dee3ccee9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Please remember to _______ the lights before you leave the classroom to save electricity.",
+    "options": [
+      "turn off",
+      "turn on",
+      "look for",
+      "give up"
+    ],
+    "answer": "turn off",
+    "explanation": "本題考動詞片語。句意為「離開教室前請記得關燈以節省用電。」選項：(A) 關掉（電器） (B) 打開（電器） (C) 尋找 (D) 放棄。根據後文「節省用電 (save electricity)」之提示，應選 (A)。",
+    "id": "586d366b-7329-4971-9d17-c7a9a61b73fa",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Jimmy is an outgoing boy, so he can easily _______ his new classmates at school.",
+    "options": [
+      "get along with",
+      "take care of",
+      "run out of",
+      "look forward to"
+    ],
+    "answer": "get along with",
+    "explanation": "本題考動詞片語。句意為「吉米是個外向的男孩，所以他能輕易地和學校的新同學相處融洽。」選項：(A) 與...相處融洽 (B) 照顧 (C) 用盡/耗盡 (D) 期待。根據「外向 (outgoing)」的特質，應選 (A)。",
+    "id": "48352649-cfa4-421c-9ceb-8995cc259833",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If you don't want to feel tired tomorrow morning, you shouldn't _______ late tonight.",
+    "options": [
+      "stay up",
+      "put off",
+      "take off",
+      "wake up"
+    ],
+    "answer": "stay up",
+    "explanation": "本題考動詞片語。句意為「如果你明天早上不想感到疲倦，你今晚就不應該熬夜。」選項：(A) 熬夜 (B) 延期 (C) 起飛/脫掉 (D) 醒來。stay up late 為「熬夜」之意，符合上下文語意，故選 (A)。",
+    "id": "673942df-0c2b-4d6d-8069-519a2ee1b044",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The famous novel _______ by J.K. Rowling many years ago and is still loved by many people today.",
+    "options": [
+      "wrote",
+      "was written",
+      "has written",
+      "is writing"
+    ],
+    "answer": "was written",
+    "explanation": "本題考被動語態與時態。句意為「這本著名的小說在許多年前由J.K.羅琳所著...」主詞「小說 (novel)」與動詞「寫 (write)」之間為被動關係（小說是被寫的），且時間點為 many years ago（過去式），故須使用過去簡單式的被動語態「was/were + 過去分詞 (V-ed)」，故選 (B)。",
+    "id": "c25b4d65-538e-4ceb-927d-66c5ce237936",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The teacher is talking to the girl _______ won the first prize in the English speaking contest yesterday.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": "who",
+    "explanation": "本題考關係代名詞。句意為「老師正在和昨天在英文演講比賽中獲得第一名的那個女孩說話。」先行詞為「the girl（人）」，且關係代名詞在後面的關係子句中擔任主詞（後面直接接動詞 won），因此應選關係代名詞主格 (A) who。",
+    "id": "c953d117-f416-4387-bc0f-7cda9ed99185",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If it _______ tomorrow, we will have a picnic in the park near our house.",
+    "options": [
+      "won't rain",
+      "doesn't rain",
+      "didn't rain",
+      "isn't raining"
+    ],
+    "answer": "doesn't rain",
+    "explanation": "本題考條件句時態。句意為「如果明天不下雨，我們就會在我們家附近的公園野餐。」在 if 引導的條件子句中，若表示「未來」的事情，必須用「現在簡單式」代替「未來式」。主詞為單數 it，否定助動詞要用 doesn't，故選 (B)。",
+    "id": "d3d225ef-3b05-48ba-be21-e9740a8855b3",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Miss Lin has taught English in this school _______ she moved to Taipei in 2018.",
+    "options": [
+      "for",
+      "since",
+      "before",
+      "when"
+    ],
+    "answer": "since",
+    "explanation": "本題考時態與介係詞/連接詞。句意為「自從林老師在2018年搬到台北以來，她就在這所學校教英文。」主要子句「has taught」為現在完成式，配合後方表示「過去特定時間點/事件」的子句（she moved...），應使用連接詞 since（自從...以來），故選 (B)。",
+    "id": "6cd4b194-835b-4898-b5f0-23d463f4f4ed",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The air in the mountains is very _______, so many people like to go hiking there on weekends.",
+    "options": [
+      "fresh",
+      "dirty",
+      "heavy",
+      "noisy"
+    ],
+    "answer": "fresh",
+    "explanation": "本題考查形容詞「新鮮的」。句意為：「山上的空氣非常新鮮，所以許多人喜歡在週末去那裡健行。」根據前後文意，山上的空氣應該是好的，故選 fresh 最合適。其餘選項：dirty（髒的）、heavy（重的）、noisy（吵雜的）皆不符合語意。",
+    "id": "3a6eaf3a-ea05-483c-bde3-11cb40822b02",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My sister is a very _______ person. She always plans everything carefully before she starts doing it.",
+    "options": [
+      "careless",
+      "organized",
+      "humorous",
+      "lazy"
+    ],
+    "answer": "organized",
+    "explanation": "本題考查形容詞「有條理的、有組織的」。根據後半句「在開始做事情之前，她總是會仔細地計劃好一切」，可知姐姐是一個做事很有條理的人，故選 organized。其餘選項：careless（粗心的）、humorous（幽默的）、lazy（懶惰的）皆不符合句意。",
+    "id": "a07d642a-3486-4af4-8de3-5812a28d3400",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Since Kevin lost his job last month, he has been looking for a new _______ to support his family.",
+    "options": [
+      "mistake",
+      "habit",
+      "opportunity",
+      "hobby"
+    ],
+    "answer": "opportunity",
+    "explanation": "本題考查名詞「機會」。句意為：「自從凱文上個月失業後，他一直在尋找新的機會來養家糊口。」此處指找工作或發展的「機會」，故選 opportunity 最合適。其餘選項：mistake（錯誤）、habit（習慣）、hobby（嗜好）皆不符合上下文意。",
+    "id": "8df93c12-5042-4846-8c81-4fda5dbd43c6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "You should not _______ your dream just because it is difficult. Keep trying and you will make it.",
+    "options": [
+      "give up",
+      "look for",
+      "run out of",
+      "get along with"
+    ],
+    "answer": "give up",
+    "explanation": "本題考查動詞片語「放棄」。句意為：「你不應該只因為夢想很困難就放棄。繼續嘗試，你一定會成功的。」give up 為「放棄」之意，符合鼓勵對方的語境。其餘選項：look for（尋找）、run out of（用盡）、get along with（與...相處）皆不符合句意。",
+    "id": "6fc0b251-1425-4d34-bce0-2f9a359fba06",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Remember to _______ the lights when you leave the classroom to save energy.",
+    "options": [
+      "turn off",
+      "turn up",
+      "put on",
+      "take off"
+    ],
+    "answer": "turn off",
+    "explanation": "本題考查動詞片語「關掉（電器、水源等）」。句意為：「離開教室時，記得關燈以節省能源。」關閉電器類產品要用 turn off。其餘選項：turn up（調大音量/出現）、put on（穿上）、take off（脫下/起飛）皆不符合題意。",
+    "id": "5567cba9-ea68-409e-9b9c-58081211df23",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The delicious chocolate cake _______ by my mother for my birthday party yesterday.",
+    "options": [
+      "was made",
+      "is making",
+      "has made",
+      "makes"
+    ],
+    "answer": "was made",
+    "explanation": "本題考查被動語態與過去時態。主詞為「美味的巧克力蛋糕（The delicious chocolate cake）」，與動詞 make（製作）之間為被動關係（蛋糕是被製作的），故需使用被動語態「be動詞 + 過去分詞 (V-ed)」。再根據句尾的時間副詞 yesterday（昨天），be動詞應使用過去式單數 was，故選 was made。",
+    "id": "21e07e29-e229-4020-acfb-1327735ce964",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Lisa _______ to Japan three times. She loves the food and culture there very much.",
+    "options": [
+      "has been",
+      "has gone",
+      "goes",
+      "was going"
+    ],
+    "answer": "has been",
+    "explanation": "本題考查現在完成式的經驗用法。句意為：「麗莎去過日本三次。她非常喜歡那裡的食物和文化。」「have/has been to + 地點」表示「曾去過某地（現在已經回來了）」，符合表示經驗的語境；而「have/has gone to」則表示「已經去了某地（目前人還在那裡或在途中）」，不符此處語境，故選 has been。",
+    "id": "88338b7d-c2d3-476c-8512-5b7151967ab6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The boy _______ is standing next to the teacher is my cousin, Ted.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": "who",
+    "explanation": "本題考查關係代名詞。先行詞為 The boy（人），在後方的關係子句「_______ is standing next to the teacher」中擔任主格（後面直接接動詞 is），因此關係代名詞必須使用 who。which 用於先行詞為事物時；whose 為所有格；whom 為受格，皆不符合此處語法。",
+    "id": "d680a8cb-ac47-405f-9b24-c67cc365ab8f",
+    "difficulty": "medium"
+  },
+  {
+    "question": "_______ the weather was terrible, the soccer game was not canceled.",
+    "options": [
+      "Although",
+      "Because",
+      "But",
+      "If"
+    ],
+    "answer": "Although",
+    "explanation": "本題考查引導讓步副詞子句的連接詞。句意為：「雖然天氣很糟糕，但足球賽並沒有被取消。」前後兩句語意具有轉折、對比關係，故選表示「雖然」的連接詞 Although。注意英文語法中 Although（雖然）與 but（但是）不可同時出現在同一個句子中。其餘選項：Because（因為）、But（但是，為對等連接詞不可放在句首引導子句）、If（如果）皆不符合語意或語法。",
+    "id": "5cd2b6b7-7918-4dff-81c2-ecc300523190",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Online shopping is very _____ because we can buy things anytime without leaving our homes.",
+    "options": [
+      "convenient",
+      "expensive",
+      "dangerous",
+      "difficult"
+    ],
+    "answer": "convenient",
+    "explanation": "本題測試國中基本單字。句意為：「網購非常『方便』，因為我們隨時可以買東西而不必出門。」convenient 意為「方便的」，符合句意。其他選項：expensive（昂貴的）、dangerous（危險的）、difficult（困難的）。",
+    "id": "2bbbd977-4b07-4e8e-b706-dc779d7e334d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Drinking enough water every day is a good _____ that helps keep us healthy.",
+    "options": [
+      "habit",
+      "dream",
+      "excuse",
+      "mistake"
+    ],
+    "answer": "habit",
+    "explanation": "本題測試重要名詞單字。句意為：「每天喝足夠的水是一個有助於保持健康的好『習慣』。」habit 意為「習慣」，最符合上下文。其他選項：dream（夢想）、excuse（藉口）、mistake（錯誤）。",
+    "id": "d40d626e-051e-431e-ad49-c005760df86f",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Mrs. Lin was very _____ of her daughter when she won first prize in the English speaking contest.",
+    "options": [
+      "proud",
+      "scared",
+      "tired",
+      "worried"
+    ],
+    "answer": "proud",
+    "explanation": "本題測試形容詞單字與固定搭配。句意為：「當女兒在英語演講比賽中獲得第一名時，林太太為她感到非常『驕傲』。」be proud of 意為「為……感到驕傲」，符合語境。其他選項：scared（害怕的）、tired（疲倦的）、worried（擔心的）。",
+    "id": "cda1a845-e6d4-4297-a20b-354f5cac1b2f",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Since our parents are busy working today, we have to _____ our little brother at home.",
+    "options": [
+      "look for",
+      "take care of",
+      "give up",
+      "get up"
+    ],
+    "answer": "take care of",
+    "explanation": "本題測試常用動詞片語。句意為：「因為父母今天忙著工作，我們必須在家『照顧』弟弟。」take care of 意為「照顧」，符合語意。其他選項：look for（尋找）、give up（放棄）、get up（起床）。",
+    "id": "23e11acc-b1af-4b81-850e-ec83667325d2",
+    "difficulty": "medium"
+  },
+  {
+    "question": "You shouldn't _____ late playing video games, or you will feel sleepy in class tomorrow.",
+    "options": [
+      "stay up",
+      "wake up",
+      "grow up",
+      "hurry up"
+    ],
+    "answer": "stay up",
+    "explanation": "本題測試常見動詞片語。句意為：「你不應該『熬夜』玩電動，否則明天上課會想睡覺。」stay up late 意為「熬夜」，符合語境。其他選項：wake up（醒來）、grow up（長大）、hurry up（快一點）。",
+    "id": "5e65237a-79f4-4581-a7bb-bf38f2ed9ff3",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My sister _____ to Tainan three times, but she still wants to visit it again this winter.",
+    "options": [
+      "has been",
+      "was",
+      "will go",
+      "is going"
+    ],
+    "answer": "has been",
+    "explanation": "本題測試國中重點文法「現在完成式」。句意為：「我姐姐去過台南三次，但她今年冬天還是想再去一次。」表示「去過某地（經驗）」要用 has/have been to。而 has/have gone to 則表示「去了某地（目前人不在這）」，故選 has been。",
+    "id": "53e3ccf7-a116-4418-b015-e4259af04c76",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The famous novel *Harry Potter* _____ by J.K. Rowling many years ago.",
+    "options": [
+      "was written",
+      "wrote",
+      "is writing",
+      "has written"
+    ],
+    "answer": "was written",
+    "explanation": "本題測試國中重點文法「被動語態」與「過去式」。主詞 The famous novel（小說）與動詞 write（寫）的關係是被動的，公式為「be動詞 + 過去分詞(p.p.)」。再加上句尾有過去時間 many years ago（許多年前），故使用過去式的被動語態 was written。",
+    "id": "b01df7c1-98e1-4f13-bca1-af0f002c137a",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The boy _____ is wearing a red T-shirt is my cousin, Kevin.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": "who",
+    "explanation": "本題測試國三重點文法「關係代名詞（形容詞子句）」。先行詞為「人」（The boy），且關係代名詞在關係子句中擔任主詞（後面接動詞 is wearing），因此要使用關係代名詞 who。which 用於修飾事物；whose 表所有格；whom 用作受格。",
+    "id": "db880f2e-2be0-4573-92fd-6fa1af3c3acc",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After practicing for months, Judy finally finished _____ the beautiful song on the piano.",
+    "options": [
+      "playing",
+      "to play",
+      "played",
+      "play"
+    ],
+    "answer": "playing",
+    "explanation": "本題測試國中常考文法「動名詞與不定詞的用法」。動詞 finish（完成）後接另一個動詞時，必須使用動名詞（V-ing）形式作為其受詞，因此正確答案為 playing。",
+    "id": "b77f74f8-4fe5-4d6f-993b-0f29afd5cb45",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The MRT is very popular in Taipei because it is _____ and fast for people to travel around.",
+    "options": [
+      "expensive",
+      "convenient",
+      "dangerous",
+      "heavy"
+    ],
+    "answer": "convenient",
+    "explanation": "本題測試基礎單字。句意為「捷運在台北非常受歡迎，因為對人們來說環遊城市既『方便』又快速。」選項：(A) 昂貴的、(B) 方便的、(C) 危險的、(D) 重的。根據語意，交通工具受歡迎是因為快速與「方便」，故選 (B)。",
+    "id": "bd028e70-a189-4cff-b74e-f71110befe28",
+    "difficulty": "medium"
+  },
+  {
+    "question": "We should wear masks in the hospital to _____ ourselves from getting sick.",
+    "options": [
+      "change",
+      "forget",
+      "protect",
+      "worry"
+    ],
+    "answer": "protect",
+    "explanation": "本題測試基礎單字與搭配詞。句意為「我們在醫院應該戴口罩，以『保護』我們自己免於生病。」動詞搭配「protect... from...」表示「保護...免於...」。其他選項：(A) 改變、(B) 忘記、(D) 擔心，皆不符合語意，故選 (C)。",
+    "id": "078fad43-bb9d-43d5-b350-50e7db08985e",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Sitting on the sofa and watching TV is very _____ after a long day of work.",
+    "options": [
+      "comfortable",
+      "boring",
+      "serious",
+      "scared"
+    ],
+    "answer": "comfortable",
+    "explanation": "本題測試形容詞單字。句意為「在辛苦工作一整天後，坐在沙發上看電視是非常『舒服的』。」選項：(A) 舒服的、(B) 無聊的、(C) 嚴肅的/嚴重的、(D) 感到害怕的。依常理，工作後放鬆是舒服的，故選 (A)。",
+    "id": "7b5ad4c2-8026-4f0e-aa5f-7ebf95b9615c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The math problem is very difficult, but Jimmy didn't _____ and finally worked it out.",
+    "options": [
+      "put on",
+      "wake up",
+      "take care",
+      "give up"
+    ],
+    "answer": "give up",
+    "explanation": "本題測試常用動詞片語。句意為「這道數學題非常難，但 Jimmy 沒有『放棄』，最後終於算出來了。」選項：(A) 穿上/戴上、(B) 醒來、(C) 小心/照顧、(D) 放棄。依上下文邏輯，遇到困難沒有放棄才最終解決問題，故選 (D)。",
+    "id": "64434f2a-b736-4412-8147-476170d73f42",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Parents always do their best to _____ their children and keep them safe.",
+    "options": [
+      "take care of",
+      "laugh at",
+      "run away from",
+      "agree with"
+    ],
+    "answer": "take care of",
+    "explanation": "本題測試動詞片語。句意為「父母總是盡全力『照顧』他們的孩童並保持他們的安全。」選項：(A) 照顧、(B) 嘲笑、(C) 逃離、(D) 同意。依語意，父母保護孩子安全是透過「照顧」，故選 (A)。",
+    "id": "e6c1c45c-bd91-4ab1-9bdb-7a40cbe41d3c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Don't _____ too late tonight, or you will be tired in class tomorrow.",
+    "options": [
+      "get up",
+      "stay up",
+      "hurry up",
+      "grow up"
+    ],
+    "answer": "stay up",
+    "explanation": "本題測試與日常生活相關的動詞片語。句意為「今晚不要『熬夜』太晚，否則你明天上課會很累。」選項：(A) 起床、(B) 熬夜、(C) 快點、(D) 長大。依後文「明天上課會很累」推測，前文是勸導不要熬夜，故選 (B)。",
+    "id": "e769b5f4-1d34-4cc0-99ca-30230c496593",
+    "difficulty": "medium"
+  },
+  {
+    "question": "This beautiful picture _____ by my sister two years ago.",
+    "options": [
+      "painted",
+      "paints",
+      "was painted",
+      "is painting"
+    ],
+    "answer": "was painted",
+    "explanation": "本題測試過去簡單式的被動語態（國三文法重點）。主詞「這幅美麗的畫 (This beautiful picture)」與動詞「畫 (paint)」之間為被動關係（畫是被畫的），且句尾有明確的過去時間副詞「兩年前 (two years ago)」，因此必須使用「過去式被動語態」（was/were + 過去分詞）。單數主詞搭配 was painted，故選 (C)。",
+    "id": "37b04993-cf58-48d2-a7da-890fd268b25c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Tina is not at home now. She _____ to the supermarket to buy some milk.",
+    "options": [
+      "has been",
+      "has gone",
+      "goes",
+      "went"
+    ],
+    "answer": "has gone",
+    "explanation": "本題測試現在完成式「have/has gone to」與「have/has been to」的語意區別。前句提到「Tina 現在不在家」，表示她「已經去了」超市且人目前還在那裡（或在途中），故要用「has gone to」。若用「has been to」則表示「曾經去過」，人現在已經回來了，與前句衝突。故選 (B)。",
+    "id": "a36ac150-5425-4965-b24c-d34fe2655fcc",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My grandfather enjoys _____ in the park after dinner every evening.",
+    "options": [
+      "walk",
+      "to walk",
+      "walked",
+      "walking"
+    ],
+    "answer": "walking",
+    "explanation": "本題測試國中必考動詞後接「動名詞 (V-ing)」作為受詞的文法。在英文中，動詞 enjoy (享受、喜愛) 後面若要再接另一個動作，該動作必須轉換為動名詞（V-ing）形式。故選 (D) walking。",
+    "id": "8d652346-3976-41c4-9885-600c0d273fab",
+    "difficulty": "medium"
+  }
+]

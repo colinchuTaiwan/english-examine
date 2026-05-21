@@ -1,0 +1,1289 @@
+[
+  {
+    "question": "The ancient ruins were a ______ reminder of the civilization that once thrived there.",
+    "options": [
+      "tangible",
+      "vivid",
+      "frequent",
+      "superficial"
+    ],
+    "answer": "tangible",
+    "explanation": "此題為單字題。tangible 意為\"有形的，實質的\"，在這裡指古老的遺跡是能被觸摸、看得見的，是過去文明曾經興盛的實質證明。vivid 意為\"生動的，鮮明的\"，frequent 意為\"頻繁的\"，superficial 意為\"表面的，膚淺的\"，皆不符合句意。",
+    "id": "4885d787-3eb8-4d37-8bf8-33516999d8d9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Despite the setbacks, the team remained ______ and determined to achieve their goal.",
+    "options": [
+      "undaunted",
+      "reluctant",
+      "hesitant",
+      "discouraged"
+    ],
+    "answer": "undaunted",
+    "explanation": "此題為單字題。undaunted 意為\"不畏的，不屈不撓的\"，符合句意，表示儘管有挫折，團隊依然沒有被嚇倒，並決心達成目標。reluctant 意為\"不情願的\"，hesitant 意為\"猶豫不決的\"，discouraged 意為\"灰心的\"，都與句意相反。",
+    "id": "d85223a6-2849-4b5b-95c7-f7ee07b8597e",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The scientist's groundbreaking research has the potential to ______ the field of medicine.",
+    "options": [
+      "revolutionize",
+      "stabilize",
+      "diminish",
+      "complicate"
+    ],
+    "answer": "revolutionize",
+    "explanation": "此題為單字題。revolutionize 意為\"革新，徹底改變\"，符合句意，表示科學家的突破性研究有潛力徹底改變醫學領域。stabilize 意為\"穩定\"，diminish 意為\"減少\"，complicate 意為\"使複雜化\"，皆不符合句意。",
+    "id": "43533723-94b7-4ba9-86bd-a3ce81a68473",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After a long day at work, all she wanted was to ______ and relax on the couch.",
+    "options": [
+      "kick back",
+      "put up with",
+      "carry on",
+      "set off"
+    ],
+    "answer": "kick back",
+    "explanation": "此題為片語題。kick back 是一個非正式片語，意為\"放鬆，休息\"，符合句意，表示工作一天後，她只想放鬆地窩在沙發上。put up with 意為\"忍受\"，carry on 意為\"繼續\"，set off 意為\"啟程，引發\"，皆不符合句意。",
+    "id": "29f7fb80-26e5-4818-831f-0be9cbdf6c0c",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The company decided to ______ the new product launch until the market conditions improved.",
+    "options": [
+      "put off",
+      "take over",
+      "look after",
+      "give up"
+    ],
+    "answer": "put off",
+    "explanation": "此題為片語題。put off 意為\"延遲，推遲\"，符合句意，表示公司決定延遲新產品的上市，直到市場狀況改善。take over 意為\"接管\"，look after 意為\"照顧\"，give up 意為\"放棄\"，皆不符合句意。",
+    "id": "77600921-0f0b-4432-97f9-d17d38be3122",
+    "difficulty": "hard"
+  },
+  {
+    "question": "He managed to ______ his fear of heights and climbed to the top of the mountain.",
+    "options": [
+      "get over",
+      "run into",
+      "come across",
+      "make up for"
+    ],
+    "answer": "get over",
+    "explanation": "此題為片語題。get over 意為\"克服，戰勝\"，符合句意，表示他設法克服了對高度的恐懼並爬到了山頂。run into 意為\"偶然遇見\"，come across 意為\"偶然發現\"，make up for 意為\"彌補\"，皆不符合句意。",
+    "id": "cebf9e48-8317-41a6-8bf8-130a7a318c1a",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If you had studied harder, you ______ the exam.",
+    "options": [
+      "would have passed",
+      "will pass",
+      "would pass",
+      "passed"
+    ],
+    "answer": "would have passed",
+    "explanation": "此題為文法題，考驗「與過去事實相反的假設語氣」。句首的 \"If you had studied harder\" 表示過去沒有努力讀書，這是與過去事實相反的假設。因此，主要子句應使用 \"would have + 過去分詞\" 的形式，表示過去本來會發生的結果。故選 \"would have passed\"。",
+    "id": "1136aaf2-5b62-4870-acc6-0a49d48a4997",
+    "difficulty": "hard"
+  },
+  {
+    "question": "She is ______ than her brother.",
+    "options": [
+      "more intelligent",
+      "most intelligent",
+      "intelligent",
+      "as intelligent"
+    ],
+    "answer": "more intelligent",
+    "explanation": "此題為文法題，考驗比較級的用法。句中的 \"than\" 表明這是比較級的句子，用於比較兩者之間的差異。因此，形容詞 \"intelligent\" 應該使用比較級 \"more intelligent\"。 \"most intelligent\" 是最高級，\"intelligent\" 是原級，\"as intelligent\" 是同級比較，都不符合句意。",
+    "id": "1415a6c4-4ae7-4ed5-a712-05fcf2e897ce",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The book, ______ was written by a famous author, became a bestseller.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "answer": "which",
+    "explanation": "此題為文法題，考驗關係代名詞的用法。關係代名詞 \"which\" 用來指代事物 \"The book\"，並且在此句中作主詞，引導非限制性關係子句 \"which was written by a famous author\"，補充說明這本書的作者。\"who\" 用於人，\"whose\" 表示所有格，\"whom\" 用於人且作受詞，皆不適用於此句。",
+    "id": "0c28ecf7-b7b4-4fed-9ec6-4ba294278bfb",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I have lived in Taipei ______ five years.",
+    "options": [
+      "for",
+      "since",
+      "at",
+      "in"
+    ],
+    "answer": "for",
+    "explanation": "此題為文法題，考驗時間介詞的用法。\"for\" 後面接一段時間的長度（如 five years），表示持續多久。\"since\" 後面接一個時間點（如 2019, last Monday），表示從那時開始。\"at\" 和 \"in\" 通常用於表示時間點或較短的時期。因此，表示持續了五年，應使用 \"for\"。",
+    "id": "99f87b67-28ed-4336-b08e-8f645503e517",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The ancient ruins were a testament to the ______ civilization that once flourished in this region.",
+    "options": [
+      "ephemeral",
+      "magnificent",
+      "mundane",
+      "fragile"
+    ],
+    "answer": "magnificent",
+    "explanation": "此題考驗單字辨識。題幹描述「古老的遺跡」是「曾經在這個地區興盛的文明」的見證。空格處應填入形容詞，描述一個正面且宏偉的文明。ephemeral 意為短暫的，mundane 意為平凡的，fragile 意為脆弱的，皆不符語境。magnificent 意為壯麗的、宏偉的，最符合語境，意指曾經在此興盛的壯麗文明。",
+    "id": "75c3bda8-efba-4f62-88b4-dad083531948",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Despite facing numerous setbacks, she remained ______ and refused to give up on her dreams.",
+    "options": [
+      "resolute",
+      "hesitant",
+      "indifferent",
+      "complacent"
+    ],
+    "answer": "resolute",
+    "explanation": "此題考驗單字辨識。題幹描述「儘管面臨無數挫折」，她「保持 ______ 並且拒絕放棄夢想」。空格處應填入形容詞，描述一種堅持不懈的態度。hesitant 意為猶豫不決的，indifferent 意為漠不關心的，complacent 意為自滿的，皆與「拒絕放棄」的語境矛盾。resolute 意為堅決的、果斷的，最能表達在困難面前不屈不撓的精神。",
+    "id": "0a282d56-9872-4d6f-8424-49e9513c4c9d",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The scientist proposed a new theory that could ______ our understanding of the universe.",
+    "options": [
+      "revolutionize",
+      "deteriorate",
+      "stagnate",
+      "diminish"
+    ],
+    "answer": "revolutionize",
+    "explanation": "此題考驗單字辨識。題幹描述「科學家提出了一個新理論」，這個理論「可能 ______ 我們對宇宙的理解」。空格處應填入動詞，描述新理論對現有理解的影響。deteriorate 意為惡化，stagnate 意為停滯不前，diminish 意為減少、減弱，這些選項都無法表達一個新理論對科學認知的重大改變。revolutionize 意為使徹底改變、帶來革命性的變革，最符合題意，表示新理論將會對我們理解宇宙的方式產生顛覆性的影響。",
+    "id": "a1c65325-3687-4609-85fa-6244b430c945",
+    "difficulty": "hard"
+  },
+  {
+    "question": "He finally decided to ______ to his parents' request after much persuasion.",
+    "options": [
+      "yield",
+      "resist",
+      "decline",
+      "refuse"
+    ],
+    "answer": "yield",
+    "explanation": "此題考驗片語/動詞辨識。題幹描述「經過多次說服後，他終於決定 ______ 父母的要求」。空格處應填入動詞，表示同意或讓步。resist 意為抵抗，decline 意為拒絕，refuse 意為拒絕，這些選項都表示不接受。yield 意為讓步、屈服，符合「經過說服後」的語境，表示最終同意了父母的要求。",
+    "id": "8389ce0e-0f9e-40f5-b0e2-f95486970d10",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The company is looking to ______ its market share in the coming year.",
+    "options": [
+      "expand",
+      "contract",
+      "shrink",
+      "reduce"
+    ],
+    "answer": "expand",
+    "explanation": "此題考驗片語/動詞辨識。題幹描述「公司正尋求在來年 ______ 其市場份額」。空格處應填入動詞，表示對市場份額的期望。contract 意為收縮，shrink 意為收縮，reduce 意為減少，這些選項都表示市場份額的下降，與公司的發展目標不符。expand 意為擴大，符合公司希望增加其市場份額的意圖。",
+    "id": "d92b589a-d0a7-4ca1-8932-29503eac57d7",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Please ______ your thoughts on the proposal in writing by the end of the week.",
+    "options": [
+      "submit",
+      "withdraw",
+      "conceal",
+      "withhold"
+    ],
+    "answer": "submit",
+    "explanation": "此題考驗片語/動詞辨識。題幹要求「請在週末前以書面形式 ______ 你的想法」。空格處應填入動詞，表示提交或提出。withdraw 意為撤回，conceal 意為隱藏，withhold 意為扣留、不給，這些選項都不符合「提交想法」的要求。submit 意為提交、呈遞，最符合語境，表示將想法提交上去供審閱。",
+    "id": "4e90325f-0020-4bd1-b142-f49bff5d13c6",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If I had known about the traffic jam, I ______ earlier.",
+    "options": [
+      "would have left",
+      "would leave",
+      "had left",
+      "left"
+    ],
+    "answer": "would have left",
+    "explanation": "此題考驗第三類條件句。題幹為一個與過去事實相反的假設（如果我知道有塞車），因此使用過去完成式 'had known'。為了表達與過去事實相反的結果，應使用 'would have + 過去分詞'。所以正確的結構是 'If I had known..., I would have left...'。",
+    "id": "2cee60d5-b792-4ac2-b4bb-a46eda18601e",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The museum ______ many valuable artifacts from ancient Egypt.",
+    "options": [
+      "houses",
+      "is housing",
+      "housed",
+      "has been housed"
+    ],
+    "answer": "houses",
+    "explanation": "此題考驗現在簡單式的使用時機。題幹描述博物館「______ 許多來自古埃及的珍貴文物」。這是一個描述博物館目前擁有的永久性狀態，因此使用現在簡單式 'houses' 是最恰當的。'is housing' 表示正在進行的動作，'housed' 是過去式，'has been housed' 是被動語態，表示被安置，都不是描述博物館本身所擁有的狀態。",
+    "id": "2615a83f-8f43-4895-a586-2828a7d4085d",
+    "difficulty": "hard"
+  },
+  {
+    "question": "He felt a sense of relief ______ he finally found his lost keys.",
+    "options": [
+      "after",
+      "before",
+      "while",
+      "since"
+    ],
+    "answer": "after",
+    "explanation": "此題考驗連接詞的使用。題幹描述「他終於找到他遺失的鑰匙 ______ ，感到一種解脫感」。空格處需要連接兩個事件，描述因果關係。'after' (在...之後) 表達了找到鑰匙這個動作發生後，伴隨而來的情緒，符合邏輯。'before' (在...之前) 表示相反的時間順序，'while' (當...時) 表示同時發生，'since' (自從) 通常用於表示時間的起點或原因，在此語境下不如 'after' 自然。",
+    "id": "bfaf7a91-de72-4abd-a0bb-e4a9092245d1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The teacher, ______ was known for her strictness, made sure every student completed their assignment.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": "who",
+    "explanation": "此題考驗關係代名詞。題幹描述「老師，______ 以嚴格著稱，確保每個學生都完成了他們的作業」。'______' 指代的是老師這個人，並且在關係子句中充當主詞（老師以嚴格著稱）。因此，應使用主格關係代名詞 'who'。'whom' 是受格，'whose' 是所有格，'which' 用於指代事物。",
+    "id": "e3124c67-dbeb-4fc8-a407-adc17c11b737",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After the earthquake, the government quickly mobilized its resources to ____ the victims.",
+    "options": [
+      "alleviate",
+      "amplify",
+      "activate",
+      "anticipate"
+    ],
+    "answer": "alleviate",
+    "explanation": "此題為單字題。alleviate 意為「減輕、緩解」，符合句意，表示政府動員資源以減輕災民的痛苦。amplify 意為「放大、增強」，activate 意為「啟動、激活」，anticipate 意為「預期、預見」，皆不符合句意。",
+    "id": "15858e7c-eaba-4819-b0d5-f34f6df0a647",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The company's success can be ____ to the hard work and dedication of its employees.",
+    "options": [
+      "ascribed",
+      "attributed",
+      "credited",
+      "referred"
+    ],
+    "answer": "attributed",
+    "explanation": "此題為單字題。attribute...to... 意為「將...歸因於...」，是常見的片語用法，符合句意，表示公司的成功歸功於員工的努力。ascribed...to... 意思類似，但 attributed...to... 在此更為常用。credited...to... 意為「將功勞歸給...」。referred...to... 意為「提及、參考」。",
+    "id": "338b33e4-d710-4f31-b754-08d1b5445af1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Her ____ for detail made her an excellent editor; she never missed a typo.",
+    "options": [
+      "meticulousness",
+      "ambiguity",
+      "negligence",
+      "superficiality"
+    ],
+    "answer": "meticulousness",
+    "explanation": "此題為單字題。meticulousness 意為「細緻、一絲不苟」，符合句意，描述她對細節的關注使她成為優秀的編輯。ambiguity 意為「模糊不清」，negligence 意為「疏忽」，superficiality 意為「膚淺」，皆與句意相反。",
+    "id": "94858016-0173-45d1-a164-4a62aa6f94cb",
+    "difficulty": "hard"
+  },
+  {
+    "question": "He decided to ____ the difficult conversation until he had all the facts.",
+    "options": [
+      "put off",
+      "put up",
+      "put on",
+      "put out"
+    ],
+    "answer": "put off",
+    "explanation": "此題為片語題。put off 意為「延期、推遲」，符合句意，表示他決定將困難的對話延後，直到他掌握所有事實。put up 意為「搭建、住宿」，put on 意為「穿上、上演」，put out 意為「撲滅、發行」。",
+    "id": "3cd8b721-4ea2-4939-b00f-e5f32093d2b1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The sudden downpour ____ our plans for a picnic in the park.",
+    "options": [
+      "put paid to",
+      "put a stop to",
+      "put an end to",
+      "put into effect"
+    ],
+    "answer": "put paid to",
+    "explanation": "此題為片語題。put paid to 意為「使...終止、破滅」，強調因某事導致另一事無法進行，符合句意，表示突如其來的傾盆大雨破壞了他們的野餐計畫。put a stop to 和 put an end to 意思相近，但 put paid to 更常用於形容計畫被意外因素打斷。put into effect 意為「實施」。",
+    "id": "dc92fd04-93d1-48c7-9cff-62869e4db941",
+    "difficulty": "hard"
+  },
+  {
+    "question": "It's important to ____ with the latest developments in technology.",
+    "options": [
+      "keep up",
+      "catch up",
+      "look up",
+      "give up"
+    ],
+    "answer": "keep up",
+    "explanation": "此題為片語題。keep up with 意為「跟上、跟得上」，符合句意，表示跟上科技的最新發展很重要。catch up 意為「追上、趕上」，look up 意為「查閱、尋找」，give up 意為「放棄」。",
+    "id": "aa441eed-c4a2-476d-86ab-77518e6258e9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "By the time we arrived at the airport, the plane ____.",
+    "options": [
+      "had already left",
+      "has already left",
+      "already left",
+      "was already leaving"
+    ],
+    "answer": "had already left",
+    "explanation": "此題為文法題。此句描述過去某個時間點（我們抵達機場）之前已經發生的動作（飛機起飛），需要使用過去完成式 (had + V-ed)。選項 B 是現在完成式，選項 C 是簡單過去式，選項 D 是過去進行式，皆不符合時態需求。",
+    "id": "737c15d1-5248-457d-82a5-f66ef7e1d6ba",
+    "difficulty": "hard"
+  },
+  {
+    "question": "She insists that her children ____ their homework before playing games.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answer": "finish",
+    "explanation": "此題為文法題。insist that 後面接的子句，如果主詞是第三人稱單數，動詞原形 (subjunctive mood) 通常被使用，尤其是在較為正式的語境中，表示堅持某事應該發生。在此句中， children 是複數，直接使用原形 finish 即可。",
+    "id": "7e8baf75-6adf-455d-aa4b-1b1ff91f222a",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If I ____ you, I would apologize immediately.",
+    "options": [
+      "were",
+      "was",
+      "am",
+      "be"
+    ],
+    "answer": "were",
+    "explanation": "此題為文法題。此句為虛擬語氣 (subjunctive mood)，用於表達與事實相反的假設。在第二人稱單數的 hypothetically 'if I were you' 結構中，無論主詞為何，動詞 'to be' 都使用 'were'。",
+    "id": "a059939c-1d41-4ae9-a27c-7d5ad68f521e",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The news of the company's bankruptcy was ____ unexpected.",
+    "options": [
+      "completely",
+      "completes",
+      "completion",
+      "complete"
+    ],
+    "answer": "completely",
+    "explanation": "此題為文法題。unexpected 是形容詞，而 completely 是副詞，用來修飾形容詞，符合句意，表示這個消息是「完全」出乎意料的。completes 是動詞，completion 是名詞，complete 是形容詞，皆無法修飾 unexpected。",
+    "id": "ec2ee7a5-202c-454e-a4ab-fe7f1b7f1a91",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The ancient ruins were so _______ that they inspired awe and wonder in visitors from all over the world.",
+    "options": [
+      "magnificent",
+      "mundane",
+      "fragile",
+      "hesitant"
+    ],
+    "answer": "magnificent",
+    "explanation": "本題考單字。題幹描述古老遺跡讓來自世界各地的遊客感到敬畏和驚奇。 (A) magnificent 意為「宏偉的、壯麗的」，符合語境。(B) mundane 意為「平凡的、乏味的」，與語境相反。(C) fragile 意為「脆弱的」，不適合形容遺跡。(D) hesitant 意為「猶豫不決的」，為形容詞，但語意不符。",
+    "id": "e0864f34-794a-46cb-a3b5-13e7ea07063f",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Despite facing numerous challenges, the team remained _______ and eventually achieved their goal.",
+    "options": [
+      "resilient",
+      "vulnerable",
+      "skeptical",
+      "passive"
+    ],
+    "answer": "resilient",
+    "explanation": "本題考單字。題幹描述團隊儘管面臨許多挑戰，但最終仍達成目標。 (A) resilient 意為「有彈性的、能迅速恢復的」，符合語境，表示團隊堅韌不拔。(B) vulnerable 意為「脆弱的」，與語境不符。(C) skeptical 意為「懷疑的」，表示不相信，與達成目標的結果矛盾。(D) passive 意為「被動的」，與積極達成目標的行動不符。",
+    "id": "a585b5c4-efcc-4609-8847-8cc9dbbe7ec4",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The scientist meticulously _______ the data to identify any potential patterns or anomalies.",
+    "options": [
+      "scrutinized",
+      "neglected",
+      "simplified",
+      "amplified"
+    ],
+    "answer": "scrutinized",
+    "explanation": "本題考單字。題幹描述科學家仔細地檢查數據以找出潛在的模式或異常。 (A) scrutinized 意為「仔細檢查、審查」，符合語境。(B) neglected 意為「忽略、疏忽」，與題意相反。(C) simplified 意為「簡化」，雖然可能發生，但「仔細檢查」是更精確的描述。(D) amplified 意為「放大」，通常用於聲音或電子訊號，語意不符。",
+    "id": "3e5ff277-1e49-4e10-9729-fe6709ed94af",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After years of hard work, she finally _______ her dream of opening her own bookstore.",
+    "options": [
+      "realized",
+      "put off",
+      "gave up on",
+      "turned down"
+    ],
+    "answer": "realized",
+    "explanation": "本題考片語 (動詞片語)。題幹描述經過多年努力，她終於實現了開店的夢想。 (A) realized 意為「實現」，是正確的動詞。(B) put off 意為「推遲」，與實現夢想相反。(C) gave up on 意為「放棄」，與實現夢想相反。(D) turned down 意為「拒絕」，語意不符。",
+    "id": "ac877e73-772b-45a4-b3b8-413d8730ec62",
+    "difficulty": "hard"
+  },
+  {
+    "question": "He decided to _______ the challenging project, hoping to gain valuable experience.",
+    "options": [
+      "take on",
+      "look after",
+      "run into",
+      "get over"
+    ],
+    "answer": "take on",
+    "explanation": "本題考片語 (動詞片語)。題幹描述他決定接受一個具挑戰性的專案，希望獲得寶貴經驗。 (A) take on 意為「承擔、接受」，符合語境。(B) look after 意為「照顧」，語意不符。(C) run into 意為「偶然遇見」，語意不符。(D) get over 意為「克服、恢復」，雖然專案有挑戰，但這裡的動作是「接受」而非「克服」。",
+    "id": "0852be19-4406-4eb7-a918-7bf4b14ac03a",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Please _______ the instructions carefully before assembling the furniture.",
+    "options": [
+      "go over",
+      "find out",
+      "break down",
+      "set up"
+    ],
+    "answer": "go over",
+    "explanation": "本題考片語 (動詞片語)。題幹要求在組裝家具前仔細閱讀說明。 (A) go over 意為「仔細檢查、審閱」，符合語境。(B) find out 意為「找出、發現」，通常是找出資訊，而非仔細閱讀。(C) break down 意為「分解、故障」，語意不符。(D) set up 意為「建立、組裝」，是組裝的動作，而非閱讀說明。",
+    "id": "d1f2a71b-e663-4afe-810b-1640a801ee6c",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If you _______ more attention to detail, your work would be much better.",
+    "options": [
+      "paid",
+      "pay",
+      "had paid",
+      "will pay"
+    ],
+    "answer": "paid",
+    "explanation": "本題考文法 (假設語氣)。題幹表示「如果你更注意細節，你的工作會更好」。這是一個與現在事實相反的假設，使用第二種假設語氣，即「If + 過去式, would + 原形動詞」。因此，過去式 paid 是正確的。",
+    "id": "3fa7fb6b-4473-4def-9768-40509c41e6bc",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The news _______ that the company will be expanding its operations next year.",
+    "options": [
+      "is that",
+      "are that",
+      "was that",
+      "were that"
+    ],
+    "answer": "is that",
+    "explanation": "本題考文法 (主詞與動詞一致)。題幹的主詞是「The news」。news 雖然結尾是 's'，但它是單數名詞，表示「消息」。因此，動詞應使用單數形式。這裡的「is that...」表示「消息是...」，表示正在發生的情況或確定的資訊。所以，is 應與單數主詞 news 搭配。",
+    "id": "bcd4f13b-1338-4432-99b8-2feac0a99048",
+    "difficulty": "hard"
+  },
+  {
+    "question": "She has been studying English _______ she was a child.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "while"
+    ],
+    "answer": "since",
+    "explanation": "本題考文法 (時間副詞)。題幹描述「她從小就開始學英文」。現在完成式（has been studying）常與 since 和 for 連用。Since 表示「自從某個過去的時間點起」，而 for 表示「一段時間」。這裡的「she was a child」是一個過去的時間點，所以應用 since。",
+    "id": "b52a2b17-cdf0-4179-b4e1-79ecc1ed178b",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I regret _______ that I couldn't attend the party last night.",
+    "options": [
+      "telling",
+      "to tell",
+      "told",
+      "having told"
+    ],
+    "answer": "telling",
+    "explanation": "本題考文法 (動名詞與不定詞的差異)。動詞 regret 後面接動名詞（-ing）表示「後悔做了某事」，接不定詞（to + 原形動詞）表示「遺憾將要做某事或將發生的事」。題幹表示「我很後悔（昨天）沒有去參加派對」，這表示一件已經發生的事情（未能參加），所以用 regret + 動名詞 (telling)，但在此處應該是 regret not telling，然而選項中沒有，故退而求其次，若表示「後悔說出這件事（沒能去）」，則用 telling。但更精確的說法應為 'I regret not being able to attend...'。若選項為 regret + that 句，則前面主詞為 I，後面用 regret。如果題幹是 I regret _______ the news that I couldn't attend，那 telling 是正確的。但題目是 I regret _______ that I couldn't attend，這表示後悔「說出」這件事。因此，telling 是最貼近語意的選項，表示後悔說出「我不能參加」這個消息。",
+    "id": "41841aa4-b5d4-4144-9434-a012c5cbafc5",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After the sudden ______ of the CEO, the company's stock price plummeted.",
+    "options": [
+      "resignation",
+      "appointment",
+      "agreement",
+      "extension"
+    ],
+    "answer": "resignation",
+    "explanation": "此題考驗單字辨識。題意為「在 CEO 突然______後，公司的股價暴跌。」resignation (辭職) 是最符合語境的詞，表示 CEO 的離職導致了股價下跌。appointment (任命) 意為指派，agreement (協議) 意為同意，extension (延長) 意為延期，皆不符題意。",
+    "id": "69bf2d5c-708c-4aab-b0de-33123881ef1e",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The old library was ______ to make way for a new shopping mall.",
+    "options": [
+      "demolished",
+      "constructed",
+      "renovated",
+      "preserved"
+    ],
+    "answer": "demolished",
+    "explanation": "此題考驗單字辨識。題意為「舊圖書館為了建造新的購物中心而被______。」demolished (拆除) 是指將建築物拆毀，符合題意。constructed (建造) 是指興建，renovated (翻新) 是指整修，preserved (保存) 是指保護，這些選項都與拆除舊建築的動作相反。",
+    "id": "ece13056-41c4-405d-ae6c-9afb838a6e8c",
+    "difficulty": "hard"
+  },
+  {
+    "question": "She felt a deep sense of ______ towards her mentor, who had guided her career.",
+    "options": [
+      "gratitude",
+      "indifference",
+      "frustration",
+      "anxiety"
+    ],
+    "answer": "gratitude",
+    "explanation": "此題考驗單字辨識。題意為「她對引導她職業生涯的導師感到深深的______。」gratitude (感激) 是指對別人幫助的感謝，符合題意。indifference (冷漠) 意為漠不關心，frustration (沮喪) 意為挫折感，anxiety (焦慮) 意為擔心，這些情緒都與導師的幫助不符。",
+    "id": "77a8d8ad-900b-4e6f-8f99-bad22fccdaca",
+    "difficulty": "hard"
+  },
+  {
+    "question": "We need to ______ to the new working regulations immediately.",
+    "options": [
+      "adapt ourselves",
+      "adapt to",
+      "adjust ourselves",
+      "adjust with"
+    ],
+    "answer": "adapt to",
+    "explanation": "此題考驗片語辨識。adapt to (適應) 是固定用法，表示使自己適應新的環境或情況。adapt ourselves to 雖然有 adapt to，但 ourselves 是多餘的。adjust ourselves (調整我們自己) 雖然也是調整，但通常接介詞 to 或 for，且語意上 adapt to 更貼切於「適應」新規定。adjust with (與…協調) 則不適用於此情境。",
+    "id": "ce00e6cd-285c-4f51-9476-86f8ab5e89ab",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Despite the difficulties, they managed to ______ in the end.",
+    "options": [
+      "pull through",
+      "give up",
+      "fall behind",
+      "run into"
+    ],
+    "answer": "pull through",
+    "explanation": "此題考驗片語辨識。pull through (度過難關，康復) 是指成功克服困難，符合題意。give up (放棄) 意為放棄，fall behind (落後) 意為進度落後，run into (遭遇，偶然遇見) 意為碰到，這些選項都與「成功度過」的語意相反。",
+    "id": "66dc2484-e638-4913-8aa8-b43c4897d6db",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The company decided to ______ the new product launch until next quarter.",
+    "options": [
+      "put off",
+      "carry out",
+      "take over",
+      "look for"
+    ],
+    "answer": "put off",
+    "explanation": "此題考驗片語辨識。put off (延期，推遲) 是指將某事延後，符合題意。carry out (執行) 意為完成，take over (接管) 意為接手，look for (尋找) 意為尋找，這些選項都與「延期」的動作不符。",
+    "id": "22788453-bb74-4482-80e8-a25ea3355c47",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If she ______ harder, she would have passed the exam.",
+    "options": [
+      "had studied",
+      "studied",
+      "would study",
+      "studies"
+    ],
+    "answer": "had studied",
+    "explanation": "此題考驗假設語氣。句型為「If + S + had + Vpp, S + would have + Vpp」，表示與過去事實相反的假設。題意為「如果她當時有更努力讀書，她就會通過考試了。」因此，where in the 'if' clause，應該使用過去完成式 had studied。",
+    "id": "37b4b906-a5f3-4380-8534-2e932af72377",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The committee recommended ______ the proposal for further discussion.",
+    "options": [
+      "tabling",
+      "to table",
+      "tabled",
+      "tables"
+    ],
+    "answer": "tabling",
+    "explanation": "此題考驗動名詞的使用。recommend 後面通常接動名詞 (gerund) 或名詞子句，表示建議做某事。在此句中，recommend 後面接 tabling (提出、擱置)，表示「建議提出這個提案以供進一步討論」。to table 是不定詞，不符合 recommend 的用法。tabled 是過去式，tables 是動詞第三人稱單數，皆不符。",
+    "id": "207fb826-f639-497f-8002-b7437b260f12",
+    "difficulty": "hard"
+  },
+  {
+    "question": "He is ______ intelligent and hardworking, ______ he is also very creative.",
+    "options": [
+      "not only... but also",
+      "either... or",
+      "neither... nor",
+      "not... but"
+    ],
+    "answer": "not only... but also",
+    "explanation": "此題考驗連接詞的搭配。not only... but also (不僅…而且…) 是平行連接詞，用來連接兩個並列的結構，表示兩者皆有。題意為「他不僅聰明勤奮，而且也很有創造力。」either... or (不是…就是…)、neither... nor (既不…也不…)、not... but (不是…而是…) 的搭配與語意皆不符。",
+    "id": "0b7b2a1d-c457-49b8-9cfa-4d8e2031a32e",
+    "difficulty": "hard"
+  },
+  {
+    "question": "By the time we arrived at the station, the train ______.",
+    "options": [
+      "had already left",
+      "already left",
+      "was already leaving",
+      "leaves"
+    ],
+    "answer": "had already left",
+    "explanation": "此題考驗過去完成式的使用。By the time + S + V (過去式)，表示「到…的時候」，後面若描述另一件過去發生的動作，且該動作發生在「到站」之前，應使用過去完成式 (had + Vpp)。題意為「到我們抵達車站的時候，火車已經開走了。」因此，開走這個動作發生在抵達車站之前，應使用過去完成式 had already left。",
+    "id": "8c39252c-57fa-4c04-8554-e07629ccc4d5",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Children and the elderly are particularly ______ to respiratory infections during the winter season.",
+    "options": [
+      "vulnerable",
+      "indispensable",
+      "flexible",
+      "prosperous"
+    ],
+    "answer": "vulnerable",
+    "explanation": "本題測試高中核心單字。題意為「兒童與老年人在冬季特別容易受到呼吸道感染。」vulnerable 意為「易受傷的、脆弱的」，常與介係詞 to 連用。其他選項：indispensable（不可或缺的）、flexible（有彈性的）、prosperous（繁榮的）。",
+    "id": "ae652ccf-5e4f-46b2-aef5-1251f173d635",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The newly built conference hall is spacious enough to ______ up to one thousand attendees at the same time.",
+    "options": [
+      "accommodate",
+      "accumulate",
+      "accelerate",
+      "accomplish"
+    ],
+    "answer": "accommodate",
+    "explanation": "本題測試動詞單字。題意為「這座新建的會議廳足夠寬敞，可以同時容納多達一千名與會者。」accommodate 意為「容納、提供空間」。其他選項：accumulate（累積）、accelerate（加速）、accomplish（完成）。",
+    "id": "979231d0-2b8c-450b-b68e-1551843fecc8",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The board of directors ______ approved the budget proposal, showing complete agreement among all members.",
+    "options": [
+      "unanimously",
+      "accidentally",
+      "superficially",
+      "deliberately"
+    ],
+    "answer": "unanimously",
+    "explanation": "本題測試副詞單字。題意為「董事會一致通過了預算提案，顯示出所有成員的完全同意。」unanimously 意為「一致地、全體無異議地」。其他選項：accidentally（意外地）、superficially（表面地）、deliberately（故意地）。",
+    "id": "cb3044ae-6708-4e9e-949b-1bdc18a2153c",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Many people tend to ______ their health ______ until they fall seriously ill and realize its true value.",
+    "options": [
+      "take ... for granted",
+      "make ... of themselves",
+      "keep ... in check",
+      "put ... into practice"
+    ],
+    "answer": "take ... for granted",
+    "explanation": "本題測試常用片語。題意為「許多人往往把健康視為理所當然，直到生了重病才意識到它的真正價值。」take... for granted 為固定片語，意為「視……為理所當然」。其他選項：make a fool of themselves（愚弄自己）、keep... in check（控制住）、put... into practice（付諸實行）。",
+    "id": "58035b83-827d-4576-bc3f-7448b1aa0b2e",
+    "difficulty": "hard"
+  },
+  {
+    "question": "With inflation rising rapidly, many low-income families are finding it increasingly difficult to ______.",
+    "options": [
+      "make ends meet",
+      "break the ice",
+      "call it a day",
+      "pay through the nose"
+    ],
+    "answer": "make ends meet",
+    "explanation": "本題測試慣用片語。題意為「隨著通貨膨脹迅速上升，許多低收入家庭發現維持生計變得越來越困難。」make ends meet 意為「收支平衡、勉強維持生計」。其他選項：break the ice（打破僵局）、call it a day（今日到此為止/收工）、pay through the nose（花冤枉錢、付出高昂代價）。",
+    "id": "52565ac2-74e8-4231-937a-ea79086764a9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To survive in this competitive market, technology companies must always innovatively ______ the latest trends.",
+    "options": [
+      "keep up with",
+      "look down upon",
+      "get along with",
+      "run out of"
+    ],
+    "answer": "keep up with",
+    "explanation": "本題測試動詞片語。題意為「為了在這個競爭激烈的市場中生存，科技公司必須隨時創新，以跟上最新的趨勢。」keep up with 意為「跟上（時代、消息等）」。其他選項：look down upon（輕視）、get along with（與……和睦相處）、run out of（用盡）。",
+    "id": "01eef898-33e1-43b6-8c0a-23874e640ccb",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The doctor strongly recommended that the patient ______ a thorough medical examination before starting the new treatment.",
+    "options": [
+      "undergo",
+      "undergoes",
+      "undergoing",
+      "underwent"
+    ],
+    "answer": "undergo",
+    "explanation": "本題測試重要文法「意志動詞的虛擬語氣」。在表示建議、命令、要求等動詞（如 recommend, suggest, insist, demand 等）後接的 that 子句中，動詞必須使用「(should) + 原形動詞」，且 should 經常被省略。因此，主詞 the patient 後面應使用原形動詞 undergo。",
+    "id": "fb14408a-9238-4d90-b9de-9adbfe3d4f44",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The majestic castle, ______ towering spires can be seen from miles away, is a popular tourist attraction in Germany.",
+    "options": [
+      "whose",
+      "which",
+      "where",
+      "that"
+    ],
+    "answer": "whose",
+    "explanation": "本題測試關係代名詞。空格後有名詞 towering spires（高聳的塔尖），且 castle（城堡）與 spires 具有所有格關係（城堡的塔尖），因此必須使用關係代名詞所有格 whose 來引導非限定關係子句，修飾先行詞 castle。",
+    "id": "16d5bce4-b679-4e8a-964b-10d495a518d9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "______ by the unexpected bad news, Julia burst into tears and left the room immediately.",
+    "options": [
+      "Shocked",
+      "Shocking",
+      "Having shocked",
+      "To shock"
+    ],
+    "answer": "Shocked",
+    "explanation": "本題測試分詞構句。原句完整版為 \"Because Julia was shocked by...\"。當副詞子句與主句主詞相同時（皆為 Julia），可省略連接詞與主詞，並將動詞改為分詞。由於 Julia 與 shock（使震驚）之間為被動關係（Julia「被震驚」），故省略 be 動詞 being 後，留下過去分詞 Shocked 作為句首分詞。",
+    "id": "ca8839ce-ffe5-45fa-8a43-9b6d706e7cd9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Not only ______ the scholarship, but she also secured an internship at a top-tier tech firm.",
+    "options": [
+      "did Emily win",
+      "Emily won",
+      "Emily had won",
+      "has Emily won"
+    ],
+    "answer": "did Emily win",
+    "explanation": "本題測試否定副詞置於句首的倒裝句結構。「Not only... but also...」句型中，當 Not only 置於句首時，前半句必須倒裝（助動詞 + 主詞 + 原形動詞）。由於後半句動詞 secured（獲得）為過去式，因此前半句也應使用過去式助動詞 did，搭配主詞 Emily 與原形動詞 win，故選 did Emily win。",
+    "id": "b4c7f6ef-314f-4dc3-8fea-e3cf9d015e13",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Due to the rapid expansion of the city, the natural habitat of several endangered species has been severely _____.",
+    "options": [
+      "nourished",
+      "compromised",
+      "flourished",
+      "cherished"
+    ],
+    "answer": "compromised",
+    "explanation": "本題測試高階單字。句意為：「由於城市快速擴張，幾種瀕危物種的自然棲息地受到了嚴重的破壞/危害。」各選項解析如下：(A) nourished（滋養、培育）、(B) compromised（在本句中意為「使受損、陷入危險、妥協」）、(C) flourished（繁榮、興旺）、(D) cherished（珍愛、珍惜）。根據語意，棲息地應是受到威脅或破壞，故 (B) 為正確答案。",
+    "id": "1cd0055d-1029-4650-aeab-d8960af1f21a",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To prevent the spread of rumors, the spokesperson made a clear and _____ statement to clarify the situation.",
+    "options": [
+      "ambiguous",
+      "superficial",
+      "unanimous",
+      "unambiguous"
+    ],
+    "answer": "unambiguous",
+    "explanation": "本題測試學測核心單字。句意為：「為了防止謠言散播，發言人發表了清晰且明確的聲明來澄清狀況。」各選項解析如下：(A) ambiguous（模稜兩可的、含糊的）、(B) superficial（表面的、膚淺的）、(C) unanimous（全體一致的）、(D) unambiguous（明確的、不含糊的）。發言人為了澄清，聲明必須是非常明確的，故選 (D)。",
+    "id": "f220a90b-1c9f-4d90-a63b-748673e89bee",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The scientists conducted a series of experiments to determine if the new drug could effectively _____ the symptoms of the disease.",
+    "options": [
+      "aggravate",
+      "alleviate",
+      "accumulate",
+      "accelerate"
+    ],
+    "answer": "alleviate",
+    "explanation": "本題測試重要動詞字彙。句意為：「科學家進行了一系列的實驗，以確定這種新藥是否能有效減輕該疾病的症狀。」各選項解析如下：(A) aggravate（惡化、加重）、(B) alleviate（減輕、緩和）、(C) accumulate（累積）、(D) accelerate（加速）。對於疾病的症狀，藥物的作用通常是「減輕、緩和」，故選 (B)。",
+    "id": "df9a26de-7323-4372-9bf3-279f3d4bdd8f",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After working under immense pressure for months, Lily finally decided to resign to avoid _____.",
+    "options": [
+      "burning out",
+      "breaking down",
+      "backing up",
+      "bringing about"
+    ],
+    "answer": "burning out",
+    "explanation": "本題測試常用片語。句意為：「在承受巨大壓力工作數月後，Lily 最終決定辭職以避免心力交瘁（精疲力竭）。」各選項解析如下：(A) burn out（因過勞而心力交瘁、耗盡精力）、(B) break down（機器故障、情緒崩潰）、(C) back up（支持、倒車、備份）、(D) bring about（導致、引起）。此處指因長期工作壓力導致的極度疲憊與耗竭，故選 (A)。",
+    "id": "0c4bfc2e-f46e-4746-a841-040fa3e00ed4",
+    "difficulty": "hard"
+  },
+  {
+    "question": "We shouldn't make a decision so quickly; we need to _____ the pros and cons of the proposal before moving forward.",
+    "options": [
+      "throw away",
+      "weigh up",
+      "take after",
+      "pass down"
+    ],
+    "answer": "weigh up",
+    "explanation": "本題測試常用動詞片語。句意為：「我們不應該這麼快做決定；在繼續前進之前，我們需要衡量這項提議的優缺點（利弊）。」各選項解析如下：(A) throw away（扔掉、浪費）、(B) weigh up（衡量、評估）、(C) take after（與...相像）、(D) pass down（傳承、流傳）。因為空格後有「pros and cons（優缺點）」，最適合的搭配是衡量、評估，故選 (B)。",
+    "id": "16fc17c9-5cd9-43bd-b5ea-4d99b1a2da7c",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The two countries managed to _____ their differences and sign a historic peace treaty after years of negotiation.",
+    "options": [
+      "iron out",
+      "carry out",
+      "turn down",
+      "give in"
+    ],
+    "answer": "iron out",
+    "explanation": "本題測試常用片語。句意為：「經過多年的談判，這兩個國家終於成功消除分歧，並簽署了一份歷史性的和平條約。」各選項解析如下：(A) iron out（解決、消除(分歧或困難)）、(B) carry out（執行、實行）、(C) turn down（拒絕、關小）、(D) give in（屈服、讓步）。空格後為 differences（分歧、差異），搭配 iron out differences 代表「消除分歧」，最符合語意，故選 (A)。",
+    "id": "23ab4b9f-3e7e-4158-847d-2353b5054eaf",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The government has urged citizens to stay indoors, lest they _____ by the severe storm.",
+    "options": [
+      "be injured",
+      "are injured",
+      "will be injured",
+      "should injure"
+    ],
+    "answer": "be injured",
+    "explanation": "本題測試高中經典文法「lest... (should) + V」。句意為：「政府已呼籲民眾待在室內，以免被強烈風暴傷害。」連接詞 lest 意為「免得、以免」，其所引導的副詞子句中，動詞必須使用「(should) + 原形動詞」，且 should 經常被省略。此處「民眾被風暴傷害」應使用被動語態「be injured」或「should be injured」，在省略 should 之後剩下原形 be 動詞，故選 (A)。",
+    "id": "a27b196a-cd14-4005-864f-edf2bc82260d",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Not until the fire started to spread _____ the danger they were in.",
+    "options": [
+      "the residents realized",
+      "did the residents realize",
+      "had the residents realized",
+      "the residents had realized"
+    ],
+    "answer": "did the residents realize",
+    "explanation": "本題測試否定副詞置於句首的倒裝句結構。句意為：「直到火勢開始蔓延，居民們才意識到他們所處的危險。」當「Not until + 時間副詞子句」置於句首時，主要子句必須改為倒裝句（助動詞/be動詞/情態助動詞 + 主詞 + 動詞）。因為從屬子句的動詞 started 是過去式，且主要子句動作與之幾乎同時發生，故主要子句亦使用過去式。倒裝時應借用助動詞 did，並將動詞 realize 還原，結構為「did the residents realize」，故選 (B)。",
+    "id": "e26189b9-08b8-432a-9373-c159aa3b338b",
+    "difficulty": "hard"
+  },
+  {
+    "question": "_____ by her teacher's encouraging words, Jane decided to apply for the prestigious art school.",
+    "options": [
+      "Inspiring",
+      "Inspired",
+      "To inspire",
+      "Having inspired"
+    ],
+    "answer": "Inspired",
+    "explanation": "本題測試分詞構句。句意為：「受到老師鼓勵的話語所啟發，Jane 決定申請那所著名的藝術學校。」本句主詞為 Jane，與動詞 inspire（啟發）的關係為被動（Jane 是「被啟發」的）。在分詞構句中，若主詞與動詞為被動關係，應使用過去分詞 (V-ed) 開頭。原句可還原為 \"Because Jane was inspired by...\"，簡化後保留過去分詞 Inspired，故選 (B)。",
+    "id": "48106207-0cda-48ee-a9bc-a025b2ee0aa7",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The company has established a new policy, the main purpose of _____ is to reduce plastic waste.",
+    "options": [
+      "what",
+      "that",
+      "which",
+      "it"
+    ],
+    "answer": "which",
+    "explanation": "本題測試關係代名詞的非限定用法（介係詞 + 關係代名詞）。句意為：「該公司制定了一項新政策，其主要目的是減少塑膠垃圾。」此處包含兩個子句，中間僅以逗號連接，後半句必須使用關係代名詞來指代先行詞 a new policy。當關係代名詞放在介係詞 of 後面且先行詞為事物時，必須使用 which。不可用 that（that 前面不能有介係詞或逗號）；不可用 what（what 前面不需有先行詞）；亦不可用 it，因為 it 是代名詞，無法起連接詞的作用來連接兩個子句。故選 (C)。",
+    "id": "aa9469d9-dba3-47e9-a481-76268e054b1f",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Despite facing numerous financial _____, the young entrepreneur managed to launch his startup successfully.",
+    "options": [
+      "obstacles",
+      "aspirations",
+      "guarantees",
+      "investments"
+    ],
+    "answer": "obstacles",
+    "explanation": "本題測試高階單字。空格處需要填入一個名詞，表示「儘管面臨許多財務上的『障礙/困難』，年輕的企業家還是成功創辦了他的新創公司」。(A) obstacles 障礙、阻礙（符合句意）；(B) aspirations 抱負、渴望；(C) guarantees 保證；(D) investments 投資。",
+    "id": "c4751722-521f-46dc-8a0e-c9e48cdcfb76",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The scientist's groundbreaking research on renewable energy has received _____ praise from experts worldwide.",
+    "options": [
+      "superficial",
+      "unanimous",
+      "vulnerable",
+      "ambiguous"
+    ],
+    "answer": "unanimous",
+    "explanation": "本題測試高階形容詞。句意為「這位科學家在再生能源方面的突破性研究，獲得了全球專家『一致的』讚譽」。(A) superficial 膚淺的；(B) unanimous 一致的、無異議的（符合句意）；(C) vulnerable 易受傷的、脆弱的；(D) ambiguous 模稜兩可的。",
+    "id": "5bd18b74-cdf9-46dc-9d69-e02f2ca812a4",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To prevent the disease from spreading, the government urged citizens to _____ from traveling to affected areas.",
+    "options": [
+      "refrain",
+      "depart",
+      "emerge",
+      "distinguish"
+    ],
+    "answer": "refrain",
+    "explanation": "本題測試動詞搭配介系詞的用法。refrain from + V-ing 表示「克制、避免做某事」。句意為「為了防止疾病傳播，政府呼籲公民『避免』前往受影響的地區」。(A) refrain 抑制、克制（正確）；(B) depart 出發、離開；(C) emerge 出現、浮現；(D) distinguish 區分、辨別。",
+    "id": "f57c7c33-968f-4767-b782-f35a8d0549f2",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The heavy rain did not _____ the enthusiastic fans, who waited outside the stadium for hours to see their favorite singer.",
+    "options": [
+      "dampen the spirits of",
+      "take advantage of",
+      "keep pace with",
+      "put an end to"
+    ],
+    "answer": "dampen the spirits of",
+    "explanation": "本題測試學測高頻片語。句意為「大雨並沒有『澆熄熱情粉絲的興致』，他們在體育場外等了數個小時，就為了見到他們最心愛的歌手」。(A) dampen the spirits of 澆熄...的熱情/使...掃興（符合句意）；(B) take advantage of 利用、佔便宜；(C) keep pace with 與...並駕齊驅、跟上步驟；(D) put an end to 結束、終止。",
+    "id": "12f37f84-851b-4797-be14-08f98a0c444f",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Since the CEO retired last month, the newly appointed director has _____ the responsibility of managing the entire company.",
+    "options": [
+      "taken over",
+      "brought about",
+      "passed away",
+      "turned down"
+    ],
+    "answer": "taken over",
+    "explanation": "本題測試動詞片語。句意為「自從執行長上個月退休後，新任命的處長已經『接管了』管理整家公司的責任」。(A) take over 接管、承接（符合句意）；(B) bring about 導致、引起；(C) pass away 去世；(D) turn down 拒絕、關小。",
+    "id": "e075bb9b-0ecd-4f47-aed5-99545ffcfab8",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The school library has decided to _____ its old rules and allow students to bring in drinks with caps.",
+    "options": [
+      "do away with",
+      "make up for",
+      "look down upon",
+      "get along with"
+    ],
+    "answer": "do away with",
+    "explanation": "本題測試三字動詞片語。句意為「學校圖書館決定『廢除』舊規定，允許學生攜帶有蓋的飲料入內」。(A) do away with 廢除、消除（符合句意）；(B) make up for 補償、彌補；(C) look down upon 瞧不起、輕視；(D) get along with 與...相處融洽。",
+    "id": "c3944e98-9baa-45db-ba2a-69f9ea6e809c",
+    "difficulty": "hard"
+  },
+  {
+    "question": "_____ by the breathtaking scenery of the canyon, the tourists stood in silence, admiring nature's masterpiece.",
+    "options": [
+      "Stunning",
+      "Stunned",
+      "Having stunned",
+      "To stun"
+    ],
+    "answer": "Stunned",
+    "explanation": "本題測試「分詞構句」。原句為 'Because the tourists were stunned by...'，當前後兩句主詞一致（皆為 the tourists）時，可省略連接詞與主詞，並將動詞改為分詞。由於遊客是「被（美景）震撼」，因此使用過去分詞 Stunned 表示被動與狀態。(A) 現在分詞表示主動；(B) 過去分詞表示被動（正確答案）；(C) 完成式主動分詞；(D) 不定詞表目的。",
+    "id": "e94c75b7-10b6-4ce5-a9d5-941221cc5d5b",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Had the rescue team arrived a few minutes earlier, they _____ the stranded hikers from the freezing blizzard.",
+    "options": [
+      "would save",
+      "saved",
+      "would have saved",
+      "will have saved"
+    ],
+    "answer": "would have saved",
+    "explanation": "本題測試「與過去事實相反的假設語氣倒裝」。句首 'Had the rescue team arrived...' 是 'If the rescue team had arrived...' 的倒裝（省略 if 並將助動詞 had 提至主詞前）。與過去事實相反時，主句應使用「主詞 + would/should/could/might + have + V-pp」結構，因此答案為 would have saved。意為「如果搜救隊早幾分鐘到達，他們就能從冰凍的暴風雪中救出受困的登山客了」。",
+    "id": "7a86e756-2812-439d-abae-1adac32ffda2",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The ancient temple, _____ walls are adorned with beautiful murals, attracts thousands of tourists every year.",
+    "options": [
+      "which",
+      "whose",
+      "where",
+      "that"
+    ],
+    "answer": "whose",
+    "explanation": "本題測試「關係代名詞所有格」。空格後面有名詞 walls（牆壁），且與先行詞 The ancient temple（古廟）有所有關係（古廟的牆壁，whose walls = the walls of which）。(A) which 在非限定關係子句中作主格或受格，後面不可直接接名詞作主動關係；(B) whose 關係所有格（正確答案）；(C) where 關係副詞，後面應接完整子句；(D) that 不能用於非限定（有逗號）的關係子句中。",
+    "id": "7e54d3c3-4a95-4c8c-a69b-48f2a6cea2ee",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Not only _____ the crime rate in the city, but it also improved the overall quality of life for its residents.",
+    "options": [
+      "did the new policy reduce",
+      "the new policy reduced",
+      "has reduced the new policy",
+      "the new policy has reduced"
+    ],
+    "answer": "did the new policy reduce",
+    "explanation": "本題測試「否定副詞放句首的倒裝句」。當 'Not only' 置於句首時，第一個子句必須使用倒裝結構（助動詞/be動詞 + 主詞 + 原形動詞）。原句為 'The new policy not only reduced...'。改為倒裝時，過去式一般動詞 reduced 需借用助動詞 did，並將動詞還原為 reduce。因此選 did the new policy reduce。",
+    "id": "26f261de-e81c-4fdc-b3bf-391c57bdd517",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The government has implemented strict policies to ________ carbon emissions and combat climate change.",
+    "options": [
+      "curb",
+      "foster",
+      "justify",
+      "overlook"
+    ],
+    "answer": "curb",
+    "explanation": "本題測試高階單字。句意為：「政府已實施嚴格政策以控制碳排放並對抗氣候變遷。」選項 (A) curb 意為「限制、控制」；(B) foster 意為「培養、促進」；(C) justify 意為「證明…合理」；(D) overlook 意為「忽略」。根據上下文，能與「碳排放」搭配且符合政策目的的動作應為「限制/控制」，故選 (A)。",
+    "id": "2d1dcc42-3583-4535-a75d-41aa74393b11",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Facing unexpected hardships, Jane showed remarkable ________ and never gave up on her dreams.",
+    "options": [
+      "indifference",
+      "resilience",
+      "reluctance",
+      "turbulence"
+    ],
+    "answer": "resilience",
+    "explanation": "本題測試高階單字。句意為：「面對意想不到的艱難，珍展現了非凡的韌性，從未放棄她的夢想。」選項 (A) indifference 意為「冷漠」；(B) resilience 意為「韌性、復原力」；(C) reluctance 意為「勉強、不情願」；(D) turbulence 意為「動盪、亂流」。根據「面對艱難卻未放棄夢想」可知，珍展現的是「韌性」，故選 (B)。",
+    "id": "31e0c7c5-5886-4a87-85c7-b58bc119a897",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Smartphones have become ________ in modern society, making it difficult for people to imagine life without them.",
+    "options": [
+      "vulnerable",
+      "ubiquitous",
+      "redundant",
+      "superficial"
+    ],
+    "answer": "ubiquitous",
+    "explanation": "本題測試指考學測常考單字。句意為：「智慧型手機在現代社會已無所不在，使人們難以想像沒有它們的生活。」選項 (A) vulnerable 意為「易受傷的、脆弱的」；(B) ubiquitous 意為「無所不在的、普及的」；(C) redundant 意為「多餘的」；(D) superficial 意為「表面的、膚淺的」。依據後半句「難以想像沒有手機的生活」，可知手機已經非常普及、無所不在，故選 (B)。",
+    "id": "0726011b-8b78-464a-a580-b5bdbb2a4166",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To achieve academic success, students should not ________ preparing for exams until the very last minute.",
+    "options": [
+      "put off",
+      "call off",
+      "take off",
+      "show off"
+    ],
+    "answer": "put off",
+    "explanation": "本題測試高階動詞片語。句意為：「為了取得學業成功，學生不應該把準備考試拖延到最後一刻。」選項 (A) put off 意為「拖延、延期」；(B) call off 意為「取消」；(C) take off 意為「起飛、脫掉」；(D) show off 意為「炫耀」。根據語意，「拖延」準備考試至最後一刻最符合句意，故選 (A)。",
+    "id": "6853c44c-8e3e-44f5-bca7-e690a9344c1d",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Her years of hard work finally ________ when she was promoted to the position of marketing director.",
+    "options": [
+      "passed away",
+      "paid off",
+      "ran out",
+      "gave in"
+    ],
+    "answer": "paid off",
+    "explanation": "本題測試常見片語。句意為：「她多年的努力終於得到了回報，當時她被晉升為行銷總監。」選項 (A) pass away 意為「去世」；(B) pay off 意為「（努力）得到回報、成功」；(C) run out 意為「用盡」；(D) give in 意為「屈服、讓步」。因「多年努力」與「升職」為因果關係，表示努力「得到回報」，故選 (B)。",
+    "id": "375082f8-749e-4694-92d8-f7fda10ce221",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In order to protect themselves, people are advised to ________ crowded places during the peak of the flu season.",
+    "options": [
+      "catch up on",
+      "keep track of",
+      "stay clear of",
+      "make up for"
+    ],
+    "answer": "stay clear of",
+    "explanation": "本題測試三字片語。句意為：「為了保護自己，建議人們在流感高峰期避開擁擠的場所。」選項 (A) catch up on 意為「補做、追趕」；(B) keep track of 意為「記錄、掌握」；(C) stay clear of 意為「避開、遠離」；(D) make up for 意為「補償」。為了在流感季節防護，應「避開」擁擠場所，故選 (C)。",
+    "id": "562b0c04-950c-4a40-bec5-58394a700203",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The doctor strongly recommended that the patient ________ smoking immediately to prevent further lung damage.",
+    "options": [
+      "quit",
+      "quits",
+      "to quit",
+      "quitting"
+    ],
+    "answer": "quit",
+    "explanation": "本題測試「意志動詞（建議、命令、要求、堅持）」後方接 that 子句的文法。當主要子句動詞為 recommend, suggest, insist, demand 等時，that 子句中的助動詞 should 通常會被省略，因此後面必須使用「原型動詞」。此處 should 被省略，故填入原型動詞 quit，選 (A)。",
+    "id": "789680bb-a801-48f3-93fc-3dfd3362a1de",
+    "difficulty": "hard"
+  },
+  {
+    "question": "________ by the sudden noise outside the window, the baby started to cry uncontrollably.",
+    "options": [
+      "Frightening",
+      "Frightened",
+      "To frighten",
+      "Having frightened"
+    ],
+    "answer": "Frightened",
+    "explanation": "本題測試分詞構句。原句為 \"Because the baby was frightened by the sudden noise...\"（因為嬰兒被窗外的突然噪音嚇到…）。簡化為分詞構句時，省略連接詞 because 與相同的主詞 the baby，再將被動態的 be 動詞省略，留下過去分詞 (V-ped) 起首。因嬰兒與 frighten 之間為「被動（感到害怕）」關係，故選 (B) Frightened。",
+    "id": "c130b238-93a5-4f80-8b40-d10b7e870b2d",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Seldom ________ such a breathtaking sunset before I visited this beautiful island.",
+    "options": [
+      "I had seen",
+      "had I seen",
+      "I saw",
+      "did I see"
+    ],
+    "answer": "had I seen",
+    "explanation": "本題測試否定副詞置於句首的「倒裝句」及時態。Seldom 為否定副詞，當置於句首時，句子須採倒裝結構（助動詞/be動詞提到主詞前面）。後半句提到 \"before I visited...\"（在我拜訪…之前），表示在過去某個時間點之前發生的動作，須使用「過去完成式（had + p.p.）」。因此倒裝結構為 Seldom + had + I + seen，故選 (B)。",
+    "id": "7373fa1d-7d9e-4f85-8315-8f7c77451717",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The company established a new policy, the purpose ________ was to improve employee productivity.",
+    "options": [
+      "of which",
+      "with which",
+      "of whom",
+      "that"
+    ],
+    "answer": "of which",
+    "explanation": "本題測試關係代名詞的前方介係詞用法。兩句合併前為 \"The company established a new policy. The purpose of the policy was to improve...\"。將重複的 the policy 改為關係代名詞，因其指涉事物（policy），且介係詞 of 須保留，故形成 \"the purpose of which\"。whom 用於人，that 前不可加介係詞，故正確答案為 (A)。",
+    "id": "9f0ffd37-dad6-436b-87e7-57731315d3e8",
+    "difficulty": "hard"
+  },
+  {
+    "question": "With the help of advanced technology, scientists are now able to _______ vast amounts of data in a matter of seconds.",
+    "options": [
+      "accumulate",
+      "obliterate",
+      "accommodate",
+      "negotiate"
+    ],
+    "answer": "accumulate",
+    "explanation": "本題考查動詞字彙。句意為：「在先進科技的幫助下，科學家現在能在幾秒鐘內累積大量的數據。」各選項字義如下：(A) accumulate 累積、積聚，符合句意；(B) obliterate 擦掉、抹去、消滅；(C) accommodate 容納、提供住宿、適應；(D) negotiate 談判、協商。因此正確答案為 accumulate。",
+    "id": "b9a70d19-ac99-4e81-8acc-322f65ed5c44",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A healthy diet and regular exercise are _______ to maintaining good physical and mental health.",
+    "options": [
+      "indispensable",
+      "vulnerable",
+      "compatible",
+      "susceptible"
+    ],
+    "answer": "indispensable",
+    "explanation": "本題考查形容詞字彙。句意為：「健康的飲食和規律的運動對於維持身心健康是不可或缺的。」常見搭配為 be indispensable to/for N/Ving（對……而言是不可或缺的）。各選項字義如下：(A) indispensable 不可或缺的，符合句意；(B) vulnerable 易受傷的、脆弱的；(C) compatible 兼容的、相配的；(D) susceptible 易受影響的、過敏的。因此正確答案為 indispensable。",
+    "id": "4190e144-3341-4dd0-b40c-f232b39bd5e2",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The two events happened _______, making it difficult for the reporters to cover both at the same time.",
+    "options": [
+      "simultaneously",
+      "superficially",
+      "spontaneously",
+      "subsequently"
+    ],
+    "answer": "simultaneously",
+    "explanation": "本題考查副詞字彙。句意為：「這兩起事件同時發生，使得記者很難同時報導這兩件事。」後半句提到「at the same time（同時）」，與前半句的副詞形成呼應。各選項字義如下：(A) simultaneously 同時地，符合句意；(B) superficially 表面地、膚淺地；(C) spontaneously 自發地、自然非勉強地；(D) subsequently 隨後、接著。因此正確答案為 simultaneously。",
+    "id": "e5fd74c6-5ab7-4c28-90ef-fd718d195590",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Due to the rising cost of living, many families are struggling just to _______.",
+    "options": [
+      "make ends meet",
+      "take for granted",
+      "keep in touch",
+      "put up with"
+    ],
+    "answer": "make ends meet",
+    "explanation": "本題考查動詞片語。句意為：「由於生活成本上漲，許多家庭光是為了勉強度日（收支平衡）就掙扎不已。」各選項字義如下：(A) make ends meet 收支平衡、勉強度日，符合句意；(B) take... for granted 視……為理所當然；(C) keep in touch 保持聯絡；(D) put up with 忍受、容忍。因此正確答案為 make ends meet。",
+    "id": "1194aa0f-49ec-471c-843b-c6029fa7e3b7",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The doctor explained that the patient's rapid recovery could be _______ his positive attitude and healthy lifestyle.",
+    "options": [
+      "attributed to",
+      "contributed to",
+      "compensated for",
+      "specialized in"
+    ],
+    "answer": "attributed to",
+    "explanation": "本題考查動詞片語（被動語態）。句意為：「醫生解釋說，病人之所以能迅速康復，可以歸因於他積極的態度和健康的生活方式。」常見片語為 attribute A to B（將A歸因於B），被動式為 A be attributed to B（A歸因於B）。各選項字義如下：(A) attribute to 歸因於，符合句意；(B) contribute to 促成、捐助；(C) compensate for 補償、賠償；(D) specialize in 專攻、專門研究。因此正確答案為 attributed to。",
+    "id": "01c92607-21db-4f88-9b9b-0e0902d17de1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "_______ career prospects, learning a second foreign language can give you a significant advantage in the job market.",
+    "options": [
+      "In terms of",
+      "On behalf of",
+      "In contrast to",
+      "By means of"
+    ],
+    "answer": "In terms of",
+    "explanation": "本題考查介系詞片語。句意為：「就職業前景而言，學習第二外語可以讓你在就職市場上獲得顯著優勢。」各選項字義如下：(A) In terms of 就……而言、在……方面，符合句意；(B) On behalf of 代表；(C) In contrast to 與……形成對比；(D) By means of 藉由、用……方法。因此正確答案為 In terms of。",
+    "id": "11a6f4fe-9cfb-4fbe-a773-6c46962fdb1b",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If the government _______ stricter laws earlier, the tragedy might have been avoided.",
+    "options": [
+      "had enacted",
+      "enacted",
+      "has enacted",
+      "would enact"
+    ],
+    "answer": "had enacted",
+    "explanation": "本題考查與過去事實相反的假設語氣。句尾的「might have been avoided」顯示此句為與過去事實相反的假設主句（主詞 + might/would/could/should + have + p.p.）。因此，if引導的條件從句必須使用過去完成式（had + p.p.），即 had enacted。句意為：「如果政府早點制定更嚴格的法律，這場悲劇或許就能避免了。」故選 had enacted。",
+    "id": "c8ca593b-7858-4a09-8e75-65a9ce0d6333",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The book _______ on the desk belongs to the teacher, so please do not take it away.",
+    "options": [
+      "lying",
+      "laying",
+      "lain",
+      "laid"
+    ],
+    "answer": "lying",
+    "explanation": "本題考查分詞修飾名詞（簡化關係子句）。原句為 \"The book [which is lying on the desk] belongs to...\"，將關係代名詞 which 與 be 動詞省略後，留下現在分詞 lying 修飾前面的名詞 book。注意不及物動詞 lie（躺、位於）的三態為 lie-lay-lain，現在分詞為 lying；而及物動詞 lay（放置、產卵）的三態為 lay-laid-laid，現在分詞為 laying。此處書本「躺/放」在桌上，屬於主動狀態，故用 lying。因此正確答案為 lying。",
+    "id": "f6f2ea7a-d2dc-4cb0-93a0-d54960d27bab",
+    "difficulty": "hard"
+  },
+  {
+    "question": "_______ seems to be a simple decision can sometimes lead to unexpected and serious consequences.",
+    "options": [
+      "What",
+      "That",
+      "Which",
+      "Whether"
+    ],
+    "answer": "What",
+    "explanation": "本題考查名詞子句引導詞。整句話的主詞是由名詞子句「_______ seems to be a simple decision」擔任，主要動詞為 can lead to。在此名詞子句中，缺少了主詞，因此必須使用具有雙重功能（引導名詞子句並在子句中作主詞）的複合關係代名詞 What（等於 the thing which）。that 引導名詞子句時，在子句中不擔任任何成分且無意義，故不適用。句意為：「看似簡單的決定有時可能會導致意想不到且嚴重的後果。」因此正確答案為 What。",
+    "id": "76f187d3-07ab-4d79-9cd2-e1712a0212f5",
+    "difficulty": "hard"
+  }
+]

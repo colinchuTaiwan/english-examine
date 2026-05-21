@@ -1,0 +1,1835 @@
+[
+  {
+    "question": "What is your favorite _____?",
+    "options": [
+      "color",
+      "apple",
+      "book",
+      "car"
+    ],
+    "answer": "color",
+    "explanation": "此題考驗單字辨識。\"Favorite\" 意為\"最喜歡的\"，後面通常接名詞。選項 A \"color\" (顏色) 是常見的喜好項目，符合語境。選項 B \"apple\" (蘋果) 和 C \"book\" (書) 也可以是喜好，但 \"color\" 是最普遍且符合小學程度問句的。選項 D \"car\" (汽車) 相對較不常見於小學生的喜好問句。",
+    "id": "66051ec1-9c33-4d6e-ab86-07eb13e06d28",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I see a cute _____.",
+    "options": [
+      "dog",
+      "tree",
+      "ball",
+      "shoe"
+    ],
+    "answer": "dog",
+    "explanation": "此題考驗單字辨識。\"Cute\" 意為\"可愛的\"，後面接的名詞通常是可愛的動物或事物。選項 A \"dog\" (狗) 是常見且符合\"cute\"描述的動物。選項 B \"tree\" (樹)、C \"ball\" (球) 和 D \"shoe\" (鞋子) 雖然也是名詞，但相較於\"dog\"，用\"cute\"來形容的普遍性較低。",
+    "id": "0798b56b-b909-4f39-92e5-88a9949cb8e6",
+    "difficulty": "easy"
+  },
+  {
+    "question": "He wants to _____ a new toy.",
+    "options": [
+      "buy",
+      "eat",
+      "play",
+      "sleep"
+    ],
+    "answer": "buy",
+    "explanation": "此題考驗單字辨識。\"Wants to\" 意為\"想要\"，後面接動詞原形。選項 A \"buy\" (買) 符合語境，意為\"想要買一個新玩具\"。選項 B \"eat\" (吃)、C \"play\" (玩，但通常是玩玩具，而不是\"玩一個玩具\"這個動作本身，語意不順) 和 D \"sleep\" (睡覺) 在此語境下都不合適。",
+    "id": "7c30b92f-7d3e-4462-afc1-95f8fe91e46e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Let's _____ to the park.",
+    "options": [
+      "go",
+      "run",
+      "jump",
+      "sing"
+    ],
+    "answer": "go",
+    "explanation": "此題考驗常見片語。\"Let's\" 意為\"讓我們\"，後面接動詞原形，常用來提出建議。選項 A \"go\" (去) 構成\"Let's go to the park\" (讓我們去公園) 是非常常見的片語，提出邀約。選項 B \"run\" (跑)、C \"jump\" (跳) 和 D \"sing\" (唱歌) 雖然也是動詞，但\"Let's run to the park\" (讓我們跑到公園) 語意上不太完整，\"Let's jump to the park\" (讓我們跳到公園) 則不合常理，\"Let's sing to the park\" (讓我們對公園唱歌) 語意也不順。因此 \"go\" 是最適合的。",
+    "id": "5f7b1b81-9122-435f-b183-2a10ad26bac7",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Can you help _____?",
+    "options": [
+      "me",
+      "you",
+      "him",
+      "her"
+    ],
+    "answer": "me",
+    "explanation": "此題考驗常見片語/受格代名詞。\"Help\" 意為\"幫助\"，後面接受格代名詞。選項 A \"me\" (我) 構成\"Can you help me?\" (你可以幫助我嗎？) 是非常標準且常見的求助片語。選項 B \"you\" (你)、C \"him\" (他) 和 D \"her\" (她) 雖然也是代名詞，但在這個求助的語境下，通常是向對方請求幫助，所以\"me\"是最恰當的。",
+    "id": "2572c4b2-6b03-4418-b2c4-f77061487164",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It's time _____ bed.",
+    "options": [
+      "for",
+      "to",
+      "in",
+      "on"
+    ],
+    "answer": "for",
+    "explanation": "此題考驗常見片語。\"It's time\" 意為\"是時候了\"。後面接表示時間的對象時，常用介詞 \"for\"。\"It's time for bed\" (該睡覺了) 是常見的片語。選項 B \"to\" (雖然\"It's time to sleep\"是正確的，但這裡後面是名詞\"bed\"，所以\"to bed\"在這裡語意不完整)。選項 C \"in\" 和 D \"on\" 都不符合這個片語結構。",
+    "id": "447840df-c390-41da-8d03-d31a41115c18",
+    "difficulty": "easy"
+  },
+  {
+    "question": "There _____ three apples on the table.",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "此題考驗存在句 \"There is/are\" 的用法。\"There is\" 用於單數名詞，\"There are\" 用於複數名詞。題目中的\"three apples\" (三個蘋果) 是複數，所以應使用\"are\"。",
+    "id": "403086ea-c137-4ff8-8f67-3a0d5c250e0b",
+    "difficulty": "easy"
+  },
+  {
+    "question": "She _____ a red dress.",
+    "options": [
+      "wears",
+      "wear",
+      "wearing",
+      "wore"
+    ],
+    "answer": "wears",
+    "explanation": "此題考驗現在簡單式。主詞\"She\"是第三人稱單數，現在簡單式動詞需要加\"s\"。選項 A \"wears\" (穿，第三人稱單數現在式) 符合語法。選項 B \"wear\" 是原形或複數用法。選項 C \"wearing\" 是現在分詞，需要助動詞be。選項 D \"wore\" 是過去式。",
+    "id": "08ad914a-b7aa-45f3-95d5-50bd59fab9b2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How _____ are you?",
+    "options": [
+      "old",
+      "tall",
+      "big",
+      "young"
+    ],
+    "answer": "old",
+    "explanation": "此題考驗特殊疑問詞+形容詞的用法。\"How old\" 是固定問句，用來詢問年齡。選項 A \"old\" (年老的/幾歲) 是正確的。選項 B \"tall\" (高)、C \"big\" (大) 和 D \"young\" (年輕的) 雖然也是形容詞，但 \"How tall are you?\" (你多高？)、\"How big is it?\" (它有多大？) 是正確的問句，但與\"How old are you?\" (你幾歲？) 的用途不同，在此語境下詢問年齡最為普遍。",
+    "id": "ba203c16-b92d-40b8-8e65-02ed00f217d0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "This is _____ book. It's mine.",
+    "options": [
+      "my",
+      "your",
+      "his",
+      "her"
+    ],
+    "answer": "my",
+    "explanation": "此題考驗所有格代名詞。\"This is _____ book.\" 意為\"這是一本____的書\"。後面需要接所有格代名詞，表示\"我的\"、\"你的\"、\"他的\"或\"她的\"。根據後面的\"It's mine.\" (這是我的)，表示這本書屬於說話者，因此應該用\"my\" (我的)。",
+    "id": "0b30d464-abcb-4049-be28-d0c0886a4265",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is your favorite ____? I like apples.",
+    "options": [
+      "animal",
+      "color",
+      "fruit",
+      "drink"
+    ],
+    "answer": "fruit",
+    "explanation": "這題考驗單字辨識。題幹問「你最喜歡的____是什麼？我喜歡蘋果。」蘋果（apple）屬於水果（fruit），因此選擇 fruit。",
+    "id": "9bf7e787-c817-4a33-aace-5976475a59e5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! The cat is ____ on the sofa.",
+    "options": [
+      "sleep",
+      "sleeping",
+      "sleepy",
+      "sleeps"
+    ],
+    "answer": "sleeping",
+    "explanation": "這題考驗現在進行式文法。現在進行式是 be 動詞 + 動詞 -ing，表示正在發生的動作。這裡「貓正在沙發上睡覺」，所以選擇 sleeping。",
+    "id": "5da85cf3-36ce-464a-a707-e291547c44c2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I can ____ English very well.",
+    "options": [
+      "speak",
+      "speaking",
+      "spoke",
+      "speaks"
+    ],
+    "answer": "speak",
+    "explanation": "這題考驗助動詞 can 後面的動詞形式。助動詞 can 後面直接接原形動詞，表示「能夠」。這裡「我能說很好的英文」，所以選擇 speak。",
+    "id": "2401c1d0-4a1e-430b-bebc-9b227931b788",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How ____ apples do you want?",
+    "options": [
+      "much",
+      "many",
+      "big",
+      "small"
+    ],
+    "answer": "many",
+    "explanation": "這題考驗量詞用法。apples 是可數名詞（複數），用來詢問數量時，要使用 how many。much 用於不可數名詞，big 和 small 是形容詞。",
+    "id": "e91320c6-7a19-4775-9fc4-cb468add08dc",
+    "difficulty": "easy"
+  },
+  {
+    "question": "She likes to ____ TV in the evening.",
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "watched"
+    ],
+    "answer": "watch",
+    "explanation": "這題考驗單字辨識。題幹是「她喜歡晚上____電視。」喜歡做某事，通常後面接動詞原形（like to do something）。看電視的動詞是 watch。",
+    "id": "e39f8ce6-856d-44d0-b02b-c25c2aa5bb20",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Could you please ____ me a hand?",
+    "options": [
+      "give",
+      "take",
+      "make",
+      "have"
+    ],
+    "answer": "give",
+    "explanation": "這題考驗片語辨識。'give someone a hand' 是「幫某人一個忙」的常用片語。其他選項與此片語不符。",
+    "id": "a6190d0e-d755-4a69-a3c0-a2efaf5a0207",
+    "difficulty": "easy"
+  },
+  {
+    "question": "He goes to school ____ bus every day.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "by"
+    ],
+    "answer": "by",
+    "explanation": "這題考驗介系詞用法。表示搭乘交通工具去某地，通常使用介系詞 by。例如：by bus, by car, by train。",
+    "id": "c8879c6b-a81f-4beb-b252-d7193bc3b040",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My mother is ____ a doctor.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "is"
+    ],
+    "answer": "a",
+    "explanation": "這題考驗冠詞用法。doctor 的開頭是子音 /d/，所以前面使用不定冠詞 'a'。'an' 用於母音開頭的單字，'the' 用於特指的單字，'is' 是動詞。",
+    "id": "2a5bbd38-9869-450c-b7fd-5caf33bc84d5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Let's ____ for a walk in the park.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "went"
+    ],
+    "answer": "go",
+    "explanation": "這題考驗片語辨識。'Let's' 後面接動詞原形，表示「讓我們一起做某事」。'Let's go for a walk' 是「讓我們一起去散步」的常用句型。",
+    "id": "1487d89e-00fb-444a-b585-60486276b5d8",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The book is ____ the table.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "answer": "on",
+    "explanation": "這題考驗介系詞用法。題幹是「書在桌子____。」表示「在...上面」，使用介系詞 on。in 表示「在...裡面」，at 通常表示一個點，under 表示「在...下面」。",
+    "id": "076846bb-4ed5-4f22-a699-da6ede50818f",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! That is a big ______.",
+    "options": [
+      "dog",
+      "cat",
+      "bird",
+      "fish"
+    ],
+    "answer": "dog",
+    "explanation": "此題考驗基礎名詞辨識。題幹描述「一個大…」，從選項中選擇一個常見且符合「大」的動物。A. dog (狗) 是常見動物，可以是大的；B. cat (貓) 通常較小；C. bird (鳥) 通常較小；D. fish (魚) 通常較小。故選 dog。",
+    "id": "27d48c68-1231-401e-875e-401b8b16996f",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I like to ______ a book before I sleep.",
+    "options": [
+      "read",
+      "write",
+      "draw",
+      "sing"
+    ],
+    "answer": "read",
+    "explanation": "此題考驗基礎動詞應用。題幹描述「我喜歡在睡前…一本書」。A. read (閱讀) 是對書的常見動作；B. write (寫) 是寫書，非睡前動作；C. draw (畫) 是畫畫，非對書的動作；D. sing (唱歌) 是唱歌，非對書的動作。故選 read。",
+    "id": "5d1489eb-d0c7-46d4-acad-2cfda57c785e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My favorite ______ is red.",
+    "options": [
+      "color",
+      "number",
+      "animal",
+      "fruit"
+    ],
+    "answer": "color",
+    "explanation": "此題考驗基礎名詞辨識。題幹描述「我最喜歡的…是紅色」。A. color (顏色) 符合題意；B. number (數字) 不是顏色；C. animal (動物) 不是顏色；D. fruit (水果) 不是顏色。故選 color。",
+    "id": "640a148f-d029-41b9-905c-4b217e4b616e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "There are ______ apples on the table.",
+    "options": [
+      "three",
+      "two",
+      "one",
+      "four"
+    ],
+    "answer": "three",
+    "explanation": "此題考驗數字辨識與應用。題幹描述「桌上有…蘋果」，雖然選項都是數字，但通常此類練習會預設一個相對常見且數量較多的數字，或題目會提供圖片暗示。在此情況下，如果無圖片，任何數字皆可能。但考量到國小程度，通常會選擇一個明確且可數的數字，而選項皆為數字，表示考驗對數字的認識。假設此題意在練習特定數字，若無更多情境，此題可能需額外圖片輔助。但若單純考數字，任何數字都可以是答案。若題目意在考「很多」可以用 many，但這裡選項是具體數字。假設題目是想問「桌上有三個蘋果」，則答案為 three。此題較為模糊，一般國小題目會更明確。考量到題幹為「______ apples」，表示有複數個，所以 one 不可能。其餘 three, two, four 皆可能。",
+    "id": "be3fadd8-9b18-4cfe-a957-548b932cba31",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Can you help ______ with my homework?",
+    "options": [
+      "me",
+      "you",
+      "him",
+      "her"
+    ],
+    "answer": "me",
+    "explanation": "此題考驗代名詞（受詞）的用法。題幹是「你能幫我…我的功課嗎？」。A. me (我) 是「我」的受詞，符合句意；B. you (你) 是主詞或受詞，但在此句中應為「我」；C. him (他) 是「他」的受詞；D. her (她) 是「她」的受詞。故選 me。",
+    "id": "589a5a82-c5f8-4cdd-94d9-d8883ea76169",
+    "difficulty": "easy"
+  },
+  {
+    "question": "He is ______ doctor. He helps sick people.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "a",
+    "explanation": "此題考驗冠詞 a/an 的用法。題幹提到「He is ______ doctor.」，doctor 的發音是以子音 /d/ 開頭，所以應使用冠詞 a。B. an 用於母音開頭的字；C. the 用於特定事物；D. no article 表示無需冠詞。故選 a。",
+    "id": "04d50f65-9aa9-4694-be70-76d51e5a2207",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I ______ playing basketball yesterday.",
+    "options": [
+      "was",
+      "am",
+      "is",
+      "are"
+    ],
+    "answer": "was",
+    "explanation": "此題考驗 be 動詞的過去式。題幹中有時間詞 yesterday (昨天)，表示動作發生在過去。主詞是 I (我)，過去式 be 動詞應用 was。B. am (現在式，用於 I)；C. is (現在式，用於 he/she/it)；D. are (現在式，用於 you/we/they)。故選 was。",
+    "id": "7140b71d-3a76-4994-9c1e-79e5a3860ff3",
+    "difficulty": "easy"
+  },
+  {
+    "question": "______ you like some juice?",
+    "options": [
+      "Do",
+      "Does",
+      "Are",
+      "Is"
+    ],
+    "answer": "Do",
+    "explanation": "此題考驗疑問句的構成。題幹是「______ 你喜歡一些果汁？」。當句子的主要動詞是 like (喜歡) 時，構成疑問句需要助動詞 Do 或 Does。主詞是 you (你)，所以應用 Do。B. Does 用於 he/she/it；C. Are 是 be 動詞，用於 be 動詞開頭的疑問句 (如 Are you happy?)；D. Is 也是 be 動詞，用於 be 動詞開頭的疑問句 (如 Is he happy?)。故選 Do。",
+    "id": "d3be25cd-b249-4929-bad6-449a90ed7d8e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ______ the door. It's cold outside.",
+    "options": [
+      "close",
+      "open",
+      "wash",
+      "eat"
+    ],
+    "answer": "close",
+    "explanation": "此題考驗基礎動詞應用與情境判斷。題幹描述「請…門，外面很冷。」。A. close (關上) 符合「外面很冷」需要關門的情境；B. open (打開) 會讓冷空氣進來；C. wash (清洗) 是清洗門，不符合語境；D. eat (吃) 是吃東西，與門無關。故選 close。",
+    "id": "cb963366-6d2f-4d43-b941-5f93f6ad067e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "This is my _______. He is five years old.",
+    "options": [
+      "brother",
+      "sister",
+      "father",
+      "mother"
+    ],
+    "answer": "brother",
+    "explanation": "此題考驗基礎親屬稱謂辨識。題幹描述「這是我的…，他五歲了。」。A. brother (兄弟) 是男性，五歲是常見年齡，符合；B. sister (姐妹) 是女性；C. father (父親) 年齡通常大於五歲；D. mother (母親) 年齡通常大於五歲。故選 brother。",
+    "id": "231e8b6f-3416-42ee-ba50-11cefe5d0899",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! The cat is on the ______.",
+    "options": [
+      "table",
+      "chair",
+      "sofa",
+      "bed"
+    ],
+    "answer": "table",
+    "explanation": "題目問「看！貓咪在______上面。」，需要一個名詞表示地點。選項 A (table 桌子)、B (chair 椅子)、C (sofa 沙發)、D (bed 床) 都是名詞，但根據常見的語境，貓咪常常會跳到桌子上。此題為單字題，測試對常見物品名稱的認識。",
+    "id": "0c8d7743-ee65-4c01-bb9d-78681fd4276e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I like to eat ice ______ in the summer.",
+    "options": [
+      "cream",
+      "cake",
+      "juice",
+      "bread"
+    ],
+    "answer": "cream",
+    "explanation": "題目問「夏天我喜歡吃冰______。」，需要一個名詞與「冰」搭配組成一個常見的食物。選項 A (cream 奶油，ice cream 冰淇淋)、B (cake 蛋糕)、C (juice 果汁)、D (bread 麵包)。ice cream (冰淇淋) 是最符合語境的食物。",
+    "id": "37b95ea2-1a6a-4e95-9a1d-4847684b8d50",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My favorite color is ______. It's so bright!",
+    "options": [
+      "yellow",
+      "blue",
+      "green",
+      "red"
+    ],
+    "answer": "yellow",
+    "explanation": "題目問「我最喜歡的顏色是______。它好鮮豔！」，需要一個顏色名詞。選項 A (yellow 黃色)、B (blue 藍色)、C (green 綠色)、D (red 紅色)。yellow (黃色) 通常被認為是鮮豔的顏色，與後句 \"It's so bright!\" (它好鮮豔！) 搭配最為恰當。",
+    "id": "5c64045a-6089-4b1b-b13b-de86db9f56b0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We can ______ a book at the library.",
+    "options": [
+      "borrow",
+      "lend",
+      "buy",
+      "sell"
+    ],
+    "answer": "borrow",
+    "explanation": "題目問「我們可以在圖書館______一本書。」，需要一個動詞表示在圖書館的行為。選項 A (borrow 借入)、B (lend 借出)、C (buy 買)、D (sell 賣)。在圖書館，我們是「借入」書，所以 borrow 是正確的動詞。此題為片語題，測試對「borrow a book」這個常用片語的理解。",
+    "id": "b0db5728-591c-4bc0-a31c-b812edcc9db9",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ______ the door when you leave.",
+    "options": [
+      "close",
+      "open",
+      "lock",
+      "push"
+    ],
+    "answer": "close",
+    "explanation": "題目問「離開時，請______門。」，需要一個動詞表示對門的動作。選項 A (close 關上)、B (open 打開)、C (lock 鎖上)、D (push 推)。根據情境，離開時通常是「關上」門，所以 close 是最適合的動詞。此題為片語題，測試對「close the door」這個常用片語的理解。",
+    "id": "32255092-6a90-48f7-873a-ead87deeae9c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It's a beautiful day. Let's ______ a picnic.",
+    "options": [
+      "have",
+      "make",
+      "do",
+      "play"
+    ],
+    "answer": "have",
+    "explanation": "題目問「今天天氣真好。讓我們______野餐吧。」，需要一個動詞與「野餐」(picnic) 搭配。選項 A (have 有，have a picnic 野餐)、B (make 製造，make a picnic 比較少用)、C (do 做，do a picnic 錯誤)、D (play 玩，play a picnic 錯誤)。「have a picnic」是表示「野餐」的標準用法。此題為片語題，測試對「have a picnic」這個常用片語的理解。",
+    "id": "bdf42d98-f305-45f8-a3a9-06ee004b580c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My sister ______ a student at Taipei Elementary School.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "is",
+    "explanation": "題目問「我的姐姐是台北國小的學生。」，主語是「My sister」(我的姐姐)，是第三人稱單數。第三人稱單數現在式 be 動詞使用 is。此題為文法題，測試對 be 動詞第三人稱單數的用法。",
+    "id": "c0bac503-d942-418f-b953-1e80e837c369",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Peter ______ to the park every Sunday.",
+    "options": [
+      "goes",
+      "go",
+      "going",
+      "went"
+    ],
+    "answer": "goes",
+    "explanation": "題目問「Peter 每週日______去公園。」，時間狀語是「every Sunday」(每週日)，表示習慣性動作。主語是「Peter」(第三人稱單數)，習慣性動作要用現在簡單式。第三人稱單數現在簡單式動詞需加 -s 或 -es。go 的第三人稱單數現在式是 goes。此題為文法題，測試對現在簡單式第三人稱單數動詞的用法。",
+    "id": "102b748b-8e9f-4c93-a7ba-381e0a2c6536",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which ______ your favorite animal?",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "is",
+    "explanation": "題目問「______你最喜歡的動物是什麼？」，這是一個問句，主語是「your favorite animal」(你最喜歡的動物)，是第三人稱單數。在問句中，be 動詞要放在主語前面，且要與主語的人稱和數一致。因此，應使用 is。此題為文法題，測試對 be 動詞用於疑問句的用法。",
+    "id": "133a0eec-2849-4ee5-9f56-ebaed7f8da3b",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is this? It's a \n A. book B. pen C. desk D. chair",
+    "options": [
+      "book",
+      "pen",
+      "desk",
+      "chair"
+    ],
+    "answer": "book",
+    "explanation": "圖片顯示一本打開的書，所以答案是 book (書)。pen 是筆，desk 是書桌，chair 是椅子。",
+    "id": "43a34690-b4bd-4f7f-b96d-31ac40e161ad",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I have three \n A. apple B. apples C. an apple D. appleses",
+    "options": [
+      "apple",
+      "apples",
+      "an apple",
+      "appleses"
+    ],
+    "answer": "apples",
+    "explanation": "當數量大於一時，名詞需要使用複數。apple 的複數是 apples。因此，我擁有三個蘋果。",
+    "id": "a58370ba-672b-4c70-8b1d-030f04674f13",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The cat is \n the table. \n A. in B. on C. at D. under",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "under"
+    ],
+    "answer": "on",
+    "explanation": "這是一個介係詞的用法。當物品在平面上方時，我們用介係詞 on。貓在桌子上。",
+    "id": "021f4b60-5aaf-4e2d-9c49-ea1c68e311a0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What color is the sun? It's \n A. blue B. red C. yellow D. green",
+    "options": [
+      "blue",
+      "red",
+      "yellow",
+      "green"
+    ],
+    "answer": "yellow",
+    "explanation": "太陽的顏色是黃色，也就是 yellow。blue 是藍色，red 是紅色，green 是綠色。",
+    "id": "6a355381-610a-45bc-b83d-8ed3bb1bf5cb",
+    "difficulty": "easy"
+  },
+  {
+    "question": "He is \n school now. \n A. go B. goes C. going D. to go",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "to go"
+    ],
+    "answer": "going",
+    "explanation": "這是一個現在進行式的用法。現在進行式是由 be 動詞 (is/am/are) 加上動詞的 -ing 形式所組成。他現在正在去學校。",
+    "id": "2034e938-e885-425d-89e0-e6eabf9ae28b",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Can you \n me? \n A. help B. helps C. helping D. helped",
+    "options": [
+      "help",
+      "helps",
+      "helping",
+      "helped"
+    ],
+    "answer": "help",
+    "explanation": "在助動詞 'Can' 後面，動詞要使用原形 (基本型)。助動詞 Can 詢問對方是否能幫忙。",
+    "id": "7dd7bdd1-bfd1-453d-a0b1-8f047983e2b5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Let's \n a movie. \n A. watch B. watches C. watching D. watched",
+    "options": [
+      "watch",
+      "watches",
+      "watching",
+      "watched"
+    ],
+    "answer": "watch",
+    "explanation": "'Let's' 後面通常接動詞的原形，表示提議。意思是『讓我們一起看電影吧。』",
+    "id": "694d01db-018c-4f92-92d7-857830624eb0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How \n you? \n A. am B. is C. are D. be",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "疑問句 'How are you?' 是標準的問候語，詢問對方「你好嗎？」。 'You' 需要搭配 be 動詞 'are'。",
+    "id": "73da29cd-b281-405a-863c-7c0096527d48",
+    "difficulty": "easy"
+  },
+  {
+    "question": "She \n a doctor. \n A. am B. is C. are D. be",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "is",
+    "explanation": "第三人稱單數主詞 'She' (她) 需要搭配 be 動詞 'is'。她是一位醫生。",
+    "id": "b915d9d4-e4db-404f-a1de-8ebebe7b9b5a",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The dog likes \n bones. \n A. eat B. eats C. eating D. to eats",
+    "options": [
+      "eat",
+      "eats",
+      "eating",
+      "to eats"
+    ],
+    "answer": "eating",
+    "explanation": "動詞 'likes' 後面，如果是表示喜歡做某件事情，通常接動名詞 (動詞的 -ing 形式)。狗狗喜歡吃骨頭。",
+    "id": "07a3ada4-ed4d-47df-b92e-9f1c78949b47",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My father is a _______. He works in a hospital and helps sick people.",
+    "options": [
+      "teacher",
+      "doctor",
+      "driver",
+      "cook"
+    ],
+    "answer": "doctor",
+    "explanation": "本題測試基礎職業單字。句意為：「我的父親是一位醫生。他在醫院工作並幫助生病的人。」選項中的 doctor 意為「醫生」，最符合句意。其他選項：teacher (教師)、driver (司機)、cook (廚師)。",
+    "id": "60f423b0-2599-44fb-b5fe-ba6748e93290",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is very hot today. Let's go swimming in the _______.",
+    "options": [
+      "park",
+      "school",
+      "pool",
+      "zoo"
+    ],
+    "answer": "pool",
+    "explanation": "本題測試場所單字。句意為：「今天天氣很熱。我們去泳池游泳吧。」與 swimming (游泳) 最相關的場所是 pool (游泳池)。其他選項：park (公園)、school (學校)、zoo (動物園)。",
+    "id": "d38e4c56-d0f1-454a-a3e8-5211cda75129",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look at the dark clouds! It is going to rain. Don't forget your _______.",
+    "options": [
+      "umbrella",
+      "bicycle",
+      "marker",
+      "notebook"
+    ],
+    "answer": "umbrella",
+    "explanation": "本題測試生活用品單字。句意為：「看那些烏雲！快要下雨了。別忘了帶你的雨傘。」下雨天需要帶的是 umbrella (雨傘)。其他選項：bicycle (腳踏車)、marker (彩色筆)、notebook (筆記本)。",
+    "id": "77430225-6095-4da2-96d6-d441bd939e0c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I usually _______ at seven o'clock in the morning and brush my teeth.",
+    "options": [
+      "sit down",
+      "get up",
+      "stand up",
+      "come in"
+    ],
+    "answer": "get up",
+    "explanation": "本題測試常用片語。句意為：「我通常在早上七點起床並刷牙。」早上起床的英文片語是 get up。其他選項：sit down (坐下)、stand up (站起來)、come in (進來)。",
+    "id": "85a21251-5270-4e3e-a435-23f2f3c66716",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is very cold outside. Please _______ your coat before you go out.",
+    "options": [
+      "put on",
+      "turn off",
+      "look at",
+      "listen to"
+    ],
+    "answer": "put on",
+    "explanation": "本題測試常用動詞片語。句意為：「外面天氣很冷。出門前請穿上你的外套。」「穿上」衣物的片語是 put on。其他選項：turn off (關掉)、look at (看著)、listen to (聽)。",
+    "id": "530409ee-df8a-4368-9c59-9b17b0277f4c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is ten o'clock at night. It is time to _______.",
+    "options": [
+      "go to school",
+      "go to bed",
+      "wash my hands",
+      "clean the room"
+    ],
+    "answer": "go to bed",
+    "explanation": "本題測試日常活動片語。句意為：「現在是晚上十點了。該是上床睡覺的時候了。」晚上十點適合做的事情是 go to bed (上床睡覺)。其他選項：go to school (去上學)、wash my hands (洗手)、clean the room (打掃房間)。",
+    "id": "a0fd854f-c4b6-42d2-b86d-b13d041c4b5d",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What _______ your brother doing in his bedroom right now?",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "answer": "is",
+    "explanation": "本題測試現在進行式文法。句意為：「你弟弟現在正在他的臥室做什麼？」主詞 your brother (你的弟弟) 為單數第三人稱，因此 be 動詞必須使用 is。",
+    "id": "f84e0380-46eb-4ca0-a7d3-b35de7279641",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My sister _______ English and music every day after school.",
+    "options": [
+      "study",
+      "studies",
+      "studying",
+      "to study"
+    ],
+    "answer": "studies",
+    "explanation": "本題測試現在簡單式的主詞與動詞一致性。句意為：「我妹妹每天放學後都研讀英文和音樂。」當時間副詞為表示習慣的 every day，且主詞 My sister 為單數第三人稱時，動詞 study 必須去 y 加上 ies 變成 studies。",
+    "id": "078ea73c-6ecc-4650-ac36-2f00a209a43a",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My birthday is _______ October. We always have a big party.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "answer": "in",
+    "explanation": "本題測試時間介係詞的用法。句意為：「我的生日在十月。我們總是會舉辦一個大型派對。」在「月份」（如 October）前面，必須使用介係詞 in。若有具體日期（如 October 10th）才會使用 on。",
+    "id": "ff54f22f-e595-4588-bd7e-b46924a563bd",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many _______ do you have in your pencil case?",
+    "options": [
+      "pencil",
+      "pencils",
+      "a pencil",
+      "pencils'"
+    ],
+    "answer": "pencils",
+    "explanation": "本題測試可數名詞複數形文法。句意為：「你的鉛筆盒裡有幾枝鉛筆？」在疑問句中，How many (多少個) 後面必須接可數名詞的複數形，因此選擇 pencils。",
+    "id": "4706985e-f274-47ba-9247-176f1fde97cc",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look at the sky. It is rainy. Don't forget your ______.",
+    "options": [
+      "umbrella",
+      "notebook",
+      "pencil",
+      "sweater"
+    ],
+    "answer": "umbrella",
+    "explanation": "本題測試基礎天氣與生活單字。題幹提到「看天空，正在下雨（rainy）」，因此出門不要忘記帶「雨傘（umbrella）」。其他選項分別為：notebook（筆記本）、pencil（鉛筆）、sweater（毛衣），皆不符合語意。",
+    "id": "f5e1ccb7-047e-4513-ae24-6c9d26536d07",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I want to eat something sweet. Let's buy some ______.",
+    "options": [
+      "pencils",
+      "apples",
+      "books",
+      "shoes"
+    ],
+    "answer": "apples",
+    "explanation": "本題測試基礎食物與日常單字。題幹表示「我想吃點甜的東西（eat something sweet）」，選項中只有「蘋果（apples）」是食物且帶有甜味。其他選項為：pencils（鉛筆）、books（書本）、shoes（鞋子），與「吃」無關。",
+    "id": "218181b4-9705-4c46-8297-90f46874f63d",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My mother is a ______. She works in a hospital.",
+    "options": [
+      "teacher",
+      "cook",
+      "nurse",
+      "student"
+    ],
+    "answer": "nurse",
+    "explanation": "本題測試職業與場所單字。第二句提到「她在醫院（hospital）工作」，四個職業選項中，只有「護士/護理師（nurse）」是在醫院工作。其他選項為：teacher（教師）、cook（廚師）、student（學生）。",
+    "id": "4d84795f-bccc-4cf2-b92f-b94a6324d2fe",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ______ and open your English books.",
+    "options": [
+      "sit down",
+      "go home",
+      "get up",
+      "wash hands"
+    ],
+    "answer": "sit down",
+    "explanation": "本題測試課堂常用片語。題意為「請坐下並打開你們的英文書。」在教室日常指令中，「坐下（sit down）」最常與打開書本搭配。其他片語分別為：go home（回家）、get up（起床）、wash hands（洗手），皆不符合課堂情境。",
+    "id": "de17f69c-8192-47be-9434-e1638d3a4757",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is very cold today. Please ______ your jacket.",
+    "options": [
+      "put on",
+      "take off",
+      "look at",
+      "listen to"
+    ],
+    "answer": "put on",
+    "explanation": "本題測試動詞片語。題幹指出「今天非常冷（cold）」，所以「請穿上（put on）你的夾克」。其他選項分別為：take off（脫下）、look at（看著）、listen to（聆聽），與寒冷天氣需加衣保暖的情意相反或不符。",
+    "id": "716180ff-fc76-4513-8e77-e6395124e952",
+    "difficulty": "easy"
+  },
+  {
+    "question": "They ______ my classmates. We like to play basketball together.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "本題測試 Be 動詞的主詞與動詞一致性（主動一致）。主詞為複數代名詞「They（他們）」，因此 Be 動詞必須使用「are」。",
+    "id": "01a9a332-ef18-4971-8deb-e7f5b9e99fe6",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A: ______ are my keys? B: They are on the table.",
+    "options": [
+      "What",
+      "Where",
+      "Who",
+      "How"
+    ],
+    "answer": "Where",
+    "explanation": "本題測試疑問詞的用法。答句「They are on the table（在桌子上）」表示一個具體的地點，因此問句必須使用詢問地點的疑問詞「Where（哪裡）」。",
+    "id": "156fb0ea-ef9b-48be-8c83-5c0b185c0a8f",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many ______ do you have? I have two.",
+    "options": [
+      "cats",
+      "cat",
+      "a cat",
+      "the cat"
+    ],
+    "answer": "cats",
+    "explanation": "本題測試複數名詞與「How many」的文法規則。「How many」引導的問句後面必須接「複數可數名詞」，因此正確答案應選複數形態的「cats」。",
+    "id": "7d9d45bf-659d-4dcf-af24-e39c97819be0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "This is Amy. ______ favorite color is pink.",
+    "options": [
+      "She",
+      "Her",
+      "He",
+      "His"
+    ],
+    "answer": "Her",
+    "explanation": "本題測試所有格代名詞。前一句提到「這是 Amy（女生名字）」，後句要修飾名詞「favorite color（最喜歡的顏色）」，必須使用女性所有格代名詞「Her（她的）」。",
+    "id": "8ed40907-689d-4480-a378-1e6cdd12dba8",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! There is a black ______ flying in the sky.",
+    "options": [
+      "book",
+      "apple",
+      "bird",
+      "pencil"
+    ],
+    "answer": "bird",
+    "explanation": "本題測試基礎單字。句意為「看！有一隻黑色的鳥在天空飛。」。根據文意，能在天空飛 (flying in the sky) 的是 bird (鳥)。其他選項：book (書)、apple (蘋果)、pencil (鉛筆) 皆不符合常理。",
+    "id": "d1e7c5f6-52ce-4aab-ba6f-ac6d1174d303",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I am thirsty. I want to drink some ______.",
+    "options": [
+      "water",
+      "bread",
+      "fish",
+      "rice"
+    ],
+    "answer": "water",
+    "explanation": "本題測試基礎單字。句意為「我很渴。我想喝一點水。」。因為 thirsty (口渴) 且動詞是 drink (喝)，所以空格應填入可喝的液體 water (水)。其他選項：bread (麵包)、fish (魚)、rice (米飯) 皆為固體食物，動詞要用 eat。",
+    "id": "e381f2f1-72fe-4861-9d16-205e7bd3b2f6",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is ______ today. Don't forget to take an umbrella.",
+    "options": [
+      "sunny",
+      "rainy",
+      "windy",
+      "cloudy"
+    ],
+    "answer": "rainy",
+    "explanation": "本題測試基礎單字。句意為「今天下雨。別忘了帶把傘。」。因為後半句提到 take an umbrella (帶傘)，推測天氣應該是 rainy (下雨的)。其他選項：sunny (晴朗的)、windy (風大的)、cloudy (多雲的) 較不符合帶傘的直接原因。",
+    "id": "d6526f63-60fc-43a4-87af-4075749682ee",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ______ your coat. It is very warm in the room.",
+    "options": [
+      "take off",
+      "put on",
+      "wake up",
+      "clean up"
+    ],
+    "answer": "take off",
+    "explanation": "本題測試基礎動詞片語。句意為「請脫下你的外套。房間裡很溫暖。」。因為後面提到房間很溫暖 (warm)，所以應該是「脫下」外套，片語為 take off。其他選項：put on (穿上)、wake up (醒來)、clean up (清理)。",
+    "id": "9c46375b-680d-4a18-9e42-ef52e1dca2f0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Remember to ______ the lights before you leave the classroom.",
+    "options": [
+      "turn on",
+      "turn off",
+      "get up",
+      "look at"
+    ],
+    "answer": "turn off",
+    "explanation": "本題測試日常動詞片語。句意為「離開教室前記得關燈。」。離開教室 (leave the classroom) 應該要「關」燈，英文片語為 turn off。其他選項：turn on (開燈)、get up (起床)、look at (看著)。",
+    "id": "5a83cc02-6de4-446e-9cd3-f10abb4845d6",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We always ______ early on school days.",
+    "options": [
+      "get up",
+      "look for",
+      "go to bed",
+      "listen to"
+    ],
+    "answer": "get up",
+    "explanation": "本題測試日常動詞片語。句意為「上學日我們總是提早起床。」。在早上上學前，應該是 get up (起床)。其他選項：look for (尋找)、go to bed (去睡覺—通常用 late/early 搭配 night)、listen to (聽)。",
+    "id": "736421e0-e438-48df-bdfc-b4d05ac703d4",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My sister ______ like to eat apples. She likes bananas.",
+    "options": [
+      "don't",
+      "doesn't",
+      "is not",
+      "are not"
+    ],
+    "answer": "doesn't",
+    "explanation": "本題測試第三人稱單數的否定助動詞。句意為「我妹妹不喜歡吃蘋果。她喜歡香蕉。」。主詞 My sister 是第三人稱單數 (She)，否定一般動詞 like 時，助動詞要用 doesn't。don't 用於第一、二人稱及複數；is not / are not 後面不能直接接原形動詞 like。",
+    "id": "9d4cdfea-e49b-41f2-a0de-7024ef2e913e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where ______ my keys? I can't find them.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "本題測試 be 動詞與主詞單複數一致性。句意為「我的鑰匙在哪裡？我找不到它們。」。主詞 my keys 是複數名詞，因此 be 動詞要配合使用 are。後半句的 them 也提示了主詞是複數。",
+    "id": "1d285f02-da38-40a0-b479-f732b60b92b5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We have an English class ______ Tuesday mornings.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "under"
+    ],
+    "answer": "on",
+    "explanation": "本題測試時間介係詞。句意為「我們在星期二早上有英文課。」。在英文中，特定的某一天（如 Tuesday）或是特定日子的早上/下午/晚上（如 Tuesday mornings），介係詞要用 on。in 用於月份、季節、年份或泛指的 morning/afternoon/evening；at 用於具體時刻。",
+    "id": "e06ec09d-c48d-47de-b024-f2aa2103656c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Listen! Tim ______ a song in his room.",
+    "options": [
+      "is singing",
+      "sing",
+      "sings",
+      "singing"
+    ],
+    "answer": "is singing",
+    "explanation": "本題測試現在進行式。句意為「聽！Tim 正在他的房間裡唱歌。」。句首有 \"Listen!\" (聽！) 提示動作此時此刻正在進行中，故須使用現在進行式「be 動詞 + V-ing」。主詞 Tim 是單數，配合 is singing。",
+    "id": "cf5a04af-def7-485a-89b5-381eb6a6c763",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I have a pet. It has long ears and likes to eat carrots. It is a _____.",
+    "options": [
+      "dog",
+      "cat",
+      "rabbit",
+      "fish"
+    ],
+    "answer": "rabbit",
+    "explanation": "這題考的是常見動物單字。題目中提到「有長耳朵（long ears）」且「喜歡吃胡蘿蔔（eat carrots）」，這是兔子的特徵，因此正確答案是 rabbit（兔子）。其他選項：dog（狗）、cat（貓）、fish（魚）。",
+    "id": "7817d591-5d05-4e08-bce1-f40aa7816e64",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is time to go to school. Please _____ your shoes.",
+    "options": [
+      "put on",
+      "take off",
+      "look at",
+      "listen to"
+    ],
+    "answer": "put on",
+    "explanation": "這題考的是日常常用片語。題目提到「該去上學了（time to go to school）」，出門前必須「穿上」鞋子，因此正確答案是 put on（穿上）。其他選項：take off（脫下）、look at（看著）、listen to（傾聽）。",
+    "id": "6fcc2e26-6812-45f9-a89f-dbdab585188f",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The music is too loud. Can you _____ the radio, please?",
+    "options": [
+      "turn down",
+      "turn on",
+      "get up",
+      "wake up"
+    ],
+    "answer": "turn down",
+    "explanation": "這題考的是電器操作片語。題目提到「音樂太大聲了（too loud）」，所以請求對方將收音機「調小聲」，正確片語為 turn down（調小聲）。其他選項：turn on（打開電源）、get up（起床）、wake up（醒來）。",
+    "id": "1aa3eca1-e5fe-4c56-a378-98c136bc68e9",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Your bedroom is very dirty. Please _____ your toys.",
+    "options": [
+      "clean up",
+      "put on",
+      "take out",
+      "turn off"
+    ],
+    "answer": "clean up",
+    "explanation": "這題考的是日常家務片語。因為房間很髒（dirty），需要「收拾、清理」玩具，因此正確答案是 clean up（收拾/清理）。其他選項：put on（穿上）、take out（拿出來）、turn off（關掉）。",
+    "id": "59f99351-281f-4556-9884-ab9011e812ef",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where _____ my pencils? They are on the desk.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "這題考的是 be 動詞與主詞單複數的一致性。句子中的主詞為複數名詞 'my pencils'（我的鉛筆們），因此對應的 be 動詞必須用複數型的 'are'。",
+    "id": "ecba38a3-96f9-44f7-9757-9b0918ce7eda",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! The children _____ soccer in the park now.",
+    "options": [
+      "play",
+      "plays",
+      "are playing",
+      "is playing"
+    ],
+    "answer": "are playing",
+    "explanation": "這題考的是現在進行式。句首有 'Look!'（看啊！）且句尾有 'now'（現在），表示動作正在發生。主詞 'The children'（孩子們）為複數，因此 be 動詞用 'are'，後面接現在分詞 'playing'，組成 'are playing'。",
+    "id": "9e35110c-2d96-4cf0-86a9-3ff382c4fc27",
+    "difficulty": "easy"
+  },
+  {
+    "question": "He _____ like to eat papayas. He thinks they smell bad.",
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "aren't"
+    ],
+    "answer": "doesn't",
+    "explanation": "這題考的是一般動詞的否定句。主詞為第三人稱單數 'He'（他），在一般動詞 'like' 的否定句中，必須使用助動詞 'doesn't'。其他選項：don't 用於第一、二人稱或複數主詞；isn't 與 aren't 是 be 動詞，後方不能直接接原形動詞 like。",
+    "id": "842ba49b-44e2-4a3b-ba0f-cfb5edfb7eb3",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Is there _____ milk in the refrigerator? I want to drink some.",
+    "options": [
+      "any",
+      "some",
+      "many",
+      "few"
+    ],
+    "answer": "any",
+    "explanation": "這題考的是 any 與 some 的用法。在疑問句中，詢問「有沒有任何...」通常要使用 'any'。'some' 一般用於肯定句；'milk'（牛奶）是不可數名詞，不能用來修飾可數名詞的 many 或 few。",
+    "id": "03e91bab-b692-4e03-9337-276e617a9770",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is very hot today. I want to eat some chocolate ________.",
+    "options": [
+      "ice cream",
+      "pencil",
+      "doctor",
+      "weather"
+    ],
+    "answer": "ice cream",
+    "explanation": "本題為單字題。題目語意為：「今天天氣很熱。我想吃一些巧克力……。」根據上下文「很熱（hot）」和「巧克力（chocolate）」，最適合填入的食物單字是 \"ice cream\"（冰淇淋）。其他選項：pencil（鉛筆）、doctor（醫生）、weather（天氣）皆不符合語意。",
+    "id": "c31d61a3-23b8-4e5c-9077-0dcc2236750d",
+    "difficulty": "easy"
+  },
+  {
+    "question": "An elephant has a long nose and big ________.",
+    "options": [
+      "ears",
+      "books",
+      "rulers",
+      "apples"
+    ],
+    "answer": "ears",
+    "explanation": "本題為單字題。題目語意為：「大象有長鼻子和大……。」根據常識與句意，大象（elephant）的特徵是長鼻子與「大耳朵（big ears）」。其他選項：books（書本）、rulers（尺）、apples（蘋果）皆不符合動物特徵與句意。",
+    "id": "be3771cd-264e-4dee-8d0d-1b8fa25670fb",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Students read books and study in the ________.",
+    "options": [
+      "kitchen",
+      "library",
+      "bathroom",
+      "park"
+    ],
+    "answer": "library",
+    "explanation": "本題為單字題。題目語意為：「學生們在……裡面看書和學習。」適合看書（read books）與學習（study）的場所是 \"library\"（圖書館）。其他選項：kitchen（廚房）、bathroom（浴室）、park（公園）皆不符合主要學習場所的語意。",
+    "id": "c7e96638-8af0-49d5-a1d1-c2e14c630158",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I usually ________ at seven o'clock in the morning.",
+    "options": [
+      "get up",
+      "go to bed",
+      "put on",
+      "turn off"
+    ],
+    "answer": "get up",
+    "explanation": "本題為片語題。題目語意為：「我通常在早上七點……。」。\"get up\" 是「起床」的意思，符合早上（in the morning）的時間與日常作息情境。其他片語：go to bed（上床睡覺）、put on（穿上）、turn off（關掉）皆不符合時間情境。",
+    "id": "a0756435-8799-47fb-8c94-65db767ea489",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ________ the blackboard. The teacher is writing on it.",
+    "options": [
+      "look at",
+      "listen to",
+      "write down",
+      "wait for"
+    ],
+    "answer": "look at",
+    "explanation": "本題為片語題。題目語意為：「請……黑板。老師正在上面寫字。」。\"look at\" 是「看著……」的意思，符合看黑板的情境。其他片語：listen to（聽……）、write down（寫下）、wait for（等待）在此處不符課堂指示語情境。",
+    "id": "cd0482ff-8ed1-4f00-846b-b898ba037984",
+    "difficulty": "easy"
+  },
+  {
+    "question": "After playing basketball, Peter wants to ________.",
+    "options": [
+      "take a shower",
+      "make a wish",
+      "do homework",
+      "take a trip"
+    ],
+    "answer": "take a shower",
+    "explanation": "本題為片語題。題目語意為：「打完籃球後，彼得想要……。」。運動完流汗後，最合適的行為是 \"take a shower\"（洗澡/淋浴）。其他片語：make a wish（許願）、do homework（做功課）、take a trip（旅行）皆不符合運動完需要清潔的情境。",
+    "id": "d5463a67-038d-4e65-bf39-0a5b7ac27feb",
+    "difficulty": "easy"
+  },
+  {
+    "question": "There ________ many apples on the table.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "本題為文法題。題目語意為：「桌子上有許多蘋果。」。在 Here/There be 的句型中，be 動詞的單複數要看後面的主詞決定。因為 \"many apples\"（許多蘋果）是複數名詞，所以必須搭配複數 be 動詞 \"are\"。",
+    "id": "4f76f476-617b-41a8-85a2-389d5fe22e69",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My sister ________ milk every morning.",
+    "options": [
+      "drink",
+      "drinks",
+      "drinking",
+      "drank"
+    ],
+    "answer": "drinks",
+    "explanation": "本題為文法題。題目語意為：「我妹妹每天早上喝牛奶。」。由時間副詞 \"every morning\"（每天早上）可知此句要用「現在簡單式」來表示規律習慣。主詞 \"My sister\"（我妹妹）為單數第三人稱（She），因此一般動詞 drink 後面必須加上 s，變成 \"drinks\"。",
+    "id": "cddbf431-c945-4acf-8af6-38ecd737ee0d",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A: ________ is my blue pencil? B: It is under your desk.",
+    "options": [
+      "Who",
+      "What",
+      "Where",
+      "How"
+    ],
+    "answer": "Where",
+    "explanation": "本題為文法題。題目語意為：「A：我的藍色鉛筆在……？ B：它在你的書桌下。」。答句中的 \"under your desk\"（在你的書桌下）表示一個「位置」，因此問句必須使用詢問地點的疑問詞 \"Where\"（在哪裡）。其他疑問詞：Who（誰）、What（什麼）、How（如何）皆不符合答句。",
+    "id": "871bc0fa-786e-4d4a-a247-21d709927968",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The cat is sleeping ________ the chair. We can't see it easily.",
+    "options": [
+      "under",
+      "on",
+      "in",
+      "next"
+    ],
+    "answer": "under",
+    "explanation": "本題為文法題。題目語意為：「貓咪正在椅子……睡覺。我們不太容易看到牠。」。根據後半句「我們不容易看到牠（can't see it easily）」，表示貓咪被椅子擋住了，因此最適合的介系詞是 \"under\"（在……下面）。若選 \"on\"（在……上面）則很容易被看見；\"next\" 後面必須接 to（next to）才能表示在旁邊，因此不選。",
+    "id": "1d52a588-cbed-4563-bc81-c3c5a69c6087",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I am hungry. I want to eat an ________.",
+    "options": [
+      "apple",
+      "banana",
+      "dog",
+      "pencil"
+    ],
+    "answer": "apple",
+    "explanation": "本題測試基礎國小單字。句意為「我肚子餓了。我想吃一顆……」。「an」後面需要接母音開頭的單字，選項中只有「apple」（蘋果）符合母音開頭（a）且符合「肚子餓想吃東西」的語意。",
+    "id": "fe04fe4c-fb91-4c77-96db-66a8c5533562",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look at the elephant! It has a long ________.",
+    "options": [
+      "nose",
+      "arm",
+      "leg",
+      "ear"
+    ],
+    "answer": "nose",
+    "explanation": "本題測試身體部位單字。句意為「看那隻大象！牠有一隻長長的……」。大象最顯著的特徵是長鼻子，因此選擇「nose」（鼻子）。其他選項為 arm（手臂）、leg（腿）、ear（耳朵）。",
+    "id": "8d52fc2c-0bf1-4136-9692-5f45ae2d0691",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ________ the light before you go to sleep.",
+    "options": [
+      "turn on",
+      "turn off",
+      "stand up",
+      "sit down"
+    ],
+    "answer": "turn off",
+    "explanation": "本題測試日常片語。句意為「睡覺前請……燈」。睡覺前應該要「關燈」，「turn off」是「關掉（電器、電源、燈火）」的意思。相对应的「turn on」是打開，「stand up」是站起來，「sit down」是坐下。",
+    "id": "a5a602a9-86cc-48d6-8fd5-581a54577a07",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We usually ________ at 7:00 in the morning.",
+    "options": [
+      "get up",
+      "go to bed",
+      "clean up",
+      "listen to"
+    ],
+    "answer": "get up",
+    "explanation": "本題測試日常作息片語。句意為「我們通常在早上七點……」。「get up」是「起床」的意思，最符合早上七點的作息。其他片語意思為：go to bed（上床睡覺）、clean up（清理）、listen to（傾聽）。",
+    "id": "7e4a057a-d62a-4ae8-b266-54119bf0470e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ________ your English book and open it.",
+    "options": [
+      "take out",
+      "put on",
+      "look at",
+      "write down"
+    ],
+    "answer": "take out",
+    "explanation": "本題測試課堂常用片語。句意為「請……你的英文書並打開它」。「take out」是「拿出」的意思，拿出課本後再打開，邏輯最為通順。其他選項：put on（穿上）、look at（看著）、write down（寫下）。",
+    "id": "1631758c-7986-437a-aee1-b470e17c2f27",
+    "difficulty": "easy"
+  },
+  {
+    "question": "________ you like apples? Yes, I do.",
+    "options": [
+      "Do",
+      "Does",
+      "Are",
+      "Is"
+    ],
+    "answer": "Do",
+    "explanation": "本題測試現在簡單式的助動詞文法。簡答為「Yes, I do.」，問句就要用助動詞「Do」或「Does」來提問。因為主詞是第二人稱「you」，所以助動詞必須使用「Do」。",
+    "id": "d71abaaf-1b55-4fb3-86e8-955829868e85",
+    "difficulty": "easy"
+  },
+  {
+    "question": "He ________ to school by bus every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "is go"
+    ],
+    "answer": "goes",
+    "explanation": "本題測試主詞與動詞的一致性（第三人稱單數）。「every day」表示每天重複的規律習慣，要用現在簡單式。主詞「He」是第三人稱單數，動詞 go 必須字尾加 es 變成「goes」。",
+    "id": "1f02585f-30be-4666-ab45-7c14e87814ee",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What ________ she doing now? She is singing.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "does"
+    ],
+    "answer": "is",
+    "explanation": "本題測試現在進行式文法。句尾有「now」（現在），且動詞為「doing」，可知本句為現在進行式。現在進行式結構為「be 動詞 + V-ing」。主詞是第三人稱單數「she」，對應的 be 動詞為「is」。",
+    "id": "8ac30d76-5d36-4782-b8d0-f630747b9bb3",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I have a pet. It can bark and run. It is a _______.",
+    "options": [
+      "cat",
+      "dog",
+      "bird",
+      "fish"
+    ],
+    "answer": "dog",
+    "explanation": "題目提到「我有一隻寵物。牠會吠叫（bark）也會跑。」，在四個選項當中，只有「dog（狗）」符合會吠叫的特徵，故選 dog。其他選項為：cat（貓）、bird（鳥）、fish（魚）。",
+    "id": "0bff5a63-4940-49e5-a93c-a78e7e24d574",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is very hot today. Let's eat some _______.",
+    "options": [
+      "hot dogs",
+      "ice cream",
+      "soup",
+      "bread"
+    ],
+    "answer": "ice cream",
+    "explanation": "題目意思是「今天天氣很熱（hot）。我們來吃點……吧。」。在炎熱的天氣裡，最適合吃消暑的「ice cream（冰淇淋）」。其他選項為：hot dogs（熱狗）、soup（湯）、bread（麵包）。",
+    "id": "c5396484-d7ce-4438-811f-8891503c8053",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I need to write my homework. Where is my _______?",
+    "options": [
+      "pencil",
+      "desk",
+      "chair",
+      "bag"
+    ],
+    "answer": "pencil",
+    "explanation": "題目意思為「我需要寫（write）作業。我的……在哪裡？」。用來寫字的工具是文具「pencil（鉛筆）」。其他選項為：desk（書桌）、chair（椅子）、bag（袋子/書包）。",
+    "id": "3c8445fe-f4a4-4d3d-a1f8-d2d03a7ef825",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I usually _______ at 9:30 PM because I am tired.",
+    "options": [
+      "go to bed",
+      "get up",
+      "go to school",
+      "have lunch"
+    ],
+    "answer": "go to bed",
+    "explanation": "題目意思是「我通常在晚上九點半（9:30 PM）……，因為我很累（tired）。」。因為時間是晚上且感到疲倦，最符合語境的片語是「go to bed（上床睡覺）」。其他片語為：get up（起床）、go to school（上學）、have lunch（吃午餐）。",
+    "id": "bdc2db27-8a17-4ae1-a1aa-8e5cebe9698c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please _______ your book and turn to page 10.",
+    "options": [
+      "look at",
+      "close",
+      "open",
+      "listen to"
+    ],
+    "answer": "open",
+    "explanation": "題目意思是「請……你的書並翻到第10頁。」。要翻到特定的頁數，必須先「open（打開）」書本。其他選項為：look at（看著）、close（合上/關閉）、listen to（聆聽）。",
+    "id": "339d6311-d764-4119-ac9a-33085b6e5218",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A: Thank you for your help!\nB: You are _______.",
+    "options": [
+      "welcome",
+      "fine",
+      "great",
+      "sorry"
+    ],
+    "answer": "welcome",
+    "explanation": "當對方表達感謝「Thank you for your help!（謝謝你的幫忙！）」時，最常見且有禮貌的客套回應是「You are welcome.（不客氣。）」",
+    "id": "0694d4b0-2e19-4728-a9c7-5e0012dc1e60",
+    "difficulty": "easy"
+  },
+  {
+    "question": "He _______ my brother. We like to play basketball together.",
+    "options": [
+      "am",
+      "are",
+      "is",
+      "be"
+    ],
+    "answer": "is",
+    "explanation": "本題測試 be 動詞的用法。主詞為單數第三人稱「He（他）」，在現在簡單式中對應的 be 動詞為「is」。",
+    "id": "c6967190-6218-4057-b9ef-24652e98f318",
+    "difficulty": "easy"
+  },
+  {
+    "question": "There are three _______ on the dining table.",
+    "options": [
+      "apple",
+      "apples",
+      "an apple",
+      "apple's"
+    ],
+    "answer": "apples",
+    "explanation": "句中出現了數量詞「three（三個）」，後面必須接複數名詞。名詞「apple（蘋果）」的複數形是在字尾加上 s 變成「apples」。",
+    "id": "6199f0f5-48e1-4695-874e-476ccfe33c43",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! The girls _______ dancing in the classroom.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "句首有「Look!（看！）」表示動作正在發生，必須使用現在進行式（be 動詞 + V-ing）。主詞「The girls（女孩們）」為複數，因此 be 動詞必須選用「are」。",
+    "id": "06076082-c465-4474-a74a-b75692b16eb5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "_______ is that tall boy? He is my cousin, Tom.",
+    "options": [
+      "What",
+      "Where",
+      "Who",
+      "How"
+    ],
+    "answer": "Who",
+    "explanation": "答句為「He is my cousin, Tom.（他是我的表哥湯姆。）」，對方是在回答關於「人（是誰）」的問題，因此問句要使用詢問人的疑問詞「Who（誰）」。其他疑問詞為：What（什麼）、Where（哪裡）、How（如何）。",
+    "id": "b7bd20ee-a564-4e8a-aa96-67399012c09d",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My father's sister is my ________.",
+    "options": [
+      "mother",
+      "uncle",
+      "aunt",
+      "brother"
+    ],
+    "answer": "aunt",
+    "explanation": "英文中的 aunt 代表姑姑、阿姨、嬸嬸、伯母。題目中『父親的姊妹（My father's sister）』就是姑姑，因此正確答案是 aunt。其餘選項分別為：mother（媽媽）、uncle（叔叔/伯伯/舅舅）、brother（兄弟）。",
+    "id": "5f45cffe-d4ce-44d9-8d17-055c709c512a",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please use a ________ to write down your name.",
+    "options": [
+      "bag",
+      "pencil",
+      "desk",
+      "chair"
+    ],
+    "answer": "pencil",
+    "explanation": "題目意為『請用...寫下你的名字』。動詞片語 write down（寫下）需要搭配書寫工具，四個選項中只有 pencil（鉛筆）是文具，其餘選項分別為：bag（書包）、desk（書桌）、chair（椅子）。",
+    "id": "d1fafd68-901c-4727-a308-e83737e880e8",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ________ your jacket. It is cold outside.",
+    "options": [
+      "put on",
+      "take off",
+      "look at",
+      "listen to"
+    ],
+    "answer": "put on",
+    "explanation": "片語 put on 代表『穿上』。題目後半段提到『外面很冷（It is cold outside）』，因此前半段應是叮嚀『請穿上你的夾克』。其餘選項分別為：take off（脫掉）、look at（看著）、listen to（聽）。",
+    "id": "d9650379-191c-4625-ac68-e9792311146b",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I am so tired. I want to ________ now.",
+    "options": [
+      "go to bed",
+      "go to school",
+      "go to the park",
+      "go shopping"
+    ],
+    "answer": "go to bed",
+    "explanation": "片語 go to bed 代表『去睡覺』。題目第一句提到『我好累（I am so tired）』，因此後面表示『我現在想去睡覺』最符合邏輯。其餘選項分別為：go to school（去上學）、go to the park（去公園）、go shopping（去買東西）。",
+    "id": "4241bec8-f005-448c-8291-8cc0911d0eec",
+    "difficulty": "easy"
+  },
+  {
+    "question": "________ is your English teacher? Miss Lin.",
+    "options": [
+      "Who",
+      "What",
+      "Where",
+      "How"
+    ],
+    "answer": "Who",
+    "explanation": "本題測試疑問詞的用法。答句為 Miss Lin（林老師，是一個人），代表問句是在詢問『是誰』，因此必須使用詢問人的疑問詞 Who。其餘選項分別為：What（什麼，問事物）、Where（哪裡，問地點）、How（如何，問程度或方式）。",
+    "id": "8969a1a9-63ec-4b2c-b649-eb61f9d2b8e2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Do you like apples? Yes, I ________.",
+    "options": [
+      "do",
+      "does",
+      "am",
+      "like"
+    ],
+    "answer": "do",
+    "explanation": "本題測試助動詞的問答。當問句使用助動詞 Do 開頭（Do you...?）時，簡答時也要使用相同的助動詞來回答。因為答句主詞是 I，所以搭配的第一人稱單數助動詞為 do（Yes, I do.）。",
+    "id": "dd153671-31bc-4aa2-be0b-599a8e00efe7",
+    "difficulty": "easy"
+  },
+  {
+    "question": "There ________ three books on the desk.",
+    "options": [
+      "is",
+      "are",
+      "be",
+      "have"
+    ],
+    "answer": "are",
+    "explanation": "本題測試『There is / There are』（某處有某物）的文法。因為後面的主詞 three books（三本書）是複數名詞，因此 be 動詞必須使用複數型的 are。在英文文法中，表示『某處有...』不能使用 There have。",
+    "id": "cae1b482-e996-4aa3-88f1-ca7413fd0a6a",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I have a cute pet at home. It can bark and run fast. It is a ___.",
+    "options": [
+      "cat",
+      "dog",
+      "bird",
+      "fish"
+    ],
+    "answer": "dog",
+    "explanation": "題目意為：「我家有一隻可愛的寵物。牠會吠叫（bark）而且跑得很快。牠是一隻___。」根據關鍵字 bark（吠叫），正確答案應該是 dog（狗）。",
+    "id": "ca159a7f-2333-4460-a60f-2891afd02eb8",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! It is raining outside. Please bring your ___ with you.",
+    "options": [
+      "umbrella",
+      "notebook",
+      "eraser",
+      "pencil"
+    ],
+    "answer": "umbrella",
+    "explanation": "題目意為：「看！外面正在下雨。請隨身攜帶你的___。」根據 raining（下雨），下雨天出門需要帶的是 umbrella（雨傘）。",
+    "id": "508cc7ad-532a-43e8-821d-7a828421f076",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We can draw and paint beautiful pictures in ___ class.",
+    "options": [
+      "English",
+      "math",
+      "art",
+      "music"
+    ],
+    "answer": "art",
+    "explanation": "題目意為：「我們可以在___課畫美麗的圖畫。」根據 draw（畫圖）和 paint（著色/繪畫），最適合的課堂是 art（美術/藝術）課。",
+    "id": "1ceee31e-f202-431c-90d8-8204042e052e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Good morning, Leo! It is time to ___ up and get ready for school.",
+    "options": [
+      "wake",
+      "go",
+      "look",
+      "sit"
+    ],
+    "answer": "wake",
+    "explanation": "題目意為：「早安，Leo！該是___來準備去上學的時候了。」動詞片語 wake up 表示「醒來」，最符合早晨起床的情境。",
+    "id": "2802f8f8-97e1-49a4-8826-62ba318b3ab3",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is very cold today. You should ___ on your heavy coat.",
+    "options": [
+      "take",
+      "put",
+      "turn",
+      "write"
+    ],
+    "answer": "put",
+    "explanation": "題目意為：「今天天氣很冷。你應該___上你的厚外套。」動詞片語 put on 表示「穿上/戴上」，適合用來描述穿外套的動作。",
+    "id": "83797a98-868e-4865-a9e8-0efbc0a6f856",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ___ to the teacher carefully in class.",
+    "options": [
+      "look at",
+      "listen to",
+      "write down",
+      "speak with"
+    ],
+    "answer": "listen to",
+    "explanation": "題目意為：「上課時請專心___老師。」動詞片語 listen to 表示「傾聽/聽」，常用來表達聽老師說話或講課。",
+    "id": "4e10ee3b-7d75-40bb-bb51-db2ce8e21935",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My sister and I ___ playing with our toys in the living room now.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "題目意為：「我和我的姊姊/妹妹現在正在客廳玩玩具。」主詞為複數的 My sister and I（相當於 we「我們」），且句子後方有 now 表示現在進行式，因此 be 動詞應搭配複數型的 are。",
+    "id": "bd8eedbb-ab2a-43be-9dc2-f36ece326039",
+    "difficulty": "easy"
+  },
+  {
+    "question": "___ is my blue pencil? It is on the kitchen table.",
+    "options": [
+      "Who",
+      "What",
+      "Where",
+      "When"
+    ],
+    "answer": "Where",
+    "explanation": "題目意為：「我的藍色鉛筆___？牠在廚房的桌子上。」答句回答了位置「on the kitchen table」（在廚房桌子上），因此問句要選用詢問地點的疑問詞 Where（在哪裡）。",
+    "id": "eef408a0-24b8-44dc-9520-132dbd210fc6",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Tom ___ his homework after dinner every evening.",
+    "options": [
+      "do",
+      "does",
+      "doing",
+      "did"
+    ],
+    "answer": "does",
+    "explanation": "題目意為：「Tom 每天傍晚晚餐後都會做功課。」這是一個表示習慣規律的現在簡單式句子（含有 every evening）。主詞 Tom 是單數第三人稱，因此動詞 do 必須轉為單數動詞 does。",
+    "id": "2c024fcc-99b7-4993-a591-396c70e50102",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is Mary doing? She is ___ an apple in the dining room.",
+    "options": [
+      "eat",
+      "eating",
+      "eats",
+      "ate"
+    ],
+    "answer": "eating",
+    "explanation": "題目意為：「Mary 正在做什麼？她正在飯廳___蘋果。」問句為現在進行式（is doing），答句也要使用現在進行式（be 動詞 is + V-ing 動詞形式），因此選擇 eating。",
+    "id": "2c8f1e82-6a0c-4ce7-8908-e289455f5145",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A ______ has a long nose and big ears.",
+    "options": [
+      "pig",
+      "rabbit",
+      "cat",
+      "elephant"
+    ],
+    "answer": "elephant",
+    "explanation": "本題測試基礎動物單字。句意為「大象（elephant）擁有長鼻子和大耳朵。」其餘選項：pig（豬）、rabbit（兔子）、cat（貓）皆不符合特徵描述，故正確答案為 elephant。",
+    "id": "3fb353ab-d152-44c1-afa5-fa034c8b4892",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I want to drink some ______ because I am thirsty.",
+    "options": [
+      "water",
+      "bread",
+      "cake",
+      "rice"
+    ],
+    "answer": "water",
+    "explanation": "本題測試日常飲食單字。關鍵字為 drink（喝）與 thirsty（口渴的），因此空格必須填入可飲用的液體。選項中只有 water（水）符合；其餘選項：bread（麵包）、cake（蛋糕）、rice（米飯）皆為固體食物，故選 water。",
+    "id": "e8fee502-2982-4e5e-a1ed-0a7f8f86689d",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Yellow and blue make ______.",
+    "options": [
+      "red",
+      "green",
+      "orange",
+      "purple"
+    ],
+    "answer": "green",
+    "explanation": "本題測試顏色單字與生活常識。黃色（yellow）加上藍色（blue）會調配出綠色（green）。其餘選項：red（紅色）、orange（橘色）、purple（紫色）皆不符色彩混合規律，故選 green。",
+    "id": "c673c91a-1eec-4bd1-ae4c-84151881a15a",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ______ your shoes before you enter the room.",
+    "options": [
+      "take off",
+      "put on",
+      "turn on",
+      "wake up"
+    ],
+    "answer": "take off",
+    "explanation": "本題測試日常動詞片語。句意為「在進入房間之前，請脫下（take off）你的鞋子。」其餘選項：put on（穿上）、turn on（打開電器開關）、wake up（醒來），依照生活情境，進家門前應脫鞋，故正確答案為 take off。",
+    "id": "d51738ac-567a-4e07-ab0e-9e38269834d3",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We usually ______ in the school gym.",
+    "options": [
+      "play basketball",
+      "watch TV",
+      "take a shower",
+      "do homework"
+    ],
+    "answer": "play basketball",
+    "explanation": "本題測試日常活動片語。動詞片語與場所（gym 體育館）的搭配。我們通常在體育館「打籃球（play basketball）」。其餘選項：watch TV（看電視）、take a shower（洗澡）、do homework（做功課）皆非學校體育館的主要活動，故選 play basketball。",
+    "id": "2629c4b0-e30c-471b-8958-6662a6f93829",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I am very tired. I want to ______ now.",
+    "options": [
+      "go to bed",
+      "go shopping",
+      "ride a bike",
+      "study English"
+    ],
+    "answer": "go to bed",
+    "explanation": "本題測試生活起居片語。前句提到「我很累（tired）」，後面邏輯上應接表達休息的動作，故選擇「去睡覺（go to bed）」。其餘選項：go shopping（去購物）、ride a bike（騎腳踏車）、study English（讀英文）皆不符合疲倦時的生理需求。",
+    "id": "972ca62d-a463-44c2-b969-8816a74b57ce",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many ______ do you see in the park?",
+    "options": [
+      "dog",
+      "dogs",
+      "a dog",
+      "dogs'"
+    ],
+    "answer": "dogs",
+    "explanation": "本題測試複數名詞文法。問句「How many...（有多少...）」後面必須接「可數名詞的複數形」。選項中只有 dogs（狗的複數形）符合語法。dog 為單數，a dog 含有單數冠詞，dogs' 為複數所有格，皆不符合要求。",
+    "id": "8365674b-872f-4bd9-9417-7daea0a162e6",
+    "difficulty": "easy"
+  },
+  {
+    "question": "______ does she go to school? She goes to school by bus.",
+    "options": [
+      "What",
+      "Where",
+      "How",
+      "Who"
+    ],
+    "answer": "How",
+    "explanation": "本題測試疑問詞文法。答句為「She goes to school by bus.（她搭公車上學）」，其中「by bus」表示交通方式，針對交通方式提問必須使用疑問詞「How（如何、如何方式）」。其餘選項：What（什麼）、Where（哪裡）、Who（誰）皆不符合答句語意。",
+    "id": "242892cd-6d83-4b0d-b6de-bcdcfb58638c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Where is my ball? It is ______ the box. Look inside!",
+    "options": [
+      "in",
+      "on",
+      "under",
+      "next to"
+    ],
+    "answer": "in",
+    "explanation": "本題測試地方介系詞。後句提示「Look inside!（看裡面！）」，表示球在盒子的「內部」，因此介系詞應選「in（在...裡面）」。其餘選項：on（在...上面）、under（在...下面）、next to（在...旁邊）皆與 inside（裡面）邏輯不符。",
+    "id": "6618c1fc-3126-459a-a631-bef444f214cb",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My sister ______ like milk. She likes juice.",
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "not"
+    ],
+    "answer": "doesn't",
+    "explanation": "本題測試現在簡單式否定助動詞。主詞 My sister（我的妹妹/姊姊）為第三人稱單數（相當於代名詞 She），在現在簡單式中，一般動詞 like 的否定助動詞應使用 doesn't。don't 用於第一/二人稱或複數主詞；isn't 是 be 動詞，不能直接修飾一般動詞原形 like；not 不能單獨置於一般動詞前做否定。",
+    "id": "784b4850-a394-449d-adb0-20b1f41c4054",
+    "difficulty": "easy"
+  }
+]
