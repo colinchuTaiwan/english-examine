@@ -402,7 +402,7 @@ elif st.session_state.step == "quiz":
                         correct = (user_ans == current_q["answer"])
                         if correct:
                             st.session_state.streak += 1
-                            points = time_left + st.session_state.streak * STREAK_BONUS
+                            points = time_left + (st.session_state.streak-1) * STREAK_BONUS
                         else:
                             st.session_state.streak = 0
                             points = 0
