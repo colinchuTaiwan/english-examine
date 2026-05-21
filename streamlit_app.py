@@ -1,6 +1,19 @@
 """
 app.py — 英文測驗網頁（Streamlit Cloud + Firebase Realtime Database）
 
+對，架構是這樣：
+
+| 功能 | 用什麼 |
+|------|--------|
+| 讀題庫（element/junior/high/practice.json） | GitHub（你的 repo） |
+| 存成績 / 讀榮譽榜 | Firebase |
+
+題庫放在 GitHub 是合理的，因為它是靜態資料，公開 repo 直接讀就好，不需要 token。
+
+Firebase 只負責成績記錄，因為那個需要多人即時寫入。
+
+所以 Secrets 只需要 `[firebase]` 那段，`[github]` 可以整個刪掉。
+
 部署設定（Streamlit Cloud Secrets）：
     [firebase]
     type = "service_account"
@@ -13,10 +26,6 @@ app.py — 英文測驗網頁（Streamlit Cloud + Firebase Realtime Database）
     token_uri = "https://oauth2.googleapis.com/token"
     database_url = "https://your-project-default-rtdb.firebaseio.com"
 
-    [github]
-    token  = "ghp_xxxxxxxxxxxx"
-    repo   = "colinchuTaiwan/english-examine"
-    branch = "main"
 
 requirements.txt：
     streamlit
