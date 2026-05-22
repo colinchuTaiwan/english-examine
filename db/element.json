@@ -1831,5 +1831,1474 @@
     "explanation": "本題測試現在簡單式否定助動詞。主詞 My sister（我的妹妹/姊姊）為第三人稱單數（相當於代名詞 She），在現在簡單式中，一般動詞 like 的否定助動詞應使用 doesn't。don't 用於第一/二人稱或複數主詞；isn't 是 be 動詞，不能直接修飾一般動詞原形 like；not 不能單獨置於一般動詞前做否定。",
     "id": "784b4850-a394-449d-adb0-20b1f41c4054",
     "difficulty": "easy"
+  },
+  {
+    "question": "Look at that ________! It has a very long nose.",
+    "options": [
+      "elephant",
+      "monkey",
+      "rabbit",
+      "turtle"
+    ],
+    "answer": "elephant",
+    "explanation": "這題考的是動物單字。句意為「看那一隻________！牠有很長的鼻子。」在選項中，只有「elephant（大象）」具有長鼻子的特徵。其他選項：monkey（猴子）、rabbit（兔子）、turtle（烏龜）皆不符合描述。",
+    "id": "2f34a30d-9f0c-41a8-b18c-14d8342b58c0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is very cold inside. Please ________ your coat.",
+    "options": [
+      "put on",
+      "take off",
+      "turn off",
+      "get up"
+    ],
+    "answer": "put on",
+    "explanation": "這題考的是日常動詞片語。句意為「裡面非常冷。請________你的外套（coat）。」因為天氣冷，所以要「穿上（put on）」外套。其他選項：take off（脫掉）、turn off（關掉）、get up（起床）皆不符合語意。",
+    "id": "e9e86479-3850-4f0b-90ec-168404e8d395",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It's 10:00 PM. It is time to ________.",
+    "options": [
+      "go to bed",
+      "play sports",
+      "go to school",
+      "have lunch"
+    ],
+    "answer": "go to bed",
+    "explanation": "這題考的是時間與作息片語。句意為「現在是晚上十點（10:00 PM）。是時間去________了。」晚上十點是睡覺時間，因此選「go to bed（去睡覺）」。其他選項：play sports（做運動）、go to school（去上學）、have lunch（吃午餐）皆不符合時間邏輯。",
+    "id": "365619a8-abd8-4407-8424-e55e45e2b145",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I usually ________ at 7:00 in the morning to get ready for school.",
+    "options": [
+      "get up",
+      "sit down",
+      "listen to",
+      "look at"
+    ],
+    "answer": "get up",
+    "explanation": "這題考的是日常動詞片語。句意為「我通常在早上七點________，準備去上學。」早上七點起準備上學，因此填入「get up（起床）」。其他選項：sit down（坐下）、listen to（聽）、look at（看著）皆不符合語意。",
+    "id": "f94a0886-4a62-4815-a118-a5196db6984b",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A: Who is that tall boy? B: ________ is my brother, Ted.",
+    "options": [
+      "He",
+      "She",
+      "They",
+      "You"
+    ],
+    "answer": "He",
+    "explanation": "這題考的是人稱代名詞。問句中的「that tall boy（那個高個子男孩）」是第三人稱單數男性，因此答句要用代名詞「He（他）」來代替。其他選項：She（她，女性）、They（他們，複數）、You（你）皆不符合文意。",
+    "id": "cc90ec4b-cd37-4f42-baee-902ec99f5e76",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A: ________ is my pencil? B: It's under the chair.",
+    "options": [
+      "Where",
+      "What",
+      "Who",
+      "How"
+    ],
+    "answer": "Where",
+    "explanation": "這題考的是疑問詞。答句為「It's under the chair（它在椅子下面）」，是在回答「位置（地點）」，因此問句必須使用詢問地點的疑問詞「Where（哪裡）」。其他選項：What（什麼）、Who（誰）、How（如何）皆不符合答句的提示。",
+    "id": "d420c032-7566-44ff-b7c8-00c781ed812b",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! The sun is shining. It is a _____ day.",
+    "options": [
+      "rainy",
+      "sunny",
+      "cloudy",
+      "windy"
+    ],
+    "answer": "sunny",
+    "explanation": "看到太陽（sun）在閃耀，代表今天是個「晴朗的（sunny）」日子。其他選項：rainy（下雨的）、cloudy（多雲的）、windy（風大的）不符合句意。",
+    "id": "9e36065e-dcdd-4a3c-9a60-b14e62a38d6e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My favorite fruit is a yellow, long fruit. Monkeys love to eat it, too. It is a _____.",
+    "options": [
+      "banana",
+      "apple",
+      "grape",
+      "watermelon"
+    ],
+    "answer": "banana",
+    "explanation": "題目中描述這個水果是黃色且長條狀的，而且猴子也很喜歡吃，因此答案是「香蕉（banana）」。其他選項：apple（蘋果）、grape（葡萄）、watermelon（西瓜）。",
+    "id": "fd7215fc-a81f-4d61-b794-38d6988af732",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We can read books and borrow books in the _____.",
+    "options": [
+      "library",
+      "classroom",
+      "restroom",
+      "gym"
+    ],
+    "answer": "library",
+    "explanation": "我們可以閱讀和借書的地方是「圖書館（library）」。其他選項：classroom（教室）、restroom（廁所）、gym（體育館）。",
+    "id": "c1e903a4-f720-4b1d-90b1-3295e1958a07",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is cold outside. Please _____ your coat.",
+    "options": [
+      "put on",
+      "take off",
+      "look at",
+      "wake up"
+    ],
+    "answer": "put on",
+    "explanation": "外面很冷（cold），因此請「穿上（put on）」你的外套。其他選項：take off（脫掉）、look at（看著）、wake up（醒來）。",
+    "id": "94a11fb3-0082-453d-8eab-ba57f48ac60d",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please _____ the light. The room is too dark.",
+    "options": [
+      "turn on",
+      "turn off",
+      "turn around",
+      "turn left"
+    ],
+    "answer": "turn on",
+    "explanation": "因為房間太暗了（too dark），所以請「打開（turn on）」電燈。其他選項：turn off（關掉）、turn around（轉身）、turn left（向左轉）。",
+    "id": "87af0872-9046-4e1e-bb74-a0a5269f6072",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Amy and her brother _____ playing with a toy car in the living room now.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "本題測試現在進行式。主詞是「Amy and her brother（Amy和她的哥哥/弟弟）」，屬於複數主詞（他們），因此 be 動詞要配合使用「are」。",
+    "id": "ba59bf84-e03a-4512-8b57-5cd70eb8bf2c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "_____ your father like to drink coffee?",
+    "options": [
+      "Do",
+      "Does",
+      "Is",
+      "Are"
+    ],
+    "answer": "Does",
+    "explanation": "本題是 Yes/No 疑問句。主詞「your father（你的父親）」為第三人稱單數，且後面有一般動詞原形「like（喜歡）」，因此必須使用助動詞「Does」來提問。",
+    "id": "a7396dfe-3f18-4e7f-abb8-4980989fac62",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The rabbit is hiding _____ the box. We can only see its ears sticking out.",
+    "options": [
+      "in",
+      "on",
+      "under",
+      "between"
+    ],
+    "answer": "in",
+    "explanation": "根據後面的線索「我們只能看到牠的耳朵露出來」，可知兔子是躲在箱子「裡面（in）」。其他介系詞：on（在...上面）、under（在...下面）、between（在...之間）不符合情境。",
+    "id": "dd5a9280-9591-4fb5-bd5b-6737e1baa78c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The animal from Australia jumps very high and carries its baby in a pouch. What is it?",
+    "options": [
+      "kangaroo",
+      "elephant",
+      "monkey",
+      "tiger"
+    ],
+    "answer": "kangaroo",
+    "explanation": "本題測驗動物單字。根據題幹描述來自澳洲 (Australia)、跳很高 (jumps very high) 且有育兒袋 (pouch)，可判斷是袋鼠。kangaroo 意為「袋鼠」。",
+    "id": "q1w2e3r4t5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "If you mix red and blue colors together, you will get ____.",
+    "options": [
+      "yellow",
+      "purple",
+      "green",
+      "orange"
+    ],
+    "answer": "purple",
+    "explanation": "本題測驗顏色單字。紅色 (red) 加藍色 (blue) 混合後會變成紫色。purple 意為「紫色」。",
+    "id": "y6u7i8o9p0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My favorite Italian food is ____. I love to eat it with tomato sauce.",
+    "options": [
+      "spaghetti",
+      "hamburger",
+      "sandwich",
+      "sushi"
+    ],
+    "answer": "spaghetti",
+    "explanation": "本題測驗食物單字。題目提到義大利食物 (Italian food) 且常搭配番茄醬 (tomato sauce) 食用，spaghetti 意為「義大利麵」，最符合題意。",
+    "id": "a1s2d3f4g5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My uncle has a son. He is my ____. We often play games together.",
+    "options": [
+      "brother",
+      "cousin",
+      "father",
+      "grandfather"
+    ],
+    "answer": "cousin",
+    "explanation": "本題測驗家人稱謂單字。叔叔/舅舅的兒子在英文中稱為 cousin，意為「堂/表兄弟姊妹」。",
+    "id": "h6j7k8l9z0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Students must keep quiet and read books in the ____.",
+    "options": [
+      "gym",
+      "kitchen",
+      "library",
+      "restroom"
+    ],
+    "answer": "library",
+    "explanation": "本題測驗學校場所單字。學生必須保持安靜 (keep quiet) 並閱讀書本的地方是圖書館。library 意為「圖書館」。",
+    "id": "x1c2v3b4n5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Ten times ten equals one ____. It is a big number.",
+    "options": [
+      "ten",
+      "hundred",
+      "thousand",
+      "million"
+    ],
+    "answer": "hundred",
+    "explanation": "本題測驗數字單字。十 (ten) 乘以十等於一百。hundred 意為「一百」。",
+    "id": "m6q7w8e9r0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We cannot see the sun in the sky today because it is very ____.",
+    "options": [
+      "sunny",
+      "cloudy",
+      "hot",
+      "dry"
+    ],
+    "answer": "cloudy",
+    "explanation": "本題測驗天氣單字。因為天空中看不見太陽 (cannot see the sun)，表示雲層很厚。cloudy 意為「多雲的、陰天的」。",
+    "id": "t1y2u3i4o5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When your teeth hurt, you should go to see a ____ immediately.",
+    "options": [
+      "teacher",
+      "farmer",
+      "dentist",
+      "singer"
+    ],
+    "answer": "dentist",
+    "explanation": "本題測驗職業單字。當牙齒痛 (teeth hurt) 的時候，必須去看牙醫。dentist 意為「牙醫」。",
+    "id": "p6a7s8d9f0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The ____ is a big green animal with a long tail and sharp teeth.",
+    "options": [
+      "crocodile",
+      "rabbit",
+      "pig",
+      "duck"
+    ],
+    "answer": "crocodile",
+    "explanation": "本題測驗動物單字。綠色大型動物，有長尾巴 (long tail) 與尖銳牙齒 (sharp teeth)，符合鱷魚的特徵。crocodile 意為「鱷魚」。",
+    "id": "g1h2j3k4l5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Elephants and hippos are ____. It is a dark color.",
+    "options": [
+      "pink",
+      "gray",
+      "white",
+      "yellow"
+    ],
+    "answer": "gray",
+    "explanation": "本題測驗顏色單字。大象 (elephants) 和河馬 (hippos) 的外表顏色通常是灰色的。gray 意為「灰色」。",
+    "id": "z6x7c8v9b0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My dad usually orders a piece of beef ____ when we go to a nice restaurant.",
+    "options": [
+      "steak",
+      "soup",
+      "salad",
+      "cake"
+    ],
+    "answer": "steak",
+    "explanation": "本題測驗食物單字。題目提到一塊牛肉 (a piece of beef)，在高級餐廳常點的牛肉餐點是牛排。steak 意為「牛排」。",
+    "id": "n1m2q3w4e5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My mother's sister is my ____. She always gives me presents on my birthday.",
+    "options": [
+      "uncle",
+      "aunt",
+      "brother",
+      "sister"
+    ],
+    "answer": "aunt",
+    "explanation": "本題測驗家人稱謂單字。媽媽的姊妹在英文中稱為 aunt，意為「阿姨/伯母/嬸嬸」。",
+    "id": "r6t7y8u9i0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "When it rains outside, we play basketball in the ____.",
+    "options": [
+      "classroom",
+      "gym",
+      "restroom",
+      "office"
+    ],
+    "answer": "gym",
+    "explanation": "本題測驗學校場所單字。下雨天時，學生會在室內的體育館打籃球。gym 意為「體育館」。",
+    "id": "o1p2a3s4d5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Ten hundreds make one ____.",
+    "options": [
+      "thousand",
+      "million",
+      "hundred",
+      "ten"
+    ],
+    "answer": "thousand",
+    "explanation": "本題測驗數字單字。十個一百 (Ten hundreds) 是一千。thousand 意為「一千」。",
+    "id": "f6g7h8j9k0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Hold your hat! It is very ____ today, and the trees are shaking.",
+    "options": [
+      "windy",
+      "sunny",
+      "hot",
+      "warm"
+    ],
+    "answer": "windy",
+    "explanation": "本題測驗天氣單字。題目提醒要抓緊帽子 (Hold your hat)，且樹在搖晃，代表風很大。windy 意為「起風的」。",
+    "id": "l1z2x3c4v5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The brave man puts out fires and saves people. He is a ____.",
+    "options": [
+      "police officer",
+      "firefighter",
+      "teacher",
+      "doctor"
+    ],
+    "answer": "firefighter",
+    "explanation": "本題測驗職業單字。負責滅火 (puts out fires) 和救人的勇敢人士是消防員。firefighter 意為「消防員」。",
+    "id": "b6n7m8q9w0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It looks like a horse, but it has black and white stripes on its body.",
+    "options": [
+      "zebra",
+      "lion",
+      "bear",
+      "cow"
+    ],
+    "answer": "zebra",
+    "explanation": "本題測驗動物單字。看起來像馬，且身上有黑白條紋 (black and white stripes) 的動物是斑馬。zebra 意為「斑馬」。",
+    "id": "e1r2t3y4u5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We often eat boiled ____ with soy sauce during the Lunar New Year.",
+    "options": [
+      "dumplings",
+      "sandwiches",
+      "pizzas",
+      "hamburgers"
+    ],
+    "answer": "dumplings",
+    "explanation": "本題測驗食物單字。在農曆新年期間常吃、可水煮並沾醬油的傳統食物是水餃。dumpling 意為「水餃」。",
+    "id": "i6o7p8a9s0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "During the break time, students love to run and play on the swings at the ____.",
+    "options": [
+      "library",
+      "playground",
+      "kitchen",
+      "bathroom"
+    ],
+    "answer": "playground",
+    "explanation": "本題測驗學校場所單字。下課時間學生喜歡奔跑和玩盪鞦韆的地方是操場/遊樂場。playground 意為「操場/遊樂場」。",
+    "id": "d1f2g3h4j5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "She talks to different people and writes news for the TV station. She is a ____.",
+    "options": [
+      "reporter",
+      "farmer",
+      "cook",
+      "nurse"
+    ],
+    "answer": "reporter",
+    "explanation": "本題測驗職業單字。在電視台訪問他人並撰寫新聞 (writes news) 的人是記者。reporter 意為「記者」。",
+    "id": "k6l7z8x9c0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The alarm clock rings at 6:30 AM every morning. It's time to ____.",
+    "options": [
+      "wake up",
+      "go to bed",
+      "watch TV",
+      "play games"
+    ],
+    "answer": "wake up",
+    "explanation": "本題測驗生活片語。鬧鐘在早上六點半響起，代表該醒來了。wake up 意為「醒來」。",
+    "id": "v1b2n3m4q5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "You should ____ your teeth after eating sweet candy to keep them clean.",
+    "options": [
+      "brush",
+      "wash",
+      "eat",
+      "drink"
+    ],
+    "answer": "brush",
+    "explanation": "本題測驗生活片語。吃完糖果後為了保持牙齒清潔，應該要刷牙。brush one's teeth 意為「刷牙」。",
+    "id": "w6e7r8t9y0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Every morning, I ____ my face with water and soap.",
+    "options": [
+      "wash",
+      "brush",
+      "read",
+      "write"
+    ],
+    "answer": "wash",
+    "explanation": "本題測驗生活片語。每天早上用水和肥皂清洗臉部。wash one's face 意為「洗臉」。",
+    "id": "u1i2o3p4a5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I usually ____ at 7:00 AM before going to school.",
+    "options": [
+      "have breakfast",
+      "have lunch",
+      "have dinner",
+      "take a bath"
+    ],
+    "answer": "have breakfast",
+    "explanation": "本題測驗生活片語。早上七點去上學前吃的一餐是早餐。have breakfast 意為「吃早餐」。",
+    "id": "s6d7f8g9h0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Hurry up, put on your uniform! It's time to ____, or you will be late.",
+    "options": [
+      "go to school",
+      "go to bed",
+      "go home",
+      "play sports"
+    ],
+    "answer": "go to school",
+    "explanation": "本題測驗生活片語。穿上制服且快遲到了，代表準備要去上學。go to school 意為「去上學」。",
+    "id": "j1k2l3z4x5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My house is far from the station, so I have to ____ to school every morning.",
+    "options": [
+      "take a bus",
+      "fly a kite",
+      "read a book",
+      "eat an apple"
+    ],
+    "answer": "take a bus",
+    "explanation": "本題測驗交通片語。家裡離車站很遠，去學校需要搭乘交通工具。take a bus 意為「搭公車」。",
+    "id": "c6v7b8n9m0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The English teacher says, 'Please quiet down and ____ me carefully.'",
+    "options": [
+      "listen to",
+      "look at",
+      "talk to",
+      "play with"
+    ],
+    "answer": "listen to",
+    "explanation": "本題測驗常見片語。老師要求學生安靜，接下來最合理的動作是仔細聆聽。listen to 意為「聆聽」。",
+    "id": "q1w2e3r4t5a",
+    "difficulty": "easy"
+  },
+  {
+    "question": "____ the blackboard! The teacher is writing something very important.",
+    "options": [
+      "Look at",
+      "Listen to",
+      "Wait for",
+      "Turn off"
+    ],
+    "answer": "Look at",
+    "explanation": "本題測驗常見片語。老師正在黑板上寫字，因此要求學生注視黑板。look at 意為「看著」。",
+    "id": "y6u7i8o9p0b",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Before sleeping at night, I usually ____ in bed for twenty minutes.",
+    "options": [
+      "read a book",
+      "ride a bike",
+      "fly a kite",
+      "play baseball"
+    ],
+    "answer": "read a book",
+    "explanation": "本題測驗生活片語。睡前在床上可以從事的靜態活動是閱讀。read a book 意為「看書」。其他選項皆為戶外活動。",
+    "id": "a1s2d3f4g5c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Jeremy is very tall and loves sports. He likes to ____ with his friends after school.",
+    "options": [
+      "play basketball",
+      "do homework",
+      "take a bath",
+      "eat breakfast"
+    ],
+    "answer": "play basketball",
+    "explanation": "本題測驗休閒片語。主角很高且喜歡運動，放學後跟朋友最可能從事打籃球。play basketball 意為「打籃球」。",
+    "id": "h6j7k8l9z0d",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The math teacher gave us a lot of tasks today. I need to ____ right now.",
+    "options": [
+      "do my homework",
+      "watch TV",
+      "play games",
+      "go to bed"
+    ],
+    "answer": "do my homework",
+    "explanation": "本題測驗學習片語。老師指派了許多任務，學生回家需要寫作業。do my homework 意為「寫我的功課」。",
+    "id": "x1c2v3b4n5e",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My mom is very busy in the kitchen. I should ____ the housework.",
+    "options": [
+      "help with",
+      "look at",
+      "listen to",
+      "wait for"
+    ],
+    "answer": "help with",
+    "explanation": "本題測驗常見片語。媽媽在廚房很忙，身為孩子應該幫忙做家事。help with 意為「幫忙(做...)」。",
+    "id": "m6q7w8e9r0f",
+    "difficulty": "easy"
+  },
+  {
+    "question": "After playing outside and sweating a lot, taking a hot ____ feels great.",
+    "options": [
+      "bath",
+      "book",
+      "bus",
+      "bag"
+    ],
+    "answer": "bath",
+    "explanation": "本題測驗生活片語。在外面流汗後，泡個熱水澡感覺很棒。take a bath 意為「洗澡」，空格需填入 bath。",
+    "id": "t1y2u3i4o5g",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is 10 PM and I am very sleepy. I want to ____ now. Good night!",
+    "options": [
+      "go to bed",
+      "go to school",
+      "get up",
+      "wake up"
+    ],
+    "answer": "go to bed",
+    "explanation": "本題測驗生活片語。晚上十點覺得很睏且互道晚安，表示該睡覺了。go to bed 意為「上床睡覺」。",
+    "id": "p6a7s8d9f0h",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I lost my keys and I can't open the door. Can you help me ____ them?",
+    "options": [
+      "look for",
+      "look at",
+      "listen to",
+      "wait for"
+    ],
+    "answer": "look for",
+    "explanation": "本題測驗常見片語。鑰匙遺失了，所以需要尋找。look for 意為「尋找」。",
+    "id": "g1h2j3k4l5i",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It's snowing and very cold outside. You'd better ____ your heavy jacket.",
+    "options": [
+      "put on",
+      "take off",
+      "turn on",
+      "turn off"
+    ],
+    "answer": "put on",
+    "explanation": "本題測驗生活片語。外面下雪很冷，所以應該要穿上厚外套。put on 意為「穿上」。",
+    "id": "z6x7c8v9b0j",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is very warm inside the room, so you can ____ your coat and feel comfortable.",
+    "options": [
+      "take off",
+      "put on",
+      "look for",
+      "wait for"
+    ],
+    "answer": "take off",
+    "explanation": "本題測驗生活片語。房間內很溫暖，可以脫下大衣讓自己舒服點。take off 意為「脫下」。",
+    "id": "n1m2q3w4e5k",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Your bedroom is too messy. Please ____ your toys right now.",
+    "options": [
+      "clean up",
+      "get up",
+      "stand up",
+      "wake up"
+    ],
+    "answer": "clean up",
+    "explanation": "本題測驗生活片語。房間太亂了，需要把玩具整理乾淨。clean up 意為「打掃/整理」。",
+    "id": "r6t7y8u9i0l",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I am standing at the bus stop to ____ the bus to the city library.",
+    "options": [
+      "wait for",
+      "look at",
+      "listen to",
+      "turn on"
+    ],
+    "answer": "wait for",
+    "explanation": "本題測驗常見片語。站在公車站牌旁是為了等公車。wait for 意為「等待」。",
+    "id": "o1p2a3s4d5m",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ____ the lights before you leave the classroom to save energy.",
+    "options": [
+      "turn off",
+      "turn on",
+      "put on",
+      "take off"
+    ],
+    "answer": "turn off",
+    "explanation": "本題測驗生活片語。離開教室前為了節約能源，必須關燈。turn off 意為「關閉 (電源)」。",
+    "id": "f6g7h8j9k0n",
+    "difficulty": "easy"
+  },
+  {
+    "question": "You ____ my best friend. We always play and study together.",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "本題測驗基礎文法 (be動詞)。主詞是 You (你)，對應的 be 動詞現在式應使用 are。",
+    "id": "l1z2x3c4v5o",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Mary ____ playing the piano. She practices for two hours every day.",
+    "options": [
+      "likes",
+      "like",
+      "liking",
+      "is like"
+    ],
+    "answer": "likes",
+    "explanation": "本題測驗基礎文法 (一般動詞)。主詞 Mary 是第三人稱單數，現在簡單式中動詞字尾需加 s。likes 為正確答案。",
+    "id": "b6n7m8q9w0p",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Look! The boys ____ soccer in the park happily.",
+    "options": [
+      "are playing",
+      "is playing",
+      "play",
+      "plays"
+    ],
+    "answer": "are playing",
+    "explanation": "本題測驗基礎文法 (現在進行式)。句首有 Look! 表示動作正在發生。The boys 是複數，需搭配 are 加上 V-ing。正確為 are playing。",
+    "id": "e1r2t3y4u5q",
+    "difficulty": "easy"
+  },
+  {
+    "question": "____ your older brother ride a bicycle? Yes, he can.",
+    "options": [
+      "Can",
+      "Do",
+      "Does",
+      "Is"
+    ],
+    "answer": "Can",
+    "explanation": "本題測驗基礎文法 (助動詞 can 疑問句)。答句為 Yes, he can.，因此問句必須用 Can 開頭來詢問能力。",
+    "id": "i6o7p8a9s0r",
+    "difficulty": "easy"
+  },
+  {
+    "question": "____ is that tall man standing near the door? He is my father.",
+    "options": [
+      "Who",
+      "What",
+      "Where",
+      "How"
+    ],
+    "answer": "Who",
+    "explanation": "本題測驗基礎文法 (疑問詞)。答句回答人物 (He is my father)，因此問句是詢問身分的 Who (誰)。",
+    "id": "d1f2g3h4j5s",
+    "difficulty": "easy"
+  },
+  {
+    "question": "____ are you going? I am going to the supermarket to buy some milk.",
+    "options": [
+      "Where",
+      "What",
+      "Who",
+      "When"
+    ],
+    "answer": "Where",
+    "explanation": "本題測驗基礎文法 (疑問詞)。答句回答地點 (supermarket 超市)，因此問句是詢問地點的 Where (在哪裡)。",
+    "id": "k6l7z8x9c0t",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I ____ a student in the fifth grade at this elementary school.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "am",
+    "explanation": "本題測驗基礎文法 (be動詞)。主詞是 I (我)，對應的 be 動詞現在式應使用 am。",
+    "id": "v1b2n3m4q5u",
+    "difficulty": "easy"
+  },
+  {
+    "question": "____ they have any English classes on Tuesday afternoon?",
+    "options": [
+      "Do",
+      "Does",
+      "Are",
+      "Is"
+    ],
+    "answer": "Do",
+    "explanation": "本題測驗基礎文法 (一般動詞疑問句)。主詞為 they，且句中含有一般動詞 have，形成現在簡單式疑問句需使用助動詞 Do。",
+    "id": "w6e7r8t9y0v",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Shh! Be quiet. The little baby ____ in the bedroom right now.",
+    "options": [
+      "is sleeping",
+      "are sleeping",
+      "sleep",
+      "sleeps"
+    ],
+    "answer": "is sleeping",
+    "explanation": "本題測驗基礎文法 (現在進行式)。句首要人安靜，且有 right now，表示動作正在進行。The little baby 是單數，搭配 is 加上 V-ing。",
+    "id": "u1i2o3p4a5w",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Penguins are birds, but they ____ fly in the sky. They can only swim.",
+    "options": [
+      "cannot",
+      "can",
+      "do not",
+      "does not"
+    ],
+    "answer": "cannot",
+    "explanation": "本題測驗基礎文法 (助動詞 can 否定用法)。企鵝是鳥類，但「不會/不能」飛，只會游泳。cannot 意為「不能」，符合句意邏輯。",
+    "id": "s6d7f8g9h0x",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What color is the banana?",
+    "options": [
+      "yellow",
+      "blue",
+      "black",
+      "pink"
+    ],
+    "answer": "yellow",
+    "explanation": "本題正確答案為「yellow」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "bdod6btl4f",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My father works in a hospital. He is a ____.",
+    "options": [
+      "doctor",
+      "teacher",
+      "farmer",
+      "chef"
+    ],
+    "answer": "doctor",
+    "explanation": "本題正確答案為「doctor」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "mmiapdvclq",
+    "difficulty": "easy"
+  },
+  {
+    "question": "There are seven days in a ____.",
+    "options": [
+      "week",
+      "month",
+      "year",
+      "hour"
+    ],
+    "answer": "week",
+    "explanation": "本題正確答案為「week」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "6df2a6uj41",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The weather is very cold and snow is falling. It is ____.",
+    "options": [
+      "snowy",
+      "sunny",
+      "windy",
+      "hot"
+    ],
+    "answer": "snowy",
+    "explanation": "本題正確答案為「snowy」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "m2hvs3lo1s",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A lion is a kind of ____.",
+    "options": [
+      "animal",
+      "fruit",
+      "drink",
+      "vegetable"
+    ],
+    "answer": "animal",
+    "explanation": "本題正確答案為「animal」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "ywx6rynb1g",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My mother and father are my ____.",
+    "options": [
+      "parents",
+      "friends",
+      "students",
+      "neighbors"
+    ],
+    "answer": "parents",
+    "explanation": "本題正確答案為「parents」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "36xgmocqum",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We use a ____ to write.",
+    "options": [
+      "pencil",
+      "chair",
+      "window",
+      "plate"
+    ],
+    "answer": "pencil",
+    "explanation": "本題正確答案為「pencil」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "gdwamit06w",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The opposite of 'big' is ____.",
+    "options": [
+      "small",
+      "long",
+      "happy",
+      "fast"
+    ],
+    "answer": "small",
+    "explanation": "本題正確答案為「small」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "98wirg9q1b",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I eat rice and chicken for ____.",
+    "options": [
+      "dinner",
+      "library",
+      "classroom",
+      "holiday"
+    ],
+    "answer": "dinner",
+    "explanation": "本題正確答案為「dinner」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "egjmjppdcm",
+    "difficulty": "easy"
+  },
+  {
+    "question": "There are twelve ____ in one year.",
+    "options": [
+      "months",
+      "days",
+      "books",
+      "chairs"
+    ],
+    "answer": "months",
+    "explanation": "本題正確答案為「months」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "dpatcyo9jr",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A teacher works at a ____.",
+    "options": [
+      "school",
+      "zoo",
+      "market",
+      "station"
+    ],
+    "answer": "school",
+    "explanation": "本題正確答案為「school」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "1mmx85pzyn",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My brother likes to play basketball with his ____.",
+    "options": [
+      "friends",
+      "vegetables",
+      "shoes",
+      "windows"
+    ],
+    "answer": "friends",
+    "explanation": "本題正確答案為「friends」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "ic5cstfx61",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The sky is clear today. It is ____.",
+    "options": [
+      "sunny",
+      "rainy",
+      "cloudy",
+      "stormy"
+    ],
+    "answer": "sunny",
+    "explanation": "本題正確答案為「sunny」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "oe9sw2ncey",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We drink ____ when thirsty.",
+    "options": [
+      "water",
+      "bread",
+      "rice",
+      "cake"
+    ],
+    "answer": "water",
+    "explanation": "本題正確答案為「water」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "m509yk2bs5",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A cook in a restaurant is called a ____.",
+    "options": [
+      "chef",
+      "pilot",
+      "doctor",
+      "nurse"
+    ],
+    "answer": "chef",
+    "explanation": "本題正確答案為「chef」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "sestn6mjsh",
+    "difficulty": "easy"
+  },
+  {
+    "question": "There are ____ legs on a spider.",
+    "options": [
+      "eight",
+      "six",
+      "four",
+      "ten"
+    ],
+    "answer": "eight",
+    "explanation": "本題正確答案為「eight」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "lo7chh96gu",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My sister wears a ____ dress.",
+    "options": [
+      "beautiful",
+      "hungry",
+      "slow",
+      "cold"
+    ],
+    "answer": "beautiful",
+    "explanation": "本題正確答案為「beautiful」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "dlmt73t2r0",
+    "difficulty": "easy"
+  },
+  {
+    "question": "An elephant is very ____.",
+    "options": [
+      "large",
+      "tiny",
+      "short",
+      "thin"
+    ],
+    "answer": "large",
+    "explanation": "本題正確答案為「large」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "1j3uroisew",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The opposite of 'happy' is ____.",
+    "options": [
+      "sad",
+      "fast",
+      "young",
+      "clean"
+    ],
+    "answer": "sad",
+    "explanation": "本題正確答案為「sad」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "62vrzeb5ny",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I put books in my ____.",
+    "options": [
+      "backpack",
+      "bathroom",
+      "kitchen",
+      "garden"
+    ],
+    "answer": "backpack",
+    "explanation": "本題正確答案為「backpack」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "pm1m13g9co",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My mother tells me to ____ early.",
+    "options": [
+      "go to bed",
+      "wake up",
+      "run away",
+      "turn off"
+    ],
+    "answer": "go to bed",
+    "explanation": "本題正確答案為「go to bed」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "7bndu8lxjp",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Can you ____ your little brother?",
+    "options": [
+      "look after",
+      "throw away",
+      "pick up",
+      "wait for"
+    ],
+    "answer": "look after",
+    "explanation": "本題正確答案為「look after」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "uiys6j8gax",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I need to ____ tonight.",
+    "options": [
+      "do homework",
+      "take a walk",
+      "make a snowman",
+      "play baseball"
+    ],
+    "answer": "do homework",
+    "explanation": "本題正確答案為「do homework」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "0rb9f56h5q",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ____ the lights.",
+    "options": [
+      "turn off",
+      "wake up",
+      "write down",
+      "clean up"
+    ],
+    "answer": "turn off",
+    "explanation": "本題正確答案為「turn off」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "651ku9lnyc",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We should ____ our classroom.",
+    "options": [
+      "clean up",
+      "look for",
+      "put on",
+      "cut down"
+    ],
+    "answer": "clean up",
+    "explanation": "本題正確答案為「clean up」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "jgopvrfbs1",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please help me ____ my pencil.",
+    "options": [
+      "look for",
+      "grow up",
+      "come from",
+      "pick out"
+    ],
+    "answer": "look for",
+    "explanation": "本題正確答案為「look for」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "74k5qkdptk",
+    "difficulty": "easy"
+  },
+  {
+    "question": "It is cold. Please ____ your jacket.",
+    "options": [
+      "put on",
+      "take off",
+      "wake up",
+      "point at"
+    ],
+    "answer": "put on",
+    "explanation": "本題正確答案為「put on」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "h7c7o2du1p",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My family likes to ____ TV.",
+    "options": [
+      "watch",
+      "watching",
+      "watches",
+      "watched"
+    ],
+    "answer": "watch",
+    "explanation": "本題正確答案為「watch」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "mrhhib6c7a",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The teacher asked us to ____ the answers.",
+    "options": [
+      "write down",
+      "sit on",
+      "turn around",
+      "go away"
+    ],
+    "answer": "write down",
+    "explanation": "本題正確答案為「write down」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "xtb705pkge",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I need to ____ my shoes.",
+    "options": [
+      "take off",
+      "put away",
+      "pick up",
+      "wake up"
+    ],
+    "answer": "take off",
+    "explanation": "本題正確答案為「take off」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "y3hanfihxp",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The students ____ the bus every morning.",
+    "options": [
+      "get on",
+      "look up",
+      "clean out",
+      "run into"
+    ],
+    "answer": "get on",
+    "explanation": "本題正確答案為「get on」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "uo9rbf06eq",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ____ your toys.",
+    "options": [
+      "put away",
+      "look after",
+      "wake up",
+      "take out"
+    ],
+    "answer": "put away",
+    "explanation": "本題正確答案為「put away」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "5taskh7d31",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We like to ____ photos.",
+    "options": [
+      "take",
+      "do",
+      "make",
+      "bring"
+    ],
+    "answer": "take",
+    "explanation": "本題正確答案為「take」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "vlcy8ger4a",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Dad will ____ me up after school.",
+    "options": [
+      "pick",
+      "clean",
+      "wake",
+      "turn"
+    ],
+    "answer": "pick",
+    "explanation": "本題正確答案為「pick」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "2dbfq7xcfq",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I always ____ my teeth.",
+    "options": [
+      "brush",
+      "wash",
+      "open",
+      "close"
+    ],
+    "answer": "brush",
+    "explanation": "本題正確答案為「brush」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "dym833ipyd",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Please ____ the door quietly.",
+    "options": [
+      "close",
+      "drink",
+      "draw",
+      "listen"
+    ],
+    "answer": "close",
+    "explanation": "本題正確答案為「close」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "alo23cc7ke",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The children like to ____ in the park.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+    ],
+    "answer": "play",
+    "explanation": "本題正確答案為「play」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "22v144jp9n",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Can you ____ the trash?",
+    "options": [
+      "take out",
+      "look after",
+      "get up",
+      "sit down"
+    ],
+    "answer": "take out",
+    "explanation": "本題正確答案為「take out」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "w45vmyam1x",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I usually ____ a shower.",
+    "options": [
+      "take",
+      "do",
+      "play",
+      "make"
+    ],
+    "answer": "take",
+    "explanation": "本題正確答案為「take」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "czvqdv0hwc",
+    "difficulty": "easy"
+  },
+  {
+    "question": "She ____ my best friend.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+    ],
+    "answer": "is",
+    "explanation": "本題正確答案為「is」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "hm2k69fa01",
+    "difficulty": "easy"
+  },
+  {
+    "question": "They ____ playing soccer now.",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "be"
+    ],
+    "answer": "are",
+    "explanation": "本題正確答案為「are」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "6y2nd9vj6c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "____ you like apples?",
+    "options": [
+      "Do",
+      "Does",
+      "Is",
+      "Are"
+    ],
+    "answer": "Do",
+    "explanation": "本題正確答案為「Do」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "cjeowstet9",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My brother ____ to school every day.",
+    "options": [
+      "walks",
+      "walk",
+      "walking",
+      "walked"
+    ],
+    "answer": "walks",
+    "explanation": "本題正確答案為「walks」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "l2w1xpided",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I ____ swim very well.",
+    "options": [
+      "can",
+      "am",
+      "is",
+      "do"
+    ],
+    "answer": "can",
+    "explanation": "本題正確答案為「can」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "1435my3eah",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The cat ____ sleeping now.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "can"
+    ],
+    "answer": "is",
+    "explanation": "本題正確答案為「is」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "63e4gjg53c",
+    "difficulty": "easy"
+  },
+  {
+    "question": "We ____ English every Monday.",
+    "options": [
+      "study",
+      "studies",
+      "studying",
+      "studied"
+    ],
+    "answer": "study",
+    "explanation": "本題正確答案為「study」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "a2ouwtglv2",
+    "difficulty": "easy"
+  },
+  {
+    "question": "____ he have a bicycle?",
+    "options": [
+      "Does",
+      "Do",
+      "Is",
+      "Are"
+    ],
+    "answer": "Does",
+    "explanation": "本題正確答案為「Does」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "mafk8prp52",
+    "difficulty": "easy"
+  },
+  {
+    "question": "My parents ____ dinner now.",
+    "options": [
+      "are cooking",
+      "is cooking",
+      "cook",
+      "cooks"
+    ],
+    "answer": "are cooking",
+    "explanation": "本題正確答案為「are cooking」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "fxt6cugu3p",
+    "difficulty": "easy"
+  },
+  {
+    "question": "I ____ hungry after basketball practice.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "am",
+    "explanation": "本題正確答案為「am」。請依照題目的句意與英文用法判斷最適合的選項。",
+    "id": "tn85dbtlby",
+    "difficulty": "easy"
   }
 ]

@@ -130,523 +130,733 @@
     "difficulty": "mixed"
   },
   {
-    "question": "I am thirsty. I need some ________.",
+    "question": "「apple」是下列哪一種水果？（第1題）",
+    "options": [
+      "蘋果",
+      "香蕉",
+      "葡萄",
+      "西瓜"
+    ],
+    "answer": "蘋果",
+    "explanation": "「apple」是英文中的「蘋果」，是國小常見基礎單字。 本題符合台灣國小英語教材常見題型，需熟悉基本單字與句型。",
+    "id": "hu66go9095",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "下列哪一個英文單字代表「老師」？（第2題）",
+    "options": [
+      "teacher",
+      "student",
+      "doctor",
+      "farmer"
+    ],
+    "answer": "teacher",
+    "explanation": "「teacher」的中文意思是「老師」，是國小英語的重要基本單字。 本題符合台灣國小英語教材常見題型，需熟悉基本單字與句型。",
+    "id": "2pafhsg2a5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "「get up」的中文意思為何？（第1題）",
+    "options": [
+      "起床",
+      "睡覺",
+      "洗澡",
+      "跑步"
+    ],
+    "answer": "起床",
+    "explanation": "「get up」表示從床上起來，中文意思是「起床」。 本題符合台灣國小英語教材常見題型，需熟悉基本單字與句型。",
+    "id": "yswd1bsvsh",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "下列哪一個片語表示「照顧」？（第2題）",
+    "options": [
+      "look after",
+      "sit down",
+      "wake up",
+      "go home"
+    ],
+    "answer": "look after",
+    "explanation": "「look after」有照顧、照看的意思，常用於日常生活對話。 本題符合台灣國小英語教材常見題型，需熟悉基本單字與句型。",
+    "id": "t0ub8vm9dh",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I ___ a happy student. 空格中應填入哪一個字？（第1題）",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": "am",
+    "explanation": "主詞是 I 時，be 動詞要使用「am」，這是國小英文重要文法概念。 本題符合台灣國小英語教材常見題型，需熟悉基本單字與句型。",
+    "id": "h6axextn8j",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "She ___ to school every day. 下列何者正確？（第2題）",
+    "options": [
+      "goes",
+      "go",
+      "going",
+      "gone"
+    ],
+    "answer": "goes",
+    "explanation": "主詞 She 為第三人稱單數，因此動詞 go 要加 es 變成 goes。 本題符合台灣國小英語教材常見題型，需熟悉基本單字與句型。",
+    "id": "pigu5geyqt",
+    "difficulty": "mixed"
+  },
+
+  {
+    "question": "Look at that small _____. It says \"meow\" and likes to catch mice.",
+    "options": [
+      "dog",
+      "cat",
+      "pig",
+      "bird"
+    ],
+    "answer": "cat",
+    "explanation": "本題測驗動物單字。根據題幹中的 \"meow\" (喵) 和 \"catch mice\" (抓老鼠)，可以判斷這種動物是貓。\"cat\" 意為「貓」，\"dog\" 是「狗」，\"pig\" 是「豬」，\"bird\" 是「鳥」。",
+    "id": "a9b8c7d6e1",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "The elephant is very _____. It has a long trunk and big ears.",
+    "options": [
+      "small",
+      "short",
+      "big",
+      "thin"
+    ],
+    "answer": "big",
+    "explanation": "本題測驗形容詞單字。大象 (elephant) 的特徵是體型龐大，因此選 \"big\" (大的)。\"small\" 意為「小的」，\"short\" 意為「矮的/短的」，\"thin\" 意為「瘦的」，皆不符合大象的特徵。",
+    "id": "f5g4h3i2j1",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "Monkeys like to eat _____. They are yellow and sweet.",
+    "options": [
+      "apples",
+      "bananas",
+      "oranges",
+      "grapes"
+    ],
+    "answer": "bananas",
+    "explanation": "本題測驗食物與水果單字。猴子最喜歡吃的水果通常被認為是香蕉，且後句提示顏色是黃色 (yellow)，因此答案為 \"bananas\" (香蕉)。\"apples\" 是蘋果，\"oranges\" 是橘子，\"grapes\" 是葡萄。",
+    "id": "k1l2m3n4o5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "My father's father is my _____. He is very old and kind.",
+    "options": [
+      "uncle",
+      "brother",
+      "grandfather",
+      "cousin"
+    ],
+    "answer": "grandfather",
+    "explanation": "本題測驗家人稱謂單字。爸爸的爸爸在英文中稱為 \"grandfather\" (祖父/爺爺)。\"uncle\" 是叔叔/伯伯，\"brother\" 是兄弟，\"cousin\" 是表/堂兄弟姊妹。",
+    "id": "p9q8r7s6t5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I use an _____ to correct my mistakes when I write with a pencil.",
+    "options": [
+      "eraser",
+      "ruler",
+      "book",
+      "apple"
+    ],
+    "answer": "eraser",
+    "explanation": "本題測驗文具單字。當我們用鉛筆寫錯字時，會使用橡皮擦來擦掉錯誤。\"eraser\" 意為「橡皮擦」。\"ruler\" 是尺，\"book\" 是書，不符合題意。",
+    "id": "u1v2w3x4y5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "Seven plus three equals _____. It is a number.",
+    "options": [
+      "nine",
+      "ten",
+      "eleven",
+      "twelve"
+    ],
+    "answer": "ten",
+    "explanation": "本題測驗數字單字。英文的加法：Seven (7) plus (+) three (3) equals (=) 10。因此答案是 \"ten\" (十)。",
+    "id": "z5a4b3c2d1",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "It is _____ today. Let's go to the park and play baseball under the sun.",
+    "options": [
+      "rainy",
+      "snowy",
+      "sunny",
+      "windy"
+    ],
+    "answer": "sunny",
+    "explanation": "本題測驗天氣單字。題幹提到在太陽底下 (under the sun) 去公園打棒球，代表天氣是晴朗的。\"sunny\" 意為「晴朗的」。\"rainy\" 是下雨的，\"snowy\" 是下雪的，\"windy\" 是起風的。",
+    "id": "e1f2g3h4i5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "A _____ works in a hospital and helps sick people get better.",
+    "options": [
+      "teacher",
+      "doctor",
+      "farmer",
+      "singer"
+    ],
+    "answer": "doctor",
+    "explanation": "本題測驗職業單字。在醫院 (hospital) 工作並且幫助病人 (sick people) 康復的人是醫生。\"doctor\" 意為「醫生」。\"teacher\" 是老師，\"farmer\" 是農夫，\"singer\" 是歌手。",
+    "id": "j9k8l7m6n5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "The sky is _____. There are no clouds today.",
+    "options": [
+      "red",
+      "green",
+      "blue",
+      "black"
+    ],
+    "answer": "blue",
+    "explanation": "本題測驗顏色單字。晴朗無雲的天空顏色是藍色。\"blue\" 意為「藍色的」。\"red\" 是紅色，\"green\" 是綠色，\"black\" 是黑色。",
+    "id": "o1p2q3r4s5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I am thirsty. I want to drink some _____, please.",
     "options": [
       "water",
+      "pizza",
       "bread",
-      "rice",
       "cake"
     ],
     "answer": "water",
-    "explanation": "thirsty 表示口渴，因此需要 water（水）。",
-    "id": "277940e7-f1a3-4bc5-82b7-9f7f99b13133",
+    "explanation": "本題測驗食物與飲料單字。\"thirsty\" 意思是口渴的，口渴時會想要喝水或飲料。\"water\" 是「水」，為正確答案。其他選項皆為固體食物 (披薩、麵包、蛋糕)。",
+    "id": "t9u8v7w6x5",
     "difficulty": "mixed"
   },
   {
-    "question": "The sun rises in the ________.",
+    "question": "My mother's sister is my _____. She usually buys me toys.",
     "options": [
-      "east",
-      "west",
-      "north",
-      "south"
+      "aunt",
+      "uncle",
+      "sister",
+      "grandmother"
     ],
-    "answer": "east",
-    "explanation": "太陽從東方升起，因此答案是 east。",
-    "id": "8c2750ef-4a45-4625-a7f0-4410a19e31f5",
+    "answer": "aunt",
+    "explanation": "本題測驗家人稱謂單字。媽媽的姊妹在英文中稱為 \"aunt\" (阿姨/阿姑)。\"uncle\" 是叔叔/舅舅，\"sister\" 是姊妹，\"grandmother\" 是祖母/外婆。",
+    "id": "y1z2a3b4c5",
     "difficulty": "mixed"
   },
   {
-    "question": "My mother is cooking in the ________.",
+    "question": "Please open your _____ and turn to page ten.",
     "options": [
-      "kitchen",
-      "bedroom",
-      "bathroom",
-      "garden"
-    ],
-    "answer": "kitchen",
-    "explanation": "做飯通常在 kitchen（廚房）。",
-    "id": "568a7e6f-5da8-4ba5-8400-1c0e5cade1e7",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "We use a ________ to tell time.",
-    "options": [
-      "clock",
       "book",
+      "pencil",
       "chair",
-      "window"
+      "desk"
     ],
-    "answer": "clock",
-    "explanation": "clock 是時鐘，可以看時間。",
-    "id": "d1d99d08-20c8-4bd5-9d66-ad8435173a82",
+    "answer": "book",
+    "explanation": "本題測驗學校與教室單字。老師上課時常說 \"open your book\" (打開你的書) 並翻到某一天。\"book\" 是「書」。\"pencil\" 是鉛筆，無法打開翻頁。",
+    "id": "d9e8f7g6h5",
     "difficulty": "mixed"
   },
   {
-    "question": "The baby is sleeping on the ________.",
+    "question": "I have _____ fingers on my two hands.",
     "options": [
-      "bed",
-      "table",
+      "five",
+      "eight",
+      "ten",
+      "twenty"
+    ],
+    "answer": "ten",
+    "explanation": "本題測驗數字單字。一般人兩隻手 (two hands) 合起來總共有十根手指頭 (fingers)。因此答案是 \"ten\" (十)。",
+    "id": "i1j2k3l4m5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "Take an umbrella with you. It is _____ outside.",
+    "options": [
+      "sunny",
+      "hot",
+      "rainy",
+      "dry"
+    ],
+    "answer": "rainy",
+    "explanation": "本題測驗天氣單字。題幹提醒要帶傘 (umbrella)，表示外面正在下雨。\"rainy\" 意為「下雨的」。\"sunny\" 是晴天，\"hot\" 是炎熱的，\"dry\" 是乾燥的。",
+    "id": "n9o8p7q6r5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "The _____ teaches students English and math at school.",
+    "options": [
+      "police officer",
+      "nurse",
+      "teacher",
+      "cook"
+    ],
+    "answer": "teacher",
+    "explanation": "本題測驗職業單字。在學校 (at school) 教導學生 (teaches students) 英文和數學的人是老師。\"teacher\" 意為「老師」。",
+    "id": "s1t2u3v4w5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "Lions and tigers are big _____. You can see them in the zoo.",
+    "options": [
+      "plants",
+      "animals",
+      "bugs",
+      "birds"
+    ],
+    "answer": "animals",
+    "explanation": "本題測驗動物總稱單字。獅子 (lions) 和老虎 (tigers) 都屬於動物。\"animals\" 意為「動物」。\"plants\" 是植物，\"bugs\" 是蟲子，\"birds\" 是鳥類。",
+    "id": "x9y8z7a6b5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "Apples are usually _____. But some of them are green.",
+    "options": [
+      "red",
+      "blue",
+      "black",
+      "white"
+    ],
+    "answer": "red",
+    "explanation": "本題測驗顏色單字。蘋果 (Apples) 最常見的顏色是紅色，有時也有綠色的。\"red\" 意為「紅色的」。",
+    "id": "c1d2e3f4g5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "For breakfast, I like to eat a _____ with ham and eggs.",
+    "options": [
+      "sandwich",
+      "juice",
+      "milk",
+      "soup"
+    ],
+    "answer": "sandwich",
+    "explanation": "本題測驗食物單字。題幹提到裡面有火腿 (ham) 和蛋 (eggs)，且動詞是 \"eat\" (吃)，最合理的選項是 \"sandwich\" (三明治)。其他選項皆為液體飲料或湯，通常搭配 drink 或 have。",
+    "id": "h9i8j7k6l5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "My father's brother is my _____. He is very tall.",
+    "options": [
+      "uncle",
+      "aunt",
+      "grandfather",
+      "cousin"
+    ],
+    "answer": "uncle",
+    "explanation": "本題測驗家人稱謂單字。爸爸的兄弟在英文中稱為 \"uncle\" (叔叔/伯伯)。",
+    "id": "m1n2o3p4q5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I write with a _____ on my notebook.",
+    "options": [
+      "pencil",
       "desk",
-      "shelf"
+      "ruler",
+      "eraser"
     ],
-    "answer": "bed",
-    "explanation": "bed 是床，適合睡覺。",
-    "id": "736a96e5-f744-4838-99e3-64557969ca85",
+    "answer": "pencil",
+    "explanation": "本題測驗學校文具單字。我們會在筆記本上使用鉛筆寫字。\"pencil\" 意為「鉛筆」。\"desk\" 是書桌，\"ruler\" 是尺，\"eraser\" 是橡皮擦。",
+    "id": "r9s8t7u6v5",
     "difficulty": "mixed"
   },
   {
-    "question": "She ________ a beautiful dress today.",
+    "question": "A year has _____ months.",
     "options": [
-      "wear",
-      "wears",
-      "wearing",
-      "wore"
+      "ten",
+      "eleven",
+      "twelve",
+      "twenty"
     ],
-    "answer": "wears",
-    "explanation": "主詞是 She，現在簡單式動詞需加 s，因此選 wears。",
-    "id": "42dc3634-5f7d-4029-9f6b-be39325fb261",
+    "answer": "twelve",
+    "explanation": "本題測驗數字單字。一年有十二個月 (months)。\"twelve\" 意為「十二」。",
+    "id": "w1x2y3z4a5",
     "difficulty": "mixed"
   },
   {
-    "question": "They ________ soccer after school yesterday.",
+    "question": "It is _____ today. Put on your heavy coat and gloves.",
     "options": [
-      "play",
-      "played",
-      "plays",
-      "playing"
+      "hot",
+      "warm",
+      "cold",
+      "sunny"
     ],
-    "answer": "played",
-    "explanation": "yesterday 表示過去時間，因此使用過去式 played。",
-    "id": "8050abd8-f061-4f52-95fa-294eab712df2",
+    "answer": "cold",
+    "explanation": "本題測驗天氣與感受單字。題幹要求穿上厚外套 (heavy coat) 和手套 (gloves)，表示天氣很冷。\"cold\" 意為「寒冷的」。",
+    "id": "b9c8d7e6f5",
     "difficulty": "mixed"
   },
   {
-    "question": "________ you like ice cream?",
+    "question": "The _____ catches bad guys and keeps the city safe.",
     "options": [
-      "Do",
-      "Does",
-      "Did",
-      "Are"
+      "police officer",
+      "farmer",
+      "singer",
+      "doctor"
     ],
-    "answer": "Do",
-    "explanation": "主詞是 you，現在簡單式疑問句用 Do 開頭。",
-    "id": "7627bf3e-8d89-4925-8c03-b3ad909a1788",
+    "answer": "police officer",
+    "explanation": "本題測驗職業單字。負責抓壞人 (catches bad guys) 並保護城市安全的人是警察。\"police officer\" 意為「警察」。",
+    "id": "g1h2i3j4k5",
     "difficulty": "mixed"
   },
   {
-    "question": "There ________ two apples on the table.",
+    "question": "Pigs are usually pink and they like to sleep in the _____. (泥巴)",
     "options": [
-      "is",
-      "are",
-      "was",
-      "be"
+      "sky",
+      "mud",
+      "tree",
+      "cloud"
     ],
-    "answer": "are",
-    "explanation": "two apples 是複數，因此使用 are。",
-    "id": "7f29e2bc-7547-4d0c-93ac-0d2dbb3bcb60",
+    "answer": "mud",
+    "explanation": "本題測驗名詞單字。豬 (Pigs) 喜歡在泥巴裡打滾睡覺。\"mud\" 意為「泥巴」。\"sky\" 是天空，\"tree\" 是樹，\"cloud\" 是雲。",
+    "id": "l9m8n7o6p5",
     "difficulty": "mixed"
   },
   {
-    "question": "I ________ my homework every night.",
+    "question": "A panda is _____ and white.",
     "options": [
-      "do",
-      "does",
-      "did",
-      "doing"
+      "black",
+      "red",
+      "yellow",
+      "green"
     ],
-    "answer": "do",
-    "explanation": "主詞是 I，現在簡單式使用原形動詞 do。",
-    "id": "cb4425f0-6dfe-4846-9a66-aa8f21526af2",
+    "answer": "black",
+    "explanation": "本題測驗顏色單字。貓熊 (panda) 的毛色是黑色和白色相間的。\"black\" 意為「黑色的」。",
+    "id": "q1r2s3t4u5",
     "difficulty": "mixed"
   },
   {
-    "question": "I am thirsty. I need some ________.",
+    "question": "I like to eat a slice of _____ with cheese on top.",
     "options": [
+      "pizza",
       "water",
-      "bread",
-      "rice",
-      "cake"
+      "juice",
+      "tea"
     ],
-    "answer": "water",
-    "explanation": "thirsty 表示口渴，因此需要 water（水）。",
-    "id": "c342d8ec-1e20-4533-9a10-e7f71c3ae330",
+    "answer": "pizza",
+    "explanation": "本題測驗食物單字。題目提到 \"a slice of\" (一片) 以及上面有起司 (cheese)，符合披薩的特徵。\"pizza\" 意為「披薩」。其他選項皆為飲料。",
+    "id": "v9w8x7y6z5",
     "difficulty": "mixed"
   },
   {
-    "question": "The sun rises in the ________.",
+    "question": "My father's wife is my _____. I love her very much.",
     "options": [
-      "east",
-      "west",
-      "north",
-      "south"
+      "mother",
+      "sister",
+      "aunt",
+      "grandmother"
     ],
-    "answer": "east",
-    "explanation": "太陽從東方升起，因此答案是 east。",
-    "id": "84ab18d9-bd60-471a-88c5-ab3e856f8d22",
+    "answer": "mother",
+    "explanation": "本題測驗家人稱謂單字。爸爸的妻子 (wife) 就是自己的母親。\"mother\" 意為「母親/媽媽」。",
+    "id": "a1b3c5d7e9",
     "difficulty": "mixed"
   },
   {
-    "question": "My mother is cooking in the ________.",
+    "question": "I carry my books and pencils in my _____ to school.",
     "options": [
-      "kitchen",
-      "bedroom",
-      "bathroom",
-      "garden"
-    ],
-    "answer": "kitchen",
-    "explanation": "做飯通常在 kitchen（廚房）。",
-    "id": "28ad4b40-62d9-4578-a9ab-db2e76b7d533",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "We use a ________ to tell time.",
-    "options": [
-      "clock",
-      "book",
-      "chair",
-      "window"
-    ],
-    "answer": "clock",
-    "explanation": "clock 是時鐘，可以看時間。",
-    "id": "c349edc7-6266-4c31-b453-2c2457d56784",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "The baby is sleeping on the ________.",
-    "options": [
-      "bed",
-      "table",
       "desk",
-      "shelf"
+      "backpack",
+      "chair",
+      "blackboard"
     ],
-    "answer": "bed",
-    "explanation": "bed 是床，適合睡覺。",
-    "id": "ad770587-14dc-4153-a0b7-44eebb34d2a4",
+    "answer": "backpack",
+    "explanation": "本題測驗學校用品單字。學生去學校時會把書本和鉛筆裝在背包裡帶去。\"backpack\" 意為「背包/書包」。",
+    "id": "f2g4h6i8j0",
     "difficulty": "mixed"
   },
   {
-    "question": "She ________ a beautiful dress today.",
+    "question": "Two times ten is _____. It is a big number.",
     "options": [
-      "wear",
-      "wears",
-      "wearing",
-      "wore"
+      "five",
+      "twelve",
+      "twenty",
+      "thirty"
     ],
-    "answer": "wears",
-    "explanation": "主詞是 She，現在簡單式動詞需加 s，因此選 wears。",
-    "id": "d1e3ba05-adcb-4452-a33a-f9e464fdc09a",
+    "answer": "twenty",
+    "explanation": "本題測驗數字單字。英文的乘法：Two (2) times (乘以) ten (10) 等於 20。\"twenty\" 意為「二十」。",
+    "id": "k1m3n5o7p9",
     "difficulty": "mixed"
   },
   {
-    "question": "They ________ soccer after school yesterday.",
+    "question": "A _____ grows rice and vegetables on a farm.",
     "options": [
-      "play",
-      "played",
-      "plays",
-      "playing"
+      "farmer",
+      "teacher",
+      "doctor",
+      "nurse"
     ],
-    "answer": "played",
-    "explanation": "yesterday 表示過去時間，因此使用過去式 played。",
-    "id": "d5d2541b-efc3-4f71-a238-d957ba3989f8",
+    "answer": "farmer",
+    "explanation": "本題測驗職業單字。在農場 (farm) 種植稻米 (rice) 和蔬菜 (vegetables) 的人是農夫。\"farmer\" 意為「農夫」。",
+    "id": "q2r4s6t8u0",
     "difficulty": "mixed"
   },
   {
-    "question": "________ you like ice cream?",
+    "question": "I usually _____ at 7:00 in the morning and wash my face.",
     "options": [
-      "Do",
-      "Does",
-      "Did",
-      "Are"
+      "get up",
+      "go to bed",
+      "do homework",
+      "play sports"
     ],
-    "answer": "Do",
-    "explanation": "主詞是 you，現在簡單式疑問句用 Do 開頭。",
-    "id": "d1ff4162-ce49-4e59-8f0a-d8660610c7de",
+    "answer": "get up",
+    "explanation": "本題測驗生活片語。早上七點 (in the morning) 加上洗臉 (wash my face)，代表是一天的開始。\"get up\" 意為「起床」，符合情境。",
+    "id": "v1w3x5y7z9",
     "difficulty": "mixed"
   },
   {
-    "question": "There ________ two apples on the table.",
+    "question": "It is 10:00 PM. It's time to _____. Good night!",
     "options": [
+      "get up",
+      "go to bed",
+      "go to school",
+      "eat breakfast"
+    ],
+    "answer": "go to bed",
+    "explanation": "本題測驗生活片語。晚上十點 (10:00 PM) 且互道晚安 (Good night)，代表該上床睡覺了。\"go to bed\" 意為「上床睡覺」。",
+    "id": "a2c4e6g8i0",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "After school, I _____ before I watch TV.",
+    "options": [
+      "do my homework",
+      "get up",
+      "ride a bike",
+      "go to sleep"
+    ],
+    "answer": "do my homework",
+    "explanation": "本題測驗生活片語。放學後，在看電視之前，通常需要先完成功課。\"do my homework\" 意為「做我的功課」，為國小常見片語。",
+    "id": "b1d3f5h7j9",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "When my mother is not home, I have to _____ my little sister.",
+    "options": [
+      "look at",
+      "look for",
+      "look after",
+      "look up"
+    ],
+    "answer": "look after",
+    "explanation": "本題測驗常見片語。當媽媽不在家時，我必須「照顧」我的妹妹。\"look after\" 意為「照顧」，符合題意。\"look at\" 是看著，\"look for\" 是尋找。",
+    "id": "c2e4g6i8k0",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "It is very dark in the room. Please _____ the light.",
+    "options": [
+      "turn on",
+      "turn off",
+      "stand up",
+      "sit down"
+    ],
+    "answer": "turn on",
+    "explanation": "本題測驗生活片語。房間裡很暗 (dark)，所以需要「打開」電燈。\"turn on\" 意為「打開 (電源/開關)」。\"turn off\" 是關掉。",
+    "id": "l1n3p5r7t9",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I like to _____ music in my free time.",
+    "options": [
+      "listen to",
+      "look at",
+      "play with",
+      "talk to"
+    ],
+    "answer": "listen to",
+    "explanation": "本題測驗常見片語。聽音樂的固定搭配用法是 \"listen to music\"。\"listen to\" 意為「聆聽」。",
+    "id": "u2w4y6a8c0",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I am dirty after playing baseball. I need to _____.",
+    "options": [
+      "take a bath",
+      "eat dinner",
+      "do homework",
+      "read a book"
+    ],
+    "answer": "take a bath",
+    "explanation": "本題測驗生活片語。打完棒球後身體很髒 (dirty)，因此需要洗澡。\"take a bath\" 意為「洗澡」。",
+    "id": "b1c2d3e4f5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "At 7:30 AM, I _____ with my friends to study.",
+    "options": [
+      "go to school",
+      "go home",
+      "go to bed",
+      "go to sleep"
+    ],
+    "answer": "go to school",
+    "explanation": "本題測驗生活片語。早上七點半，且目的是和朋友一起學習 (to study)，因此是去上學。\"go to school\" 意為「去上學」。",
+    "id": "g6h7i8j9k0",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "My dog loves to _____ the red ball in the park.",
+    "options": [
+      "play with",
+      "listen to",
+      "look for",
+      "turn on"
+    ],
+    "answer": "play with",
+    "explanation": "本題測驗常見片語。狗喜歡在公園裡「玩」紅色的球。\"play with\" 意為「與...一起玩 / 玩耍某物」。",
+    "id": "l1m2n3o4p5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "When the teacher comes into the classroom, students _____ and say \"Good morning.\"",
+    "options": [
+      "stand up",
+      "sit down",
+      "turn off",
+      "wake up"
+    ],
+    "answer": "stand up",
+    "explanation": "本題測驗教室用語片語。當老師進教室時，學生通常會「起立」並說早安。\"stand up\" 意為「起立」。\"sit down\" 是坐下。",
+    "id": "q6r7s8t9u0",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I lost my eraser. Can you help me _____ it?",
+    "options": [
+      "look for",
+      "look at",
+      "look after",
+      "look up"
+    ],
+    "answer": "look for",
+    "explanation": "本題測驗常見片語。我的橡皮擦不見了 (lost)，你能幫我「尋找」它嗎？\"look for\" 意為「尋找」。",
+    "id": "v1w2x3y4z5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "In the morning, I _____ with my family before going to school.",
+    "options": [
+      "eat breakfast",
+      "eat lunch",
+      "eat dinner",
+      "take a bath"
+    ],
+    "answer": "eat breakfast",
+    "explanation": "本題測驗生活片語。在早上 (In the morning) 且在去上學之前，吃的是早餐。\"eat breakfast\" 意為「吃早餐」。",
+    "id": "a6b7c8d9e0",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I usually _____ in the living room after dinner.",
+    "options": [
+      "watch TV",
+      "brush teeth",
+      "get up",
+      "go to school"
+    ],
+    "answer": "watch TV",
+    "explanation": "本題測驗生活片語。晚餐後在客廳 (living room) 最常做的休閒活動是看電視。\"watch TV\" 意為「看電視」。",
+    "id": "f1g2h3i4j5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "The classroom is messy. Let's _____ together.",
+    "options": [
+      "clean up",
+      "get up",
+      "stand up",
+      "wake up"
+    ],
+    "answer": "clean up",
+    "explanation": "本題測驗生活片語。教室很亂 (messy)，所以我們應該一起「打掃/整理」。\"clean up\" 意為「打掃/清理」。",
+    "id": "k6l7m8n9o0",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "On weekends, I _____ in the park with my brother.",
+    "options": [
+      "ride a bike",
+      "do homework",
+      "go to bed",
+      "brush teeth"
+    ],
+    "answer": "ride a bike",
+    "explanation": "本題測驗休閒片語。週末在公園裡常做的休閒活動是騎腳踏車。\"ride a bike\" 意為「騎腳踏車」。",
+    "id": "p1q2r3s4t5",
+    "difficulty": "mixed"
+  },
+  {
+    "question": "I _____ a student. I study at an elementary school.",
+    "options": [
+      "am",
       "is",
       "are",
-      "was",
       "be"
     ],
-    "answer": "are",
-    "explanation": "two apples 是複數，因此使用 are。",
-    "id": "53042eed-0f0b-4dba-9f40-0f356d951273",
+    "answer": "am",
+    "explanation": "本題測驗基礎文法 (be動詞)。主詞是 \"I\" (我) 時，現在式的 be 動詞必須搭配 \"am\"。因此正確答案是 \"am\"。",
+    "id": "u6v7w8x9y0",
     "difficulty": "mixed"
   },
   {
-    "question": "I ________ my homework every night.",
+    "question": "My sister _____ apples very much. She eats one every day.",
     "options": [
-      "do",
-      "does",
-      "did",
-      "doing"
+      "like",
+      "likes",
+      "liking",
+      "is like"
     ],
-    "answer": "do",
-    "explanation": "主詞是 I，現在簡單式使用原形動詞 do。",
-    "id": "05285e56-c955-4c29-bd19-d6e6d7f39a19",
+    "answer": "likes",
+    "explanation": "本題測驗基礎文法 (一般動詞)。主詞 \"My sister\" 是第三人稱單數，在現在簡單式中，動詞字尾必須加上 s 或 es。因此正確答案是 \"likes\"。",
+    "id": "z1a2b3c4d5",
     "difficulty": "mixed"
   },
   {
-    "question": "I am thirsty. I need some ________.",
+    "question": "Look! The dog _____ after the cat right now.",
     "options": [
-      "water",
-      "bread",
-      "rice",
-      "cake"
+      "run",
+      "runs",
+      "is running",
+      "running"
     ],
-    "answer": "water",
-    "explanation": "thirsty 表示口渴，因此需要 water（水）。",
-    "id": "40d13b62-be2d-41ac-82e2-f1a210ed66b8",
+    "answer": "is running",
+    "explanation": "本題測驗基礎文法 (現在進行式)。句子開頭有 \"Look!\" 且有 \"right now\"，表示動作正在進行。現在進行式結構為 be 動詞 + V-ing。\"The dog\" 是單數，搭配 is，所以是 \"is running\"。",
+    "id": "e6f7g8i9j0",
     "difficulty": "mixed"
   },
   {
-    "question": "The sun rises in the ________.",
+    "question": "Birds have wings, so they _____ fly in the sky.",
     "options": [
-      "east",
-      "west",
-      "north",
-      "south"
-    ],
-    "answer": "east",
-    "explanation": "太陽從東方升起，因此答案是 east。",
-    "id": "cf3e2145-9bb9-40d0-a1ea-a9b8d49eb0db",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "My mother is cooking in the ________.",
-    "options": [
-      "kitchen",
-      "bedroom",
-      "bathroom",
-      "garden"
-    ],
-    "answer": "kitchen",
-    "explanation": "做飯通常在 kitchen（廚房）。",
-    "id": "da4992de-5ab7-4b61-b01e-8f5f22008d9b",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "We use a ________ to tell time.",
-    "options": [
-      "clock",
-      "book",
-      "chair",
-      "window"
-    ],
-    "answer": "clock",
-    "explanation": "clock 是時鐘，可以看時間。",
-    "id": "c0df4089-11e6-43ef-873a-209601d72d1c",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "The baby is sleeping on the ________.",
-    "options": [
-      "bed",
-      "table",
-      "desk",
-      "shelf"
-    ],
-    "answer": "bed",
-    "explanation": "bed 是床，適合睡覺。",
-    "id": "161327a3-1be9-462a-9cac-7c99d9fa24fd",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "She ________ a beautiful dress today.",
-    "options": [
-      "wear",
-      "wears",
-      "wearing",
-      "wore"
-    ],
-    "answer": "wears",
-    "explanation": "主詞是 She，現在簡單式動詞需加 s，因此選 wears。",
-    "id": "4eef9cc3-eae1-4305-9201-3d2dca5a698d",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "They ________ soccer after school yesterday.",
-    "options": [
-      "play",
-      "played",
-      "plays",
-      "playing"
-    ],
-    "answer": "played",
-    "explanation": "yesterday 表示過去時間，因此使用過去式 played。",
-    "id": "ca27421e-0ea9-4c1b-a8c9-90e83ba875f7",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "________ you like ice cream?",
-    "options": [
-      "Do",
-      "Does",
-      "Did",
-      "Are"
-    ],
-    "answer": "Do",
-    "explanation": "主詞是 you，現在簡單式疑問句用 Do 開頭。",
-    "id": "6f851f6f-59dd-445d-8ee5-49a6d601f27c",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "There ________ two apples on the table.",
-    "options": [
+      "can",
       "is",
       "are",
-      "was",
-      "be"
+      "do"
     ],
-    "answer": "are",
-    "explanation": "two apples 是複數，因此使用 are。",
-    "id": "5c0cfd7a-0ab8-403e-982f-01bbb0cd54ca",
+    "answer": "can",
+    "explanation": "本題測驗基礎文法 (助動詞 can)。\"can\" 意為「能夠/會」，表示有能力做某事。鳥有翅膀，所以牠們「會」在天空中飛。後面接原形動詞 fly，符合 can 的用法。",
+    "id": "k1l2m3n4o5a",
     "difficulty": "mixed"
   },
   {
-    "question": "I ________ my homework every night.",
+    "question": "_____ is your book? It is on the desk.",
     "options": [
-      "do",
-      "does",
-      "did",
-      "doing"
+      "What",
+      "Who",
+      "Where",
+      "How"
     ],
-    "answer": "do",
-    "explanation": "主詞是 I，現在簡單式使用原形動詞 do。",
-    "id": "d1752ff5-7da4-4934-8641-5cc736190b69",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "I am thirsty. I need some ________.",
-    "options": [
-      "water",
-      "bread",
-      "rice",
-      "cake"
-    ],
-    "answer": "water",
-    "explanation": "thirsty 表示口渴，因此需要 water（水）。",
-    "id": "14efdbcf-f514-4e6c-bdfc-8e72ea58f73d",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "The sun rises in the ________.",
-    "options": [
-      "east",
-      "west",
-      "north",
-      "south"
-    ],
-    "answer": "east",
-    "explanation": "太陽從東方升起，因此答案是 east。",
-    "id": "a9ed25d0-ff6f-42a2-852e-b88a59ba2431",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "My mother is cooking in the ________.",
-    "options": [
-      "kitchen",
-      "bedroom",
-      "bathroom",
-      "garden"
-    ],
-    "answer": "kitchen",
-    "explanation": "做飯通常在 kitchen（廚房）。",
-    "id": "699d1238-6562-4449-be42-398eb33d5cb7",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "We use a ________ to tell time.",
-    "options": [
-      "clock",
-      "book",
-      "chair",
-      "window"
-    ],
-    "answer": "clock",
-    "explanation": "clock 是時鐘，可以看時間。",
-    "id": "542a5bf3-0347-4619-9125-e01d32b4ed7a",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "The baby is sleeping on the ________.",
-    "options": [
-      "bed",
-      "table",
-      "desk",
-      "shelf"
-    ],
-    "answer": "bed",
-    "explanation": "bed 是床，適合睡覺。",
-    "id": "084e422a-c94e-4a99-a9d4-b8f46d760496",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "She ________ a beautiful dress today.",
-    "options": [
-      "wear",
-      "wears",
-      "wearing",
-      "wore"
-    ],
-    "answer": "wears",
-    "explanation": "主詞是 She，現在簡單式動詞需加 s，因此選 wears。",
-    "id": "189466b6-e8d1-4211-8fd6-26f77e4fd999",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "They ________ soccer after school yesterday.",
-    "options": [
-      "play",
-      "played",
-      "plays",
-      "playing"
-    ],
-    "answer": "played",
-    "explanation": "yesterday 表示過去時間，因此使用過去式 played。",
-    "id": "ee48ffb9-4126-4056-9b73-66cc68c139f5",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "________ you like ice cream?",
-    "options": [
-      "Do",
-      "Does",
-      "Did",
-      "Are"
-    ],
-    "answer": "Do",
-    "explanation": "主詞是 you，現在簡單式疑問句用 Do 開頭。",
-    "id": "d4a383a2-fc2a-4772-b4f4-c67a5f31ca71",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "There ________ two apples on the table.",
-    "options": [
-      "is",
-      "are",
-      "was",
-      "be"
-    ],
-    "answer": "are",
-    "explanation": "two apples 是複數，因此使用 are。",
-    "id": "0d903b51-576f-4ccf-9729-9982af4335cf",
-    "difficulty": "mixed"
-  },
-  {
-    "question": "I ________ my homework every night.",
-    "options": [
-      "do",
-      "does",
-      "did",
-      "doing"
-    ],
-    "answer": "do",
-    "explanation": "主詞是 I，現在簡單式使用原形動詞 do。",
-    "id": "e253fd54-3d8d-4c26-a016-d10c19459b17",
+    "answer": "Where",
+    "explanation": "本題測驗基礎文法 (疑問詞)。答句回答了位置 \"on the desk\" (在書桌上)，因此問句必須是詢問地點的 \"Where\" (在哪裡)。\"What\" 是什麼，\"Who\" 是誰，\"How\" 是如何。",
+    "id": "p6q7r8s9t0b",
     "difficulty": "mixed"
   }
+
 ]

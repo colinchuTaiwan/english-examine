@@ -1285,5 +1285,1309 @@
     "explanation": "本題考查名詞子句引導詞。整句話的主詞是由名詞子句「_______ seems to be a simple decision」擔任，主要動詞為 can lead to。在此名詞子句中，缺少了主詞，因此必須使用具有雙重功能（引導名詞子句並在子句中作主詞）的複合關係代名詞 What（等於 the thing which）。that 引導名詞子句時，在子句中不擔任任何成分且無意義，故不適用。句意為：「看似簡單的決定有時可能會導致意想不到且嚴重的後果。」因此正確答案為 What。",
     "id": "76f187d3-07ab-4d79-9cd2-e1712a0212f5",
     "difficulty": "hard"
+  },
+
+  {
+    "question": "The politician's statement was so _____ that people from both sides of the issue thought he supported their views.",
+    "options": [
+      "ambiguous",
+      "indispensable",
+      "vulnerable",
+      "reluctant"
+    ],
+    "answer": "ambiguous",
+    "explanation": "本題測驗高中核心單字。ambiguous 意為「模稜兩可的、含糊不清的」，符合句中「雙方人馬都以為政客支持他們」的語境，表示其發言不夠明確。indispensable (不可或缺的)、vulnerable (脆弱的)、reluctant (不情願的) 皆不符合題意。",
+    "id": "v1a2b3c4d5",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Water is _____ to the survival of all living creatures on Earth; without it, life would cease to exist.",
+    "options": [
+      "indispensable",
+      "superficial",
+      "deliberate",
+      "profound"
+    ],
+    "answer": "indispensable",
+    "explanation": "本題測驗單字辨識。indispensable 意為「不可或缺的、必須的」，符合句意「水對地球上所有生物的生存是不可或缺的」。superficial (膚淺的)、deliberate (故意的)、profound (深遠的) 語意皆不符。",
+    "id": "v2e6f7g8h9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Elderly people are often more _____ to severe complications from the flu compared to young, healthy individuals.",
+    "options": [
+      "vulnerable",
+      "comprehensive",
+      "equivalent",
+      "controversial"
+    ],
+    "answer": "vulnerable",
+    "explanation": "本題測驗單字辨識。vulnerable 意為「脆弱的、易受傷的、易受影響的」，常用搭配為 be vulnerable to... (易受...之害)。句意指年長者比年輕人更容易受到流感併發症的傷害。comprehensive (全面的)、equivalent (相等的)、controversial (有爭議的) 皆不符。",
+    "id": "v3i0j1k2l3",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The suspect claimed the fire was an accident, but the police gathered evidence proving he had set it _____.",
+    "options": [
+      "deliberately",
+      "reluctantly",
+      "superficially",
+      "ambiguously"
+    ],
+    "answer": "deliberately",
+    "explanation": "本題測驗副詞字彙。deliberately 意為「故意地、蓄意地」，與前半句的 accident (意外) 形成對比，符合警察找到證據證明他是縱火的語境。reluctantly (不情願地)、superficially (表面地)、ambiguously (含糊地) 皆不合邏輯。",
+    "id": "v4m4n5o6p7",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The invention of the internet has had a _____ impact on the way people communicate and access information globally.",
+    "options": [
+      "profound",
+      "vulnerable",
+      "reluctant",
+      "equivalent"
+    ],
+    "answer": "profound",
+    "explanation": "本題測驗單字語意。profound 意為「深遠的、深刻的」，常用於修飾 impact (影響) 或 effect，表示影響極大。vulnerable (脆弱的)、reluctant (不情願的)、equivalent (相等的) 皆不能用來合理修飾 impact。",
+    "id": "v5q8r9s0t1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Despite knowing the company was losing money, the manager was _____ to change the outdated marketing strategy.",
+    "options": [
+      "reluctant",
+      "comprehensive",
+      "indispensable",
+      "deliberate"
+    ],
+    "answer": "reluctant",
+    "explanation": "本題測驗形容詞字彙。reluctant 意為「不情願的、勉強的」，常接 to + V，表示「不情願做某事」。句意表示儘管知道虧錢，經理仍不情願改變過時的策略。comprehensive (詳盡的)、indispensable (不可或缺的)、deliberate (故意的) 皆不符題意。",
+    "id": "v6u2v3w4x5",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The government's new educational policy has sparked widespread _____ among teachers, parents, and students.",
+    "options": [
+      "controversy",
+      "equivalence",
+      "vulnerability",
+      "profundity"
+    ],
+    "answer": "controversy",
+    "explanation": "本題測驗名詞字彙。controversy 意為「爭議」，spark widespread controversy 是常見的搭配，意指「引發廣泛的爭議」。equivalence (相等)、vulnerability (脆弱)、profundity (深奧) 皆不符合政策引發社會討論的語境。",
+    "id": "v7y6z7a8b9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To prepare for the final exam, the teacher provided a _____ review guide that covered every single topic taught this semester.",
+    "options": [
+      "comprehensive",
+      "superficial",
+      "reluctant",
+      "ambiguous"
+    ],
+    "answer": "comprehensive",
+    "explanation": "本題測驗單字辨識。comprehensive 意為「全面的、詳盡的」，符合句中「涵蓋了這學期教過的每一個主題」的描述。superficial (膚淺的)、reluctant (不情願的)、ambiguous (模稜兩可的) 均不符合詳盡複習講義的語意。",
+    "id": "v8c0d1e2f3",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A standard serving of this newly launched energy drink contains an amount of caffeine _____ to three cups of coffee.",
+    "options": [
+      "equivalent",
+      "indispensable",
+      "profound",
+      "vulnerable"
+    ],
+    "answer": "equivalent",
+    "explanation": "本題測驗形容詞片語搭配。equivalent 意為「相等的、等同的」，常接介係詞 to，be equivalent to 意指「等同於...」。句意為該能量飲料的咖啡因等同於三杯咖啡。其他三個選項皆無此語意及介係詞搭配用法。",
+    "id": "v9g4h5i6j7",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Since he only read the short summary of the novel online, his understanding of the characters' complex motivations is quite _____.",
+    "options": [
+      "superficial",
+      "comprehensive",
+      "deliberate",
+      "reluctant"
+    ],
+    "answer": "superficial",
+    "explanation": "本題測驗單字語意。superficial 意為「表面的、膚淺的」。既然只在網路上讀了簡短的摘要，他對角色複雜動機的理解必然是不深入、僅停留在表面的。comprehensive (全面的) 語意完全相反，deliberate (故意的)、reluctant (不情願的) 皆不合理。",
+    "id": "v0k8l9m0n1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I cannot _____ my roommate's terrible habit of playing loud music at 3 a.m. anymore; I am moving out next week.",
+    "options": [
+      "put up with",
+      "come up with",
+      "make up for",
+      "live up to"
+    ],
+    "answer": "put up with",
+    "explanation": "本題測驗高中必備片語。put up with 意為「忍受、容忍」，符合句意中無法再忍受室友半夜放音樂的壞習慣。come up with (想出)、make up for (彌補)、live up to (符合期望) 皆不合語意。",
+    "id": "p1o2p3q4r5",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The marketing team was asked to _____ a highly creative advertising campaign to boost sales for the upcoming holiday season.",
+    "options": [
+      "come up with",
+      "boil down to",
+      "stand out",
+      "look down upon"
+    ],
+    "answer": "come up with",
+    "explanation": "本題測驗動詞片語。come up with 意為「想出、提出(計畫、點子等)」，符合行銷團隊被要求提出具創意的廣告活動之情境。boil down to (歸結為)、stand out (突出)、look down upon (看不起) 均不符合。",
+    "id": "p2s6t7u8v9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When planning a budget for your independent travel, you must _____ the cost of transportation, accommodation, and emergency funds.",
+    "options": [
+      "take into account",
+      "do away with",
+      "fall back on",
+      "rule out"
+    ],
+    "answer": "take into account",
+    "explanation": "本題測驗動詞片語。take into account 意為「將...考慮進去」，等同於 take something into consideration。規劃預算時必須「考慮」交通與住宿費，故選此項。do away with (廢除)、fall back on (退而求其次/依靠)、rule out (排除) 皆不合邏輯。",
+    "id": "p3w0x1y2z3",
+    "difficulty": "hard"
+  },
+  {
+    "question": "He worked overtime almost every day throughout the weekend to _____ the time he had lost when he was sick earlier this month.",
+    "options": [
+      "make up for",
+      "cut down on",
+      "catch up with",
+      "turn out"
+    ],
+    "answer": "make up for",
+    "explanation": "本題測驗片語語意。make up for 意為「彌補、補償」。句意指他週末加班是為了「彌補」本月稍早生病時所損失的時間。cut down on (減少)、catch up with (趕上，通常指進度或人)、turn out (結果是) 語意皆不搭配。",
+    "id": "p4a4b5c6d7",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The highly anticipated sci-fi movie failed to _____ the expectations of the fans, leaving many feeling disappointed after the premiere.",
+    "options": [
+      "live up to",
+      "put up with",
+      "get along with",
+      "give rise to"
+    ],
+    "answer": "live up to",
+    "explanation": "本題測驗片語搭配。live up to expectations 是固定搭配，意為「符合/達到...的期望」。句意指電影未能達到粉絲的期望，令人失望。put up with (忍受)、get along with (和睦相處)、give rise to (引起/導致) 皆不合題意。",
+    "id": "p5e8f9g0h1",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The complex issue of global warming can largely _____ human activities such as burning fossil fuels and severe deforestation.",
+    "options": [
+      "boil down to",
+      "make up for",
+      "stand out",
+      "take into account"
+    ],
+    "answer": "boil down to",
+    "explanation": "本題測驗片語語意。boil down to 意為「歸結為、主要原因在於」。句意指全球暖化的複雜議題，很大程度上可以「歸結為」人類活動。make up for (彌補)、stand out (突出)、take into account (考慮) 皆不符合此因果說明的語境。",
+    "id": "p6i2j3k4l5",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Her exceptional public speaking skills and fluent English made her _____ among all the candidates during the fierce job interview.",
+    "options": [
+      "stand out",
+      "turn out",
+      "rule out",
+      "pay off"
+    ],
+    "answer": "stand out",
+    "explanation": "本題測驗動詞片語。stand out 意為「突出、顯眼、脫穎而出」。句意指她卓越的演說技巧讓她在面試的眾多候選人中「脫穎而出」。turn out (結果是)、rule out (排除)、pay off (得到回報) 皆無法用來形容人在群體中顯得優秀。",
+    "id": "p7m6n7o8p9",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The doctor strongly advised Mr. Lin to _____ sugary drinks and fast food to improve his overall cardiovascular health.",
+    "options": [
+      "cut down on",
+      "look down upon",
+      "run out of",
+      "fall back on"
+    ],
+    "answer": "cut down on",
+    "explanation": "本題測驗片語語意。cut down on 意為「減少...的攝取或花費」。醫生建議減少含糖飲料與速食以改善健康，完全符合邏輯。look down upon (看不起)、run out of (用盡)、fall back on (依靠) 放入句中皆不合理。",
+    "id": "p8q0r1s2t3",
+    "difficulty": "hard"
+  },
+  {
+    "question": "We need to pull over at the next gas station on the highway because the car is about to _____ fuel.",
+    "options": [
+      "run out of",
+      "make up for",
+      "live up to",
+      "come up with"
+    ],
+    "answer": "run out of",
+    "explanation": "本題測驗片語語意。run out of 意為「用盡、耗盡」。句意指出車子快要「耗盡」燃料了，所以必須在下一個加油站靠邊停車。其他選項 make up for (彌補)、live up to (符合期望)、come up with (想出) 皆不合邏輯。",
+    "id": "p9u4v5w6x7",
+    "difficulty": "hard"
+  },
+  {
+    "question": "It is arrogant and unethical to _____ people simply because they do not have a prestigious college degree.",
+    "options": [
+      "look down upon",
+      "get along with",
+      "catch up with",
+      "put up with"
+    ],
+    "answer": "look down upon",
+    "explanation": "本題測驗片語語意。look down upon (或 look down on) 意為「看不起、輕視」。句意指單憑別人沒有名校學歷就「輕視」他們是傲慢且不道德的。get along with (和睦相處)、catch up with (趕上)、put up with (忍受) 皆不符合傲慢的語境。",
+    "id": "p10y8z9a0b",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The rapid introduction of artificial intelligence in the workplace has _____ a new debate about the future of employment and ethics.",
+    "options": [
+      "given rise to",
+      "taken into account",
+      "done away with",
+      "boiled down to"
+    ],
+    "answer": "given rise to",
+    "explanation": "本題測驗動詞片語。give rise to 意為「引起、導致、造成」。句意指人工智慧的引進「引起」了關於未來就業的新辯論。take into account (考慮)、do away with (廢除)、boil down to (歸結為) 放入句中皆不通順。",
+    "id": "p11c1d2e3f",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Many environmentalists argue that modern society should _____ single-use plastic products completely to reduce severe ocean pollution.",
+    "options": [
+      "do away with",
+      "fall back on",
+      "make up for",
+      "live up to"
+    ],
+    "answer": "do away with",
+    "explanation": "本題測驗片語語意。do away with 意為「廢除、消除、戒除」。環保人士主張應該完全「廢除/捨棄」一次性塑膠產品，以減少汙染，符合語意。fall back on (退而求其次依靠)、make up for (彌補)、live up to (符合期望) 均不符合環保訴求。",
+    "id": "p12g4h5i6j",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Since his original plan to study abroad failed due to financial issues, he had to _____ his backup plan of finding a local job.",
+    "options": [
+      "fall back on",
+      "stand out",
+      "rule out",
+      "turn out"
+    ],
+    "answer": "fall back on",
+    "explanation": "本題測驗高中進階片語。fall back on 意為「退而求其次的依靠、轉而依賴」。句意指因為出國留學計畫失敗，他只好「轉而依靠」找本地工作的備用計畫。stand out (突出)、rule out (排除)、turn out (結果是) 均不合邏輯。",
+    "id": "p13k7l8m9n",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The severe typhoon that hit the island yesterday _____ heavy flooding in the southern areas, forcing many residents to evacuate.",
+    "options": [
+      "resulted in",
+      "came up with",
+      "cut down on",
+      "paid off"
+    ],
+    "answer": "resulted in",
+    "explanation": "本題測驗因果關係片語。result in 意為「導致、造成(某結果)」。颱風「導致」了嚴重的淹水，符合句意因果邏輯。come up with (想出)、cut down on (減少)、pay off (得到回報) 皆無法表達災難造成的結果。",
+    "id": "p14o0p1q2r",
+    "difficulty": "hard"
+  },
+  {
+    "question": "All the extra hours of studying and sacrificing her weekends finally _____ when she was accepted into her dream university.",
+    "options": [
+      "paid off",
+      "turned out",
+      "ruled out",
+      "stood out"
+    ],
+    "answer": "paid off",
+    "explanation": "本題測驗動詞片語。pay off 作為不及物動詞片語時，意為「得到回報、取得成功」。句意指她額外的讀書時間與犧牲週末最終「得到了回報」，順利錄取理想大學。turn out (結果是)、rule out (排除)、stand out (突出) 語意不符。",
+    "id": "p15s3t4u5v",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The police have not yet identified the main suspect, but they have _____ the possibility of it being an inside job.",
+    "options": [
+      "ruled out",
+      "given rise to",
+      "looked down upon",
+      "caught up with"
+    ],
+    "answer": "ruled out",
+    "explanation": "本題測驗片語語意。rule out 意為「排除(可能性)」。警方尚未確認嫌犯，但已經「排除」了內鬼作案的可能性，符合辦案情境。give rise to (引起)、look down upon (輕視)、catch up with (趕上) 均不合邏輯。",
+    "id": "p16w6x7y8z",
+    "difficulty": "hard"
+  },
+  {
+    "question": "We thought the new experimental project would be a complete disaster, but it _____ to be a huge and profitable success.",
+    "options": [
+      "turned out",
+      "paid off",
+      "stood out",
+      "resulted in"
+    ],
+    "answer": "turned out",
+    "explanation": "本題測驗片語搭配。turn out 意為「結果是、最終發現是」，常接 to be + N/Adj。句意指本以為是災難，但「結果卻是」巨大的成功。pay off (得到回報) 不接 to be；stand out (突出) 不接 to be；result in (導致) 後接結果名詞而非不定詞。",
+    "id": "p17a9b0c1d",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After missing a whole week of school due to illness, it took the student a long time to _____ the rest of the class.",
+    "options": [
+      "catch up with",
+      "get along with",
+      "cut down on",
+      "put up with"
+    ],
+    "answer": "catch up with",
+    "explanation": "本題測驗動詞片語。catch up with 意為「趕上(進度、人)」。因為生病缺課一週，所以需要花很長時間「趕上」班上其他人的進度。get along with (和睦相處)、cut down on (減少)、put up with (忍受) 語意均不符合。",
+    "id": "p18e2f3g4h",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Despite their vastly different cultural backgrounds, the two colleagues _____ each other very well and eventually became close friends.",
+    "options": [
+      "get along with",
+      "look down upon",
+      "run out of",
+      "do away with"
+    ],
+    "answer": "get along with",
+    "explanation": "本題測驗人際關係片語。get along with 意為「與...和睦相處」。句意指出儘管背景不同，兩人卻能「融洽相處」並成為好友。look down upon (輕視)、run out of (用盡)、do away with (廢除) 皆不符合交友的正面語境。",
+    "id": "p19i5j6k7l",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To maintain a healthy mindset, psychologists suggest that people should _____ past failures and focus on present opportunities.",
+    "options": [
+      "let go of",
+      "take into account",
+      "make up for",
+      "come up with"
+    ],
+    "answer": "let go of",
+    "explanation": "本題測驗動詞片語。let go of 意為「放開、放下」。心理學家建議人們應該「放下」過去的失敗，專注於現在的機會，這符合健康心態的描述。take into account (考慮)、make up for (彌補)、come up with (想出) 皆不符題意。",
+    "id": "p20m8n9o0p",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Not until the professor explained the complicated quantum theory for the third time _____ its real mathematical meaning.",
+    "options": [
+      "did the students understand",
+      "the students understood",
+      "have the students understood",
+      "the students had understood"
+    ],
+    "answer": "did the students understand",
+    "explanation": "本題測驗倒裝句型。Not until 置於句首時，主要子句必須使用「倒裝結構」(助動詞 + 主詞 + 原形動詞)。句意表示直到教授解釋了三次，學生們才了解。因為是過去式，故助動詞使用 did。選項 did the students understand 完全符合倒裝文法要求。",
+    "id": "g1q1r2s3t4",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The labor union strongly demanded that the new safety regulations _____ strictly followed by all construction workers on site.",
+    "options": [
+      "be",
+      "are",
+      "were",
+      "will be"
+    ],
+    "answer": "be",
+    "explanation": "本題測驗假設語氣。表示意志、要求、建議的動詞 (如 demand, insist, suggest) 後接的 that 子句中，助動詞 should 通常被省略，故動詞需維持原形。因此 ...that regulations (should) be strictly followed... 正確答案為原形動詞 be。",
+    "id": "g2u5v6w7x8",
+    "difficulty": "hard"
+  },
+  {
+    "question": "_____ located on top of the steep hill, the ancient temple offers a breathtaking panoramic view of the entire modern city.",
+    "options": [
+      "Located",
+      "Locating",
+      "To locate",
+      "Locate"
+    ],
+    "answer": "Located",
+    "explanation": "本題測驗分詞構句。原句為 Because it is located on top of the steep hill...，省略連接詞與相同主詞，並將 is 改為 being，而 being 常被省略，故留下過去分詞 Located。locate 表「使座落於...」，建築物是被座落，故須用被動語態的過去分詞。",
+    "id": "g3y9z0a1b2",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The regional manager, _____ I have worked for over five years, is announcing his retirement at the end of this month.",
+    "options": [
+      "for whom",
+      "who",
+      "which",
+      "to whom"
+    ],
+    "answer": "for whom",
+    "explanation": "本題測驗介係詞加關係代名詞的用法。原句為 I have worked for the manager over five years。將介係詞 for 移至關係代名詞前，因先行詞是人，受格必須使用 whom，故為 for whom。若選 who 則句尾漏了 for，to whom 搭配介係詞錯誤。",
+    "id": "g4c3d4e5f6",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If Jack _____ the traffic report before leaving home this morning, he would not have been stuck in that terrible traffic jam.",
+    "options": [
+      "had checked",
+      "checked",
+      "has checked",
+      "would check"
+    ],
+    "answer": "had checked",
+    "explanation": "本題測驗與過去事實相反的假設語氣 (If-Conditional Type 3)。句型為：If + S + had + p.p., S + would have + p.p.。主要子句為 would not have been stuck，故條件子句需使用過去完成式 had checked，表示過去未發生的假設情況。",
+    "id": "g5g7h8i9j0",
+    "difficulty": "hard"
+  },
+  {
+    "question": "_____ happens during the controversial negotiation tomorrow, I will always stand by your side and support your bold decisions.",
+    "options": [
+      "Whatever",
+      "However",
+      "Whenever",
+      "No matter"
+    ],
+    "answer": "Whatever",
+    "explanation": "本題測驗複合關係代名詞引導讓步副詞子句。Whatever (= No matter what) 在此作附屬子句的主詞 (happens 的主詞)。However 需接形容詞或副詞；Whenever 表時間；No matter 必須加疑問詞 (如 No matter what) 才能引導子句。",
+    "id": "g6k1l2m3n4",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The little boy sat quietly in the dark corner with his arms _____, waiting anxiously for his mother to come back.",
+    "options": [
+      "folded",
+      "folding",
+      "fold",
+      "to fold"
+    ],
+    "answer": "folded",
+    "explanation": "本題測驗 with 附帶狀況結構 (With + O + OC)。此處的受詞是 his arms (他的雙臂)，手臂是被摺疊/交叉的，兩者為被動關係，故受詞補語必須使用過去分詞 folded。不可使用現在分詞 folding 或原形動詞。",
+    "id": "g7o5p6q7r8",
+    "difficulty": "hard"
+  },
+  {
+    "question": "By the time we finally manage to arrive at the concert hall, the magnificent performance _____. We should really hurry up!",
+    "options": [
+      "will have started",
+      "will start",
+      "has started",
+      "started"
+    ],
+    "answer": "will have started",
+    "explanation": "本題測驗未來完成式。By the time (到了...的時候) 引導現在簡單式 (arrive) 表示未來的時間點，主要子句需表達「在未來該時間點之前已經完成的動作」，故使用未來完成式 will have + p.p.，即 will have started。",
+    "id": "g8s9t0u1v2",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The extremely leaky roof of our old wooden house urgently needs _____ before the destructive typhoon season approaches next month.",
+    "options": [
+      "repairing",
+      "repaired",
+      "to repair",
+      "repair"
+    ],
+    "answer": "repairing",
+    "explanation": "本題測驗 need 加上動名詞表被動的特殊用法。當主詞是物 (The roof) 時，need / want / require 後方可接動名詞 (V-ing) 來表達被動語意，等同於 to be p.p.。因此 needs repairing 意同 needs to be repaired。選項中只有 repairing 符合此文法。",
+    "id": "g9w3x4y5z6",
+    "difficulty": "hard"
+  },
+  {
+    "question": "To successfully lose weight and maintain health, all you have to do _____ to eat a balanced diet and exercise regularly.",
+    "options": [
+      "is",
+      "are",
+      "be",
+      "being"
+    ],
+    "answer": "is",
+    "explanation": "本題測驗分裂句型 (Pseudo-cleft sentence)。All (that) you have to do is (to) V... 結構中，All 視為單數主詞(指唯一需要做的事)，故動詞必須用單數 is。且 is 後方的補語不定詞 to 通常可以省略，直接接原形動詞 (eat)。",
+    "id": "g10a7b8c9d",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The renowned physicist presented the revolutionary idea _____ the entire universe might actually be a complex, multidimensional hologram.",
+    "options": [
+      "that",
+      "which",
+      "what",
+      "where"
+    ],
+    "answer": "that",
+    "explanation": "本題測驗同位語子句。that 引導的完整名詞子句用來補充說明前方抽象名詞 (idea, fact, news 等) 的具體內容。因後方子句結構完整且不缺主受詞，故不能使用關係代名詞 which。that 作同位語連接詞為唯一正解。",
+    "id": "g11e0f1g2h",
+    "difficulty": "hard"
+  },
+  {
+    "question": "_____ wish to participate in the upcoming national English speech contest must sign up online before midnight this Friday.",
+    "options": [
+      "Those who",
+      "Anyone who",
+      "Whoever",
+      "People"
+    ],
+    "answer": "Those who",
+    "explanation": "本題測驗代名詞與關係代名詞的主謂一致。後方動詞 wish 為複數形，因此先行詞必須為複數。Those who (凡是...的人) 為複數，搭配 wish 合理。Anyone who 與 Whoever 視為單數，後方動詞需加 es (wishes)；People 後方缺少關係代名詞 who 無法直接連接兩組動詞。",
+    "id": "g12i3j4k5l",
+    "difficulty": "hard"
+  },
+  {
+    "question": "So unbelievably fast _____ that the advanced security cameras could hardly capture a clear image of his face.",
+    "options": [
+      "did the thief run",
+      "the thief ran",
+      "ran the thief",
+      "the thief did run"
+    ],
+    "answer": "did the thief run",
+    "explanation": "本題測驗 So... that... 句型的倒裝。當 So + 形容詞/副詞 移至句首強調時，主要子句必須進行倒裝 (助動詞 + 主詞 + 原形動詞)。原句為 The thief ran so fast that...，移至句首後變為 So fast did the thief run that...，故選含有助動詞倒裝的選項。",
+    "id": "g13m6n7o8p",
+    "difficulty": "hard"
+  },
+  {
+    "question": "He firmly decided to quit his highly stressful, well-paying job rather than _____ his physical health and family life.",
+    "options": [
+      "sacrifice",
+      "sacrificing",
+      "to sacrifice",
+      "sacrificed"
+    ],
+    "answer": "sacrifice",
+    "explanation": "本題測驗平行對稱結構。rather than 連接前後兩個對稱的成分。前方是 decided to quit，rather than 後方應對稱不定詞，但通常會省略 to，直接使用原形動詞 sacrifice。故 quit ... rather than sacrifice... 是最標準且語法正確的用法。",
+    "id": "g14q9r0s1t",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Scarcely had she stepped out of the office building _____ it started to pour down with freezing, heavy rain.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "that"
+    ],
+    "answer": "when",
+    "explanation": "本題測驗否定副詞倒裝與從屬連接詞的固定搭配。Scarcely / Hardly had + S + p.p. ... when / before + S + V(過去式) 是固定的句型搭配，意為「一...就...」。No sooner 則是搭配 than。此處句首為 Scarcely，故搭配的連接詞必須是 when。",
+    "id": "g15u2v3w4x",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After the severe car accident on the highway, Mr. Smith had his completely damaged vehicle _____ to the nearest garage.",
+    "options": [
+      "towed",
+      "tow",
+      "towing",
+      "to tow"
+    ],
+    "answer": "towed",
+    "explanation": "本題測驗使役動詞的被動用法。have + 受詞 (O) + 受詞補語 (OC)。此處受詞 his damaged vehicle (受損的車) 與 tow (拖吊) 是被動關係 (車被拖)，因此受詞補語必須使用過去分詞 towed。不能使用原形動詞或現在分詞。",
+    "id": "g16y5z6a7b",
+    "difficulty": "hard"
+  },
+  {
+    "question": "_____ I known about the sudden changes in the schedule, I would have informed everyone in the department in advance.",
+    "options": [
+      "Had",
+      "If",
+      "Have",
+      "Did"
+    ],
+    "answer": "Had",
+    "explanation": "本題測驗 If 條件句的省略與倒裝。原句為 If I had known about... (與過去事實相反)。當省略連接詞 If 時，助動詞 Had 必須移至主詞前方形成倒裝，變成 Had I known...。其他選項皆無法形成正確的假設語氣倒裝結構。",
+    "id": "g17c8d9e0f",
+    "difficulty": "hard"
+  },
+  {
+    "question": "You are more than welcome to use the conference room _____ you keep your voice down and don't disturb others working nearby.",
+    "options": [
+      "as long as",
+      "as far as",
+      "as soon as",
+      "as well as"
+    ],
+    "answer": "as long as",
+    "explanation": "本題測驗副詞子句連接詞。as long as 意為「只要... (表示條件)」，符合句中「只要你放低音量不打擾他人，就可以使用會議室」的條件語境。as far as (就...而言)、as soon as (一...就...)、as well as (以及) 皆不合題意。",
+    "id": "g18g1h2i3j",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The local environment is heavily polluted. It is high time that the government _____ strict, immediate actions against illegal dumping.",
+    "options": [
+      "took",
+      "takes",
+      "will take",
+      "has taken"
+    ],
+    "answer": "took",
+    "explanation": "本題測驗 It is high time 的假設語氣用法。It is (high/about) time that + S + V(過去式動詞) 是固定句型，用過去式來表示「早就該做而未做的事」，帶有催促或抱怨的語氣。因此動詞 take 必須改為過去式 took。",
+    "id": "g19k4l5m6n",
+    "difficulty": "hard"
+  },
+  {
+    "question": "It was not my irresponsible brother but I _____ personally responsible for the huge mistake in the annual financial report.",
+    "options": [
+      "who am",
+      "who is",
+      "that is",
+      "which am"
+    ],
+    "answer": "who am",
+    "explanation": "本題測驗分裂句 (It is/was ... that/who ...) 與主謂一致。原句結構強調「不是哥哥而是我」，not A but B 中，動詞隨 B 變化。B 為 I，故後方關係代名詞 who 引導的動詞必須與 I 一致，使用 am。故正確答案為 who am。",
+    "id": "g20o7p8q9r",
+    "difficulty": "hard"
+  },
+
+  {
+    "question": "The air in the mountains is so _____ and clean that many people like to go hiking there on weekends.",
+    "options": [
+      "fresh",
+      "heavy",
+      "crowded",
+      "dangerous"
+    ],
+    "answer": "fresh",
+    "explanation": "本題測驗國中基礎形容詞的語意辨識。句意為「山上的空氣是如此地『新鮮』且乾淨，以致於許多人喜歡在週末去那裡健行。」\"fresh\" 意為「新鮮的」，最符合描述空氣乾淨的情境。\"heavy\"（重/濃的）、\"crowded\"（擁擠的）、\"dangerous\"（危險的）均不符合語意。",
+    "id": "e8k2m9a4t1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "With the help of the new map app on her smartphone, Linda can find her way in the foreign city _____.",
+    "options": [
+      "easily",
+      "hardly",
+      "scarily",
+      "slowly"
+    ],
+    "answer": "easily",
+    "explanation": "本題測驗副詞的字彙辨識。句意為「在智慧型手機上新地圖應用程式的幫助下，Linda 可以『輕鬆地』在外國城市中找到路。」\"easily\"（容易地/輕鬆地）修飾動詞 find 且符合句意邏輯。\"hardly\" 意為「幾乎不」，與句意相反；\"scarily\"（可怕地）、\"slowly\"（緩慢地）皆不合理。",
+    "id": "b3r7v1n8q2",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The movie was so _____ that almost everyone in the theater cried at the end.",
+    "options": [
+      "touching",
+      "excited",
+      "frightening",
+      "humorous"
+    ],
+    "answer": "touching",
+    "explanation": "本題測驗現在分詞轉形容詞的辨識。句中的主詞是 \"The movie\"（電影），且後續提到幾乎劇院裡的每個人最後都哭了（cried），可推知這是一部「感人的」電影。\"touching\" 意為「感人的/令人動容的」。\"excited\" 用於修飾人的情緒（興奮的）；\"frightening\"（令人害怕的）與 \"humorous\"（幽默的）均與哭泣的情境不符。",
+    "id": "z9p4w1c6b5",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My father always checks the weather _____ before we go on a family trip to make sure it won't rain.",
+    "options": [
+      "report",
+      "market",
+      "station",
+      "holiday"
+    ],
+    "answer": "report",
+    "explanation": "本題測驗國中常考複合名詞的語意辨識。\"weather report\" 指「氣象報告」。句意為「我父親在我們進行家庭旅行前，總是會先確認『氣象報告』以確保不會下雨。」其餘選項 \"weather market\"（無此說法）、\"weather station\"（氣象站，通常指觀測機構，不符合個人確認資訊的情境）、\"weather holiday\"（無此說法）皆不適用。",
+    "id": "u5n8x3y1d2",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After working in front of the computer for eight hours, Sam felt a sharp _____ in his neck.",
+    "options": [
+      "pain",
+      "joy",
+      "habit",
+      "dream"
+    ],
+    "answer": "pain",
+    "explanation": "本題測驗國中名詞字彙。句意為「在電腦前工作了八個小時後，Sam 感到脖子有一陣劇烈的『疼痛』。」\"pain\" 意為「疼痛」。\"joy\"（喜悅）、\"habit\"（習慣）、\"dream\"（夢想）均不符合長時間工作後身體產生不適的情境。",
+    "id": "k7t1v4m8z9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "To protect our environment, we should try to _____ the amount of plastic waste we produce every day.",
+    "options": [
+      "reduce",
+      "increase",
+      "ignore",
+      "forget"
+    ],
+    "answer": "reduce",
+    "explanation": "本題測驗國中重要動詞。句意為「為保護我們的環境，我們應該嘗試去『減少』我們每天產生的塑膠垃圾量。」\"reduce\" 意為「減少」。\"increase\" 意為「增加」，與環保概念相反；\"ignore\"（忽略）與 \"forget\"（忘記）則無法達到保護環境的實際效果。",
+    "id": "p2o3l9k6j1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "All the players on the school soccer team practiced hard to prepare for the upcoming national _____.",
+    "options": [
+      "competition",
+      "vacation",
+      "exercise",
+      "instruction"
+    ],
+    "answer": "competition",
+    "explanation": "本題測驗國中級名詞辨識。句意為「學校足球隊的所有隊員都努力練習，為即將到來的全國『比賽』做準備。」\"competition\" 意為「比賽/競爭」。\"vacation\"（假期）、\"exercise\"（運動/練習題）、\"instruction\"（指示）皆不符合球隊積極訓練所針對的目標。",
+    "id": "x8r5v2m3b9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Although the smart watch is very _____ and convenient, I decided not to buy it because of the high price.",
+    "options": [
+      "useful",
+      "useless",
+      "strange",
+      "boring"
+    ],
+    "answer": "useful",
+    "explanation": "本題測驗形容詞的語意辨識。句首使用引導讓步的連接詞 \"Although\"（雖然），可知前後文句意呈對比。後半句提到這支手錶太貴而不買，前半句應描述其優點。\"useful\"（有用的）與 \"convenient\"（方便的）並列，符合文意邏輯。\"useless\"（無用的）、\"strange\"（奇怪的）、\"boring\"（無聊的）皆為負面字眼，不符合雖然有優點卻因高價不買的對比語氣。",
+    "id": "t4m1z6q2y3",
+    "difficulty": "medium"
+  },
+  {
+    "question": "It is not polite to speak with your mouth full of food during a _____ with others.",
+    "options": [
+      "meal",
+      "race",
+      "test",
+      "sport"
+    ],
+    "answer": "meal",
+    "explanation": "本題測驗名詞在生活情境中的應用。句意為「與他人一起『用餐』時，嘴裡塞滿食物說話是不禮貌的。」\"meal\" 意為「餐/膳食」，此處指用餐時間。其餘選項 \"race\"（比賽/賽跑）、\"test\"（考試）、\"sport\"（運動）皆與「嘴裡有食物」的情境無關。",
+    "id": "h7n2b9w5c1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The heavy rain caused a big traffic _____ on the highway, making many people late for work.",
+    "options": [
+      "jam",
+      "light",
+      "sign",
+      "rule"
+    ],
+    "answer": "jam",
+    "explanation": "本題測驗與交通相關的複合名詞。\"traffic jam\" 意為「交通堵塞/塞車」。句意為「大雨在高速公路上造成了嚴重的『塞車』，使得許多人上班遲到。」其餘選項 \"traffic light\"（紅綠燈）、\"traffic sign\"（交通標誌）、\"traffic rule\"（交通規則）皆無法與動詞 \"caused\"（導致）以及「讓人上班遲到」的結果相呼應。",
+    "id": "j9k4l1x5v8",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Mr. Wang always _____ at 6:00 AM to jog in the park before the sun gets too hot.",
+    "options": [
+      "gets up",
+      "goes to bed",
+      "gives up",
+      "grows up"
+    ],
+    "answer": "gets up",
+    "explanation": "本題測驗片語 \"get up\" 的時態與語意應用。句中提到時間是早上六點 (6:00 AM)，且要在太陽變熱前去公園慢跑，可推知動作是「起床」。\"get up\" 意為「起床」。\"go to bed\"（上床睡覺）、\"give up\"（放棄）、\"grow up\"（長大）皆不符合語境。",
+    "id": "i2o8p1q7z6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My parents often tell me to _____ my younger sister when they are busy working on weekends.",
+    "options": [
+      "look after",
+      "look for",
+      "look at",
+      "look up"
+    ],
+    "answer": "look after",
+    "explanation": "本題測驗與 \"look\" 相關的常用動詞片語辨識。句意為「當我父母週末忙於工作時，他們常叫我『照顧』我的妹妹。」\"look after\" 意為「照顧（take care of）」，最符合照顧家人的語意。\"look for\" 是尋找；\"look at\" 是注視；\"look up\" 是查閱（單字等），皆不適用。",
+    "id": "s3t9u5v1w7",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Don't forget to _____ the computer and the lights before you leave the study room.",
+    "options": [
+      "turn off",
+      "turn on",
+      "turn down",
+      "turn into"
+    ],
+    "answer": "turn off",
+    "explanation": "本題測驗與 \"turn\" 相關的片語。句意為「在你離開書房之前，不要忘記『關掉』電腦和電燈。」離開房間前應將電器與燈光關閉以省電，因此選 \"turn off\"（關閉電源）。\"turn on\"（打開電源）、\"turn down\"（調小音量/拒絕）、\"turn into\"（變成）均不符合情境。",
+    "id": "x9y2z5a8b1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The students are quiet because they are busy _____ their science homework in the classroom.",
+    "options": [
+      "doing",
+      "making",
+      "playing",
+      "studying"
+    ],
+    "answer": "doing",
+    "explanation": "本題測驗與「功課」搭配的動詞片語。在英文中，寫作業/做功課固定搭配動詞 \"do\"，片語為 \"do homework\"。句中因前方有 \"busy\"，其後接動詞需用 V-ing 形式，即 \"busy doing homework\"。因此正確答案為 \"doing\"。其他動詞如 make、play、study 皆不與 homework 形成此固定搭配。",
+    "id": "n4m1k9l5j2",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Wendy was so tired last night that she _____ right after dinner and slept for ten hours.",
+    "options": [
+      "went to bed",
+      "went shopping",
+      "went camping",
+      "went mountain climbing"
+    ],
+    "answer": "went to bed",
+    "explanation": "本題測驗生活動詞片語。句意為「Wendy 昨天晚上太累了，以致於她吃完晚餐後立刻『上床睡覺』，而且睡了十個小時。」\"go to bed\" 意為「上床睡覺」，其過去式為 \"went to bed\"，符合疲倦與睡了十個小時的描述。其他活動如去購物 (went shopping)、去露營 (went camping) 或去爬山 (went mountain climbing) 均不合邏輯。",
+    "id": "o8p3q1r7s9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If you want to pass the important exam next week, you should _____ playing video games and study hard.",
+    "options": [
+      "give up",
+      "put on",
+      "take off",
+      "wake up"
+    ],
+    "answer": "give up",
+    "explanation": "本題測驗國中基礎動詞片語。句意為「如果你想通過下週的重要考試，你應該『放棄』玩電子遊戲並努力讀書。」\"give up\" 意為「放棄」，後接動名詞 V-ing（playing）。\"put on\"（穿上）、\"take off\"（脫下/起飛）、\"wake up\"（醒來）皆不符合語意語境。",
+    "id": "t1u5v9w3x7",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Before we start eating dinner, please help me _____ the plates and chopsticks on the table.",
+    "options": [
+      "put out",
+      "put off",
+      "put away",
+      "put down"
+    ],
+    "answer": "put down",
+    "explanation": "本題測驗與 \"put\" 相關的動詞片語。句意為「在我們開始吃晚餐前，請幫忙我把盤子和筷子『放下/擺放』在桌上。」\"put down\" 意為「放下/擺放」。\"put out\" 是撲滅（火）；\"put off\" 是延期；\"put away\" 是收好/歸位，在此處是指要準備吃飯，所以將餐具「放下擺好」最合乎情境。",
+    "id": "y3z7a1b9c2",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The garbage is smelling bad. Could you please _____ the trash bag when you go outside?",
+    "options": [
+      "take out",
+      "take after",
+      "take place",
+      "take care of"
+    ],
+    "answer": "take out",
+    "explanation": "本題測驗與 \"take\" 相關的動詞片語。句意為「垃圾在發臭了。你出去的時候可以順便『拿出去/倒』垃圾袋嗎？」\"take out the trash\" 是「拿垃圾出去倒」的固定說法。\"take after\"（長相或性格像...）、\"take place\"（發生/舉行）、\"take care of\"（照顧）均不符合處理垃圾的情境。",
+    "id": "d8e2f6g9h1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "It is getting cold. You should _____ your coat before going out, or you might catch a cold.",
+    "options": [
+      "put on",
+      "take off",
+      "show off",
+      "get off"
+    ],
+    "answer": "put on",
+    "explanation": "本題測驗生活穿戴相關的片語。句意為「天氣變冷了。你在出門前應該『穿上』外套，否則你可能會感冒。」\"put on\" 意為「穿上（衣服/鞋子等）」。\"take off\" 意為「脫下」，與句意相反；\"show off\" 是炫耀；\"get off\" 是下車，皆不適用。",
+    "id": "i5j1k7l3m9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Many people are _____ the bus at the bus stop, hoping it will arrive before the heavy rain starts.",
+    "options": [
+      "waiting for",
+      "looking at",
+      "listening to",
+      "talking about"
+    ],
+    "answer": "waiting for",
+    "explanation": "本題測驗與介系詞搭配的動詞片語。句意為「許多人正在公車站『等待』公車，希望在大雨開始前公車能抵達。」\"wait for\" 意為「等待」。\"look at\"（看著）、\"listen to\"（聆聽）、\"talk about\"（談論）均不符合在公車站等候交通工具的情境。",
+    "id": "r2s8t4u9v1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "When the teacher walked into the classroom, all the students _____ and said \"Good morning, Mrs. Lin.\"",
+    "options": [
+      "stood up",
+      "sat down",
+      "fell down",
+      "ran away"
+    ],
+    "answer": "stood up",
+    "explanation": "本題測驗生活與課堂片語。句意為「當老師走進教室時，所有的學生都『起立』並說『林老師，早安。』」\"stand up\" 的過去式為 \"stood up\"，意為「起立」，符合學校課堂敬禮的情境。\"sit down\"（坐下）、\"fall down\"（跌倒）、\"run away\"（跑走）均不適用。",
+    "id": "n6o3p9q5r1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I can't hear what the speaker is saying. Could you please _____ the radio a little bit?",
+    "options": [
+      "turn up",
+      "turn off",
+      "turn down",
+      "turn around"
+    ],
+    "answer": "turn up",
+    "explanation": "本題測驗與聲音大小調整相關的片語。句意為「我聽不到講者在說什麼。可以請你把收音機的音量『調大』一點嗎？」\"turn up\" 意為「開大/調大（音量/熱度等）」。\"turn off\" 是關掉電源；\"turn down\" 是調小音量，會使聲音更聽不到；\"turn around\" 是轉身，皆不適用。",
+    "id": "v7w2x9y5z1",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Our teacher asked us to _____ the clean-up work before we went home for the summer vacation.",
+    "options": [
+      "help with",
+      "laugh at",
+      "worry about",
+      "think of"
+    ],
+    "answer": "help with",
+    "explanation": "本題測驗國中基礎動詞片語的用法。句意為「我們老師要求我們在放暑假回家前，『幫忙』打掃工作。」\"help with\" 意為「幫忙（做某事）」，後面常接名詞或代名詞（the clean-up work）。\"laugh at\"（嘲笑）、\"worry about\"（擔心）、\"think of\"（想到/考慮）皆與打掃工作的語境不符。",
+    "id": "a9b3c7d1e5",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My grandmother lives in the countryside. I like to _____ her on weekends to enjoy the quiet life.",
+    "options": [
+      "pay a visit to",
+      "make fun of",
+      "make friends with",
+      "take care of"
+    ],
+    "answer": "pay a visit to",
+    "explanation": "本題測驗國中進階動詞片語。句意為「我祖母住在鄉下。我喜歡在週末『拜訪』她，以享受寧靜的生活。」\"pay a visit to\" 意為「拜訪（某人或某地）」，符合探望長輩的情境。\"make fun of\"（嘲笑）、\"make friends with\"（與...交朋友）不符；\"take care of\"（照顧）雖有照顧之意，但後續接著「享受寧靜生活」，此處使用「拜訪」更為貼切自然。",
+    "id": "h2i8k4l0m6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Before we buy any food, we should always _____ the expiration date to make sure it is safe to eat.",
+    "options": [
+      "look for",
+      "look up",
+      "look at",
+      "look after"
+    ],
+    "answer": "look at",
+    "explanation": "本題測驗動詞片語的搭配。句意為「在我們買任何食物之前，我們應該總是要『看/確認』保存期限以確保食用安全。」\"look at\" 意為「看著/注視」，此處指查看標籤上的保存期限（expiration date）。\"look for\" 是尋找丟失的物品；\"look up\" 指查單字或電話號碼等；\"look after\" 指照顧，皆不符合語境。",
+    "id": "s8t4u1v9w3",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I spent two hours _____ for my lost wallet, but I still couldn't find it anywhere.",
+    "options": [
+      "looking",
+      "waiting",
+      "asking",
+      "paying"
+    ],
+    "answer": "looking",
+    "explanation": "本題測驗動詞搭配介系詞 \"for\" 的片語。句意為「我花了兩個小時『尋找』我遺失的皮夾，但我仍然在任何地方都找不到它。」\"look for\" 意為「尋找」。雖然 \"wait for\"（等待）、\"ask for\"（要求/尋求）、\"pay for\"（付款）皆可與 for 搭配，但與「遺失皮夾且找不到」的情境最相符的只有「尋找（looking for）」。",
+    "id": "z2x6c0v4b8",
+    "difficulty": "medium"
+  },
+  {
+    "question": "To keep the classroom clean, the teacher asked us to _____ the trash on the floor.",
+    "options": [
+      "pick up",
+      "give up",
+      "throw away",
+      "put off"
+    ],
+    "answer": "pick up",
+    "explanation": "本題測驗動詞片語。句意為「為了保持教室乾淨，老師要求我們『撿起』地板上的垃圾。」\"pick up\" 意為「拾起/撿起」。\"give up\"（放棄）、\"put off\"（延期）不符；雖然 \"throw away\"（扔掉）在語意上接近，但垃圾已經在「地板上」（on the floor），應先「撿起」再拿去丟，故 \"pick up\" 最合乎邏輯。",
+    "id": "n1m7q3w9e5",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The boy was too shy to speak, so he just _____ his head when the teacher asked him a question.",
+    "options": [
+      "shook",
+      "showed",
+      "pointed",
+      "shared"
+    ],
+    "answer": "shook",
+    "explanation": "本題測驗身體動作相關的動詞片語。\"shake one's head\" 意為「搖頭」，其過去式為 \"shook one's head\"。句意為「這個男孩太害羞了不敢說話，所以當老師問他問題時，他只是『搖了搖』他的頭。」其餘選項 \"showed\"（展示）、\"pointed\"（指向，通常搭配 at）、\"shared\"（分享）皆無法與 \"head\" 形成此特定否定或無奈的語境搭配。",
+    "id": "o5p1q7r3s9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Don't forget to _____ your raincoat when you go out. It is raining cats and dogs outside.",
+    "options": [
+      "take along",
+      "take off",
+      "take after",
+      "take place"
+    ],
+    "answer": "take along",
+    "explanation": "本題測驗與 \"take\" 相關的片語。句意為「你出門時不要忘記『帶上』你的雨衣。外面正在下著傾盆大雨。」\"take along\" 意為「隨身攜帶/帶上」。\"take off\" 是脫下/起飛；\"take after\" 是長相或性格像；\"take place\" 是發生，皆不符合雨天出門帶雨具的情境。",
+    "id": "w2e8r4t0y6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My cousin is planning to _____ the school singing contest to show her beautiful voice.",
+    "options": [
+      "take part in",
+      "take care of",
+      "take pride in",
+      "take the place of"
+    ],
+    "answer": "take part in",
+    "explanation": "本題測驗國中必背的重要片語。句意為「我的表姊/妹正計畫要『參加』學校的歌唱比賽，以展現她優美的聲音。」\"take part in\" 意為「參加（活動/比賽等）」。\"take care of\"（照顧）、\"take pride in\"（以...為傲）、\"take the place of\"（代替）均不符合報名參賽的情境。",
+    "id": "i9o3p7a1s5",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Mr. Brown _____ to work every day because he wants to save money on gas and do some exercise.",
+    "options": [
+      "walks",
+      "walk",
+      "is walking",
+      "walked"
+    ],
+    "answer": "walks",
+    "explanation": "本題測驗現在簡單式的動詞單複數變化。句中時間副詞為 \"every day\"（每天），表示這是一個規律性的習慣，故須使用現在簡單式。主詞 \"Mr. Brown\" 為第三人稱單數，動詞 \"walk\" 字尾應加 \"s\"，即 \"walks\"。\"is walking\" 用於現在進行式；\"walked\" 用於過去式，皆不適用於此處的日常習慣表達。",
+    "id": "g4h8j2k6l0",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Linda _____ her dog in the park when the sudden earthquake shook the ground yesterday afternoon.",
+    "options": [
+      "was walking",
+      "is walking",
+      "walked",
+      "walks"
+    ],
+    "answer": "was walking",
+    "explanation": "本題測驗過去進行式與過去簡單式的搭配用法。句意為「昨天下午當突如其來的地震震動地面時，Linda 『正在』公園裡遛狗。」當一個過去發生的短暫動作（地震震動：shook）發生時，另一個動作正在持續進行（遛狗），該持續動作需使用過去進行式（was/were + V-ing）。主詞 \"Linda\" 為單數，故選 \"was walking\"。",
+    "id": "z9x3c7v1b5",
+    "difficulty": "medium"
+  },
+  {
+    "question": "If it _____ tomorrow, we will have the barbecue party inside the house instead of the yard.",
+    "options": [
+      "rains",
+      "will rain",
+      "rained",
+      "is raining"
+    ],
+    "answer": "rains",
+    "explanation": "本題測驗條件句的時態規則。在由 \"if\"（如果）引導的條件副詞子句中，若描述的事情發生在未來（如題中的 tomorrow），必須用「現在簡單式代替未來式」。主詞 \"it\" 為第三人稱單數，故動詞使用 \"rains\"。\"will rain\" 是常見的誘答選項，但在 if 條件子句中不使用 will 表达未來。",
+    "id": "m2q8w4e0r6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Kevin has two brothers. One of them is a doctor, and _____ is an English teacher.",
+    "options": [
+      "the other",
+      "another",
+      "others",
+      "other"
+    ],
+    "answer": "the other",
+    "explanation": "本題測驗國中代名詞的核心觀念「兩者中其一與另一個」的說法。Kevin 總共有兩個兄弟，在限定的兩者範圍中，「一個是...（One...），另一個是...」固定用法為 \"the other\"。\"another\" 指不特定範圍中的「另一個」；\"others\" 是複數，指不特定範圍中的「其他多數人」；\"other\" 不能單獨當作代名詞使用。",
+    "id": "t5y1u7i3o9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The garbage on the street _____ by the sanitary workers before the city became busy this morning.",
+    "options": [
+      "was cleaned",
+      "cleaned",
+      "is cleaning",
+      "was cleaning"
+    ],
+    "answer": "was cleaned",
+    "explanation": "本題測驗被動語態的用法。主詞為 \"The garbage\"（垃圾），垃圾無法自己做清潔的動作，必須「被清潔」，因此需使用被動語態（be動詞 + 過去分詞 p.p.）。再者，時間點為 \"this morning\"（今天早上）且後半句使用過去式 \"became\"，代表此事件發生在過去，故 be 動詞需用過去式單數 \"was\"，答案為 \"was cleaned\"。其餘選項皆為主動語態。",
+    "id": "p2a8s4d0f6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The heavy rain kept the children from playing outside, _____?",
+    "options": [
+      "didn't it",
+      "did it",
+      "wasn't it",
+      "was it"
+    ],
+    "answer": "didn't it",
+    "explanation": "本題測驗附加問句（Tag Question）。前半句的主詞為 \"The heavy rain\"（非人，代名詞用 it），動詞為一般動詞過去式 \"kept\"。前半句為肯定句，附加問句必須用否定形式，一般動詞過去式的否定助動詞為 \"didn't\"。因此附加問句為 \"didn't it?\"。\"wasn't it\" 是 be 動詞的附加問句，不符合此處動詞結構。",
+    "id": "g5h1j7k3l9",
+    "difficulty": "medium"
+  },
+  {
+    "question": "My sister is not sure if Jerry _____ to her birthday party next Sunday. She hopes he will.",
+    "options": [
+      "will come",
+      "comes",
+      "came",
+      "is coming"
+    ],
+    "answer": "will come",
+    "explanation": "本題測驗名詞子句的時態。句中的 \"if\" 意為「是否」，引申為引導名詞子句（當賓語），而非條件副詞子句（如果）。既然是「是否」的名詞子句，時態就依照時間副詞正常判斷即可。時間副詞為 \"next Sunday\"（下週日），表示未來，因此必須使用未來式 \"will come\"。不可誤套用條件子句「現在代替未來」的規則而選 comes。",
+    "id": "z0x4c8v2b6",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I don't have any money with me now. Could you please lend me _____?",
+    "options": [
+      "some",
+      "any",
+      "many",
+      "one"
+    ],
+    "answer": "some",
+    "explanation": "本題測驗不定代名詞的用法。問句中雖然常使用 any，但在「表示請求、建議、或期望得到肯定回答」的疑問句中（如：Could you lend me...?），常用 \"some\" 來代替 any。\"money\"（錢）是不可數名詞，不能用 \"one\"（用於替代單數可數名詞）或 \"many\"（用於修飾/替代複數可數名詞）。因此最合適的答案是 \"some\"（一些）。",
+    "id": "n3m9q5w1e7",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Mrs. Carter asked her son _____ too much time playing online games on school nights.",
+    "options": [
+      "not to spend",
+      "to not spend",
+      "don't spend",
+      "not spending"
+    ],
+    "answer": "not to spend",
+    "explanation": "本題測驗動詞不定詞的否定形式。句型為 \"ask someone to do something\"（要求某人做某事），其否定形式（要求某人『不要』做某事）是將否定字 \"not\" 放在不定詞 \"to\" 之前，即 \"ask someone not to do something\"。因此正確答案為 \"not to spend\"。\"to not spend\" 為不標準寫法，\"don't spend\" 不可直接置於賓語之後。",
+    "id": "o4p0q6r2s8",
+    "difficulty": "medium"
+  },
+  {
+    "question": "This coffee is _____ hot for me to drink right now. I have to wait for a few minutes.",
+    "options": [
+      "too",
+      "so",
+      "very",
+      "quite"
+    ],
+    "answer": "too",
+    "explanation": "本題測驗 \"too... to...\"（太...以致於不能...）的文法句型。句意為「這杯咖啡『太』熱了，以致於我現在『無法』喝。我必須等幾分鐘。」後文提到需要等幾分鐘，表示當下無法喝。此句型結構為 \"too + 形容詞 + for someone to + 原形動詞\"。雖然 so、very、quite 皆有「非常」之意，但無法與後續的 \"to drink\" 形成此種含有否定含意的固定搭配結構。",
+    "id": "w1e7r3t9y5",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Sally has lived in Hualien _____ she was five years old, so she knows the city very well.",
+    "options": [
+      "since",
+      "for",
+      "before",
+      "when"
+    ],
+    "answer": "since",
+    "explanation": "本題測驗現在完成式與連接詞的搭配。主要子句使用的是現在完成式 \"has lived\"（已經居住），表示動作從過去持續到現在。後方子句 \"she was five years old\" 為過去簡單式，作為一個過去的起點，表示「自從那時起」，因此必須搭配連接詞 \"since\"（自從）。\"for\" 後方需接「一段時間」（如 for five years）；\"before\" 與 \"when\" 無此特定完成式起點的文法搭配。",
+    "id": "i0o6p2a8s4",
+    "difficulty": "medium"
+  },
+  {
+    "question": "_____ to beautiful music is a good way for people to reduce stress after a long day of work.",
+    "options": [
+      "Listening",
+      "Listen",
+      "Listened",
+      "To listening"
+    ],
+    "answer": "Listening",
+    "explanation": "本題測驗動名詞當主詞的用法。在本句中，主詞為「聽優美的音樂」這件事，當一個動作要放在句首當作主詞時，必須使用動名詞（V-ing）或不定詞（To + V）。選項中的 \"Listening\" 為動名詞形式，符合文意與結構。\"Listen\" 為原形動詞（不可直接當主詞，除非是祈使句）；\"To listening\" 中 to 後方不可接 V-ing。",
+    "id": "g3h9j5k1l7",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Our English teacher often has us _____ a picture book and share the story with the class on Fridays.",
+    "options": [
+      "read",
+      "to read",
+      "reading",
+      "reads"
+    ],
+    "answer": "read",
+    "explanation": "本題測驗使役動詞的用法。在英文中，使役動詞 \"have/has\"（叫/命令/讓）後方接了受詞（us）之後，若主動要求受詞去做某事，受詞後方必須接「原形動詞（Bare Infinitive）」。因此正確答案為原形動詞 \"read\"。其餘帶 to 的不定詞、現在分詞或單數動詞皆不符合使役動詞的主動受詞補語結構。",
+    "id": "z8x4c0v6b2",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The boy _____ the red T-shirt is my cousin, and he is very good at playing basketball.",
+    "options": [
+      "wearing",
+      "wears",
+      "wore",
+      "worn"
+    ],
+    "answer": "wearing",
+    "explanation": "本題測驗現在分詞作形容詞修飾名詞（後位修飾）的用法。句子的主要動詞是後方的 \"is\"（是），因此前方的 \"wearing the red T-shirt\" 是用來修飾前方的主詞 \"The boy\"。因為男孩與穿衣服的動作是「主動」關係，所以使用現在分詞 \"wearing\"。若選 \"wears\" 或 \"wore\"，會造成一個句子中出現兩個主要動詞且無連接詞的錯誤結構。",
+    "id": "m1n7q3w9e5a",
+    "difficulty": "medium"
+  },
+  {
+    "question": "You have already been to Kenting National Park three times, _____ you?",
+    "options": [
+      "haven't",
+      "don't",
+      "hadn't",
+      "aren't"
+    ],
+    "answer": "haven't",
+    "explanation": "本題測驗現在完成式的附加問句。前半句使用的是現在完成式 \"have been to\"（已經去過），主要動詞結構中的第一助動詞為 \"have\"。前半句為肯定句，附加問句需用否定形式，因此將 have 變成否定縮寫 \"haven't\"，再搭配主詞 you。所以答案為 \"haven't you?\"。\"don't\" 用於一般動詞現在簡單式；\"aren't\" 用於 be 動詞現在式。",
+    "id": "o2p8q4r0s6b",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Could you please tell me _____? I need to send a letter to my pen pal in America.",
+    "options": [
+      "where the post office is",
+      "where is the post office",
+      "how can I get to the post office",
+      "when does the post office open"
+    ],
+    "answer": "where the post office is",
+    "explanation": "本題測驗間接問句（名詞子句）的語序。間接問句是將一個直接問句放在另一個句子後面作為賓語，其語序必須改為「主動詞語序（疑問詞 + 主詞 + 動詞）」。直接問句為 \"Where is the post office?\"，變成間接問句後應為 \"where the post office is\"。選項中的 \"where is the post office\" 與其餘選項皆維持了直接問句的倒裝語序，故皆不正確。",
+    "id": "w9e3r7t1y5c",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The computer _____ my sister bought last week is very fast and has a beautiful screen.",
+    "options": [
+      "which",
+      "who",
+      "what",
+      "whom"
+    ],
+    "answer": "which",
+    "explanation": "本題測驗關係代名詞（關係子句）的用法。先行詞為 \"The computer\"（電腦，代表無生命的「物」），且在關係子句 \"_____ my sister bought last week\" 中當作受格（bought 的賓語），因此關係代名詞必須使用 \"which\" 或 \"that\"。\"who\" 與 \"whom\" 用於先行詞為「人」；\"what\" 不能作為關係代名詞引導修飾先行詞的形容詞子句。",
+    "id": "i2o8p4a0s6d",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Before Linda went to bed last night, she _____ sure all the doors and windows were locked.",
+    "options": [
+      "had made",
+      "makes",
+      "has made",
+      "will make"
+    ],
+    "answer": "had made",
+    "explanation": "本題測驗過去完成式。句意為「在 Linda 昨晚睡覺之前，她『已經』確認所有的門窗都鎖好了。」「確認鎖好」的動作發生在「上床睡覺（went to bed，過去式）」之前，亦即「過去的過去」，因此必須使用過去完成式（had + 過去分詞 p.p.），即 \"had made\"。其他時態如現在式（makes）、現在完成式（has made）或未來式（will make）皆不符合過去時間軸的邏輯。",
+    "id": "g5h1j7k3l9e",
+    "difficulty": "medium"
+  },
+  {
+    "question": "_____ of the two books is yours? The blue one or the red one?",
+    "options": [
+      "Which",
+      "What",
+      "Who",
+      "Whose"
+    ],
+    "answer": "Which",
+    "explanation": "本題測驗疑問代名詞的語意辨識。句意為「這兩本書中『哪一本』是你的？藍色的那本還是紅色的那本？」當在「有限範圍」或「特定選擇」中詢問「哪一個」時，必須使用疑問代名詞 \"Which\"。\"What\" 用於無特定範圍的提問（什麼）；\"Who\" 提問人（誰）；\"Whose\" 提問所有權（誰的）。",
+    "id": "z8x4c0v6b2f",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Although the smart phone is very expensive, my brother still wants to buy _____.",
+    "options": [
+      "it",
+      "one",
+      "them",
+      "some"
+    ],
+    "answer": "it",
+    "explanation": "本題測驗代名詞 \"it\" 與 \"one\" 的辨析。句中的先行詞為 \"the smart phone\"（這部特定的智慧型手機）。當我們要指代「同一個且特定」的單數事物時，必須使用代名詞 \"it\"。而 \"one\" 用於指代「同類但非特定」的單數事物（例如：I don't have a phone. I want to buy one.）。此處指的就是那部很貴的手錶/手機本身，故選 \"it\"。\"them\" 與 \"some\" 為複數，不符合單數先行詞結構。",
+    "id": "m9n3q7w1e5g",
+    "difficulty": "medium"
   }
+
+
 ]
