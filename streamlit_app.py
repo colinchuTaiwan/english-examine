@@ -23,7 +23,6 @@ requirements.txt：
     firebase-admin
     requests
 """
-
 import streamlit as st
 import json
 import os
@@ -49,9 +48,8 @@ def init_firebase():
 
     s = st.secrets["firebase"]
 
-    # 明確取出每個欄位，避免 dict 轉換後 key 遺失問題
     cert_dict = {
-        "type":                        s["type"],
+        "type":                         s["type"],
         "project_id":                  s["project_id"],
         "private_key_id":              s["private_key_id"],
         "private_key":                 s["private_key"].replace("\n", "\n").replace("\\n", "\n"),
@@ -68,11 +66,61 @@ def init_firebase():
     return firebase_admin.initialize_app(cred, {"databaseURL": database_url})
 
 # =========================
+# 訪客計數器與意見表單功能
+# =========================
+
+def track_visitor(site_id: str) -> int:
+    """
+    依據網站識別碼 (site_id) 進行獨立計數。
+    使用 Firebase Transaction 確保多人同時操作時數據準確。
+    """
+    init_firebase()
+    counter_ref = firebase_db.reference(f"visitor_counts/{site_id}")
+    
+    def increment_transaction(current_value):
+        return (current_value or 0) + 1
+
+    try:
+        # 僅在 session 中尚未計數過時才增加，避免重新整理頁面重複計算
+        if "counted" not in st.session_state:
+            snapshot = counter_ref.transaction(increment_transaction)
+            st.session_state["counted"] = True
+            return snapshot
+        else:
+            current = counter_ref.get()
+            return current if current is not None else 0
+    except Exception:
+        return 0
+
+def show_feedback_qrcode():
+    """顯示意見表單的 QR Code 與連結（重用上傳的圖片）"""
+    st.markdown("---")
+    st.markdown("### 📣 歡迎填寫意見表單")
+    col_qr, col_txt = st.columns([1, 2])
+    with col_qr:
+        # 請確保將上傳的 QR Code 圖片命名為 '意見表單QRCode.png' 並放在與 app.py 同個資料夾下
+        if os.path.exists("意見表單QRCode.png"):
+            st.image("意見表單QRCode.png", width=140)
+        else:
+            st.caption("📷 QR Code 圖片未讀取")
+    with col_txt:
+        st.write("掃描左側 QR Code，或是點擊下方按鈕，協助我們把測驗做得更好！")
+        # 可以將底下的 href 替換為你實際的 Google 表單連結
+        st.markdown(
+            '<a href="https://tqrcg.com" target="_blank">'
+            '<button style="border:none; border-radius:4px; padding: 0.5rem 1rem; '
+            'background-color:#1e88e5; color:white; cursor:pointer;">'
+            '✍️ 填寫意見表單</button></a>', 
+            unsafe_allow_html=True
+        )
+
+# =========================
 # 設定
 # =========================
 
 TIME_LIMIT   = 30
 STREAK_BONUS = 5
+SITE_ID      = "site_english_examine"  # 本網站的獨一無二識別碼
 
 FILES = {
     "國小": "db/element.json",
@@ -81,16 +129,17 @@ FILES = {
     "練習": "db/practice.json",
 }
 
+# 觸發計數器更新
+visitor_count = track_visitor(SITE_ID)
+
 # =========================
-# GitHub 讀取題庫（公開 repo，固定 raw URL）
+# GitHub 讀取題庫
 # =========================
 
-# 直接寫死 raw URL，不依賴 secrets，最穩定
 GITHUB_RAW_BASE = "https://raw.githubusercontent.com/colinchuTaiwan/english-examine/main"
 
 @st.cache_data(ttl=300)
 def load_questions_cached(filepath: str) -> list:
-    """從 GitHub raw URL 讀取題庫（快取 5 分鐘）。"""
     url  = f"{GITHUB_RAW_BASE}/{filepath}"
     resp = requests.get(url, timeout=10)
     if not resp.ok:
@@ -102,7 +151,7 @@ def load_questions_cached(filepath: str) -> list:
         return []
 
 # =========================
-# 題庫驗證
+# 題庫驗證與 Firebase 成績讀寫
 # =========================
 
 def validate_questions(qs: list) -> list:
@@ -125,16 +174,7 @@ def validate_questions(qs: list) -> list:
             valid.append(q)
     return valid
 
-# =========================
-# Firebase：成績讀寫
-# =========================
-
 def save_record(name: str, score: int, difficulty: str) -> str:
-    """
-    寫入一筆成績到 Firebase Realtime Database。
-    Firebase push() 自動產生唯一 key，完全無競態衝突。
-    回傳 record_id 供排名查詢。
-    """
     init_firebase()
     record_id = str(uuid.uuid4())
     firebase_db.reference("records_english").push({
@@ -144,23 +184,16 @@ def save_record(name: str, score: int, difficulty: str) -> str:
         "difficulty": difficulty,
         "timestamp":  datetime.now().isoformat(),
     })
-    load_records_cached.clear()   # 清除快取，榜單立刻更新
+    load_records_cached.clear()
     return record_id
 
-
-@st.cache_data(ttl=30)   # 榜單快取 30 秒
+@st.cache_data(ttl=30)
 def load_records_cached() -> list:
-    """從 Firebase 讀取所有成績（快取 30 秒）。"""
     init_firebase()
     data = firebase_db.reference("records_english").get()
     if not data:
         return []
-    # Firebase 回傳 dict（key: push_key, value: record_dict）
     return list(data.values())
-
-# =========================
-# 排行榜過濾
-# =========================
 
 def filter_records(records: list, difficulty: str, period: str) -> list:
     now    = datetime.now()
@@ -182,10 +215,6 @@ def filter_records(records: list, difficulty: str, period: str) -> list:
         result,
         key=lambda x: (-x.get("score", 0), x.get("timestamp", "")),
     )
-
-# =========================
-# 安全重置 session
-# =========================
 
 def reset_session(keep_name: bool = True) -> None:
     name = st.session_state.get("name", "")
@@ -244,16 +273,20 @@ st.markdown("""
 .champ-name { font-size:1rem; font-weight:700; color:#1e88e5; }
 .champ-score{ font-size:.9rem; color:#333; }
 .champ-date { font-size:.75rem; color:#999; }
+.visitor-badge { text-align:center; color:#666; font-size:0.85rem; margin-bottom:1.5rem; }
 </style>
 """, unsafe_allow_html=True)
 
 # =========================
-# ① 登入
+# ① 登入頁面
 # =========================
 
 if st.session_state.step == "login":
     st.markdown('<div class="big-title">🏆 英文測驗挑戰網</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">測試你的英文實力，挑戰榮譽榜！</div>', unsafe_allow_html=True)
+    
+    # 顯示獨立網站訪客計數
+    st.markdown(f'<div class="visitor-badge">總瀏覽人次：{visitor_count} 次</div>', unsafe_allow_html=True)
 
     with st.form("login_form"):
         name      = st.text_input("請輸入你的名字：", placeholder="例如：小明")
@@ -265,14 +298,16 @@ if st.session_state.step == "login":
                 st.rerun()
             else:
                 st.warning("請先輸入名字！")
+                
+    # 登入頁面顯示表單 QRCode
+    show_feedback_qrcode()
 
 # =========================
 # ② 測驗設定 ＋ 榮譽榜
 # =========================
 
 elif st.session_state.step == "setup":
-    st.markdown(f'<div class="big-title">👋 哈囉，{st.session_state.name}！</div>',
-                unsafe_allow_html=True)
+    st.markdown(f'<div class="big-title">👋 哈囉，{st.session_state.name}！</div>', unsafe_allow_html=True)
 
     tab_quiz, tab_board = st.tabs(["🎯 開始測驗", "🏅 榮譽榜"])
 
@@ -294,10 +329,7 @@ elif st.session_state.step == "setup":
                 all_qs = validate_questions(raw_qs)
 
             if len(all_qs) < q_count:
-                st.error(
-                    f"「{difficulty}」題庫目前只有 {len(all_qs)} 題，"
-                    f"請先執行 generate_questions.py 補充題目，或選擇較少題數。"
-                )
+                st.error(f"「{difficulty}」題庫目前只有 {len(all_qs)} 題，請確認題庫完整度。")
             else:
                 st.session_state.questions    = random.sample(all_qs, q_count)
                 st.session_state.difficulty   = difficulty
@@ -335,8 +367,7 @@ elif st.session_state.step == "setup":
                             unsafe_allow_html=True,
                         )
                     else:
-                        st.markdown("<span style='color:#aaa'>虛位以待</span>",
-                                    unsafe_allow_html=True)
+                        st.markdown("<span style='color:#aaa'>虛位以待</span>", unsafe_allow_html=True)
 
             st.markdown("---")
             st.markdown(f"#### 📋 {diff_tab} 前 10 名（本年度）")
@@ -375,9 +406,7 @@ elif st.session_state.step == "quiz":
         elapsed   = time.time() - st.session_state.start_time
         time_left = max(0, TIME_LIMIT - int(elapsed))
         color     = "success" if time_left > 20 else "warning" if time_left > 10 else "error"
-        getattr(st, color)(
-            f"⏱ 剩餘時間約：{time_left} 秒（分數以提交時的實際時間計算）"
-        )
+        getattr(st, color)(f"⏱ 剩餘時間約：{time_left} 秒（分數以提交時的實際時間計算）")
 
         st.markdown("---")
         st.markdown(f"### {current_q['question']}")
@@ -427,7 +456,7 @@ elif st.session_state.step == "quiz":
         st.rerun()
 
 # =========================
-# ③-b 顯示解答
+# ③-b 顯示單題解答
 # =========================
 
 elif st.session_state.step == "show_result":
@@ -451,11 +480,11 @@ elif st.session_state.step == "show_result":
     st.markdown(f"### {current_q['question']}")
     for opt in current_q["options"]:
         if opt == current_q["answer"]:
-            st.markdown(f"✅ &nbsp; **{opt}**　←　正確答案", unsafe_allow_html=True)
+            st.markdown(f"✅ &nbsp; **{opt}** ← 正確答案", unsafe_allow_html=True)
         elif opt == st.session_state.last_answer and not correct:
-            st.markdown(f"❌ &nbsp; ~~{opt}~~　←　你的答案", unsafe_allow_html=True)
+            st.markdown(f"❌ &nbsp; ~~{opt}~~ ← 你的答案", unsafe_allow_html=True)
         else:
-            st.markdown(f"　　{opt}")
+            st.markdown(f"  {opt}")
 
     st.info(f"📖 **解析：** {current_q['explanation']}")
 
@@ -474,7 +503,7 @@ elif st.session_state.step == "show_result":
         st.rerun()
 
 # =========================
-# ④ 最終結果
+# ④ 最終成績結果頁
 # =========================
 
 elif st.session_state.step == "result":
@@ -482,13 +511,12 @@ elif st.session_state.step == "result":
     st.markdown('<div class="big-title">🎉 測驗結束！</div>', unsafe_allow_html=True)
     st.markdown(
         f"<div style='text-align:center;color:#666'>"
-        f"玩家：{st.session_state.name}　｜　"
-        f"難度：{st.session_state.difficulty}　｜　"
+        f"玩家：{st.session_state.name} ｜ "
+        f"難度：{st.session_state.difficulty} ｜ "
         f"題數：{len(st.session_state.questions)}</div>",
         unsafe_allow_html=True,
     )
-    st.markdown(f'<div class="score-box">{st.session_state.score} 分</div>',
-                unsafe_allow_html=True)
+    st.markdown(f'<div class="score-box">{st.session_state.score} 分</div>', unsafe_allow_html=True)
 
     with st.spinner("查詢排名中..."):
         records   = load_records_cached()
@@ -517,3 +545,6 @@ elif st.session_state.step == "result":
         if st.button("🏅 查看榮譽榜", use_container_width=True):
             reset_session(keep_name=True)
             st.rerun()
+            
+    # 結束測驗頁面也顯示表單 QRCode 邀請填寫
+    show_feedback_qrcode()
