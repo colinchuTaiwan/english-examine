@@ -23,6 +23,8 @@ requirements.txt：
     firebase-admin
     requests
 """
+
+
 import streamlit as st
 import json
 import os
@@ -93,7 +95,7 @@ def track_visitor(site_id: str) -> int:
         return 0
 
 def show_feedback_qrcode():
-    """顯示意見表單的 QR Code 與連結（重用上傳的圖片）"""
+    """顯示意見表單的 QR Code（僅保留圖片與說明，移除按鈕）"""
     st.markdown("---")
     st.markdown("### 📣 歡迎填寫意見表單")
     col_qr, col_txt = st.columns([1, 2])
@@ -104,15 +106,7 @@ def show_feedback_qrcode():
         else:
             st.caption("📷 QR Code 圖片未讀取")
     with col_txt:
-        st.write("掃描左側 QR Code，或是點擊下方按鈕，協助我們把測驗做得更好！")
-        # 可以將底下的 href 替換為你實際的 Google 表單連結
-        st.markdown(
-            '<a href="https://tqrcg.com" target="_blank">'
-            '<button style="border:none; border-radius:4px; padding: 0.5rem 1rem; '
-            'background-color:#1e88e5; color:white; cursor:pointer;">'
-            '✍️ 填寫意見表單</button></a>', 
-            unsafe_allow_html=True
-        )
+        st.write("掃描左側 QR Code，協助我們把測驗做得更好！")
 
 # =========================
 # 設定
@@ -120,7 +114,7 @@ def show_feedback_qrcode():
 
 TIME_LIMIT   = 30
 STREAK_BONUS = 5
-SITE_ID      = "site_english_examine"  # 本網站的獨一無二識別碼
+SITE_ID      = "site_english_examine"  # 本網站的獨立識別碼
 
 FILES = {
     "國小": "db/element.json",
@@ -299,7 +293,7 @@ if st.session_state.step == "login":
             else:
                 st.warning("請先輸入名字！")
                 
-    # 登入頁面顯示表單 QRCode
+    # 顯示表單 QRCode
     show_feedback_qrcode()
 
 # =========================
