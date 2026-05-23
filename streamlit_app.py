@@ -103,10 +103,8 @@ def show_feedback_qrcode():
         # 請確保將上傳的 QR Code 圖片命名為 '意見表單QRCode.png' 並放在與 app.py 同個資料夾下
         if os.path.exists("意見表單QRCode.png"):
             st.image("意見表單QRCode.png", width=140)
-        else:
-            st.caption("📷 QR Code 圖片未讀取")
-    with col_txt:
-        st.write("掃描左側 QR Code，協助我們把測驗做得更好！")
+            st.write("掃描 QR Code，協助我們把測驗做得更好！")
+
 
 # =========================
 # 設定
