@@ -3300,5 +3300,175 @@
     "explanation": "本題正確答案為「am」。請依照題目的句意與英文用法判斷最適合的選項。",
     "id": "tn85dbtlby",
     "difficulty": "easy"
-  }
+  },
+
+{
+"question": "I can see a ____ in the zoo. It has a long neck.",
+"options": ["giraffe", "apple", "teacher", "desk"],
+"answer": "giraffe",
+"explanation": "本題考查動物單字。giraffe 是「長頸鹿」的意思，長頸鹿最明顯的特徵就是擁有非常長的脖子，因此符合題目描述。apple 是蘋果，teacher 是老師，desk 是書桌，都不是動物。學習動物單字時，可以透過外觀特徵來幫助記憶，例如長頸鹿有長脖子、大象有長鼻子、獅子有鬃毛。這樣在閱讀英文句子時，就能更快理解單字的意思並選出正確答案。",
+"id": "k4m8p2q7r1",
+"difficulty": "easy"
+},
+{
+"question": "The sky is ____ on a sunny day.",
+"options": ["blue", "green", "black", "brown"],
+"answer": "blue",
+"explanation": "本題考查顏色單字。晴朗天氣時，天空通常呈現藍色，因此答案是 blue。green 是綠色，black 是黑色，brown 是棕色，都不符合一般晴天的天空顏色。顏色單字是國小英語的重要基礎內容，平時可以透過觀察生活中的事物來練習，例如草地是綠色、香蕉是黃色、番茄是紅色，能幫助加深印象。",
+"id": "v7n1c5m8q2",
+"difficulty": "easy"
+},
+{
+"question": "My favorite fruit is ____ because it is sweet and red.",
+"options": ["watermelon", "strawberry", "carrot", "rice"],
+"answer": "strawberry",
+"explanation": "本題考查食物單字。strawberry 是草莓，通常是紅色而且味道香甜，非常符合題目描述。watermelon 是西瓜，carrot 是紅蘿蔔，rice 是米飯。解題時除了認識單字，也要注意句中的提示，例如 sweet 和 red 都是在幫助判斷正確答案。學習食物單字時，可以將顏色、味道與外型一起記憶。",
+"id": "p3k9r1m6d4",
+"difficulty": "easy"
+},
+{
+"question": "My mother's father is my ____.",
+"options": ["grandfather", "uncle", "brother", "cousin"],
+"answer": "grandfather",
+"explanation": "本題考查家人稱謂。mother's father 的意思是媽媽的爸爸，也就是外公或祖父，英文為 grandfather。uncle 是叔叔或舅舅，brother 是兄弟，cousin 是堂表兄弟姊妹。學習家人單字時，可以透過家族關係圖來幫助理解，並熟悉不同親屬的英文說法。",
+"id": "t8m2v5q1n7",
+"difficulty": "easy"
+},
+{
+"question": "We read books in the school ____.",
+"options": ["library", "kitchen", "bedroom", "bathroom"],
+"answer": "library",
+"explanation": "本題考查學校場所單字。library 是圖書館，是學生閱讀書籍和借閱圖書的地方。kitchen 是廚房，bedroom 是臥室，bathroom 是浴室，都不屬於學校閱讀書籍的主要場所。認識校園設施相關單字，有助於描述校園生活與閱讀英文文章。",
+"id": "c5q8m1r7p4",
+"difficulty": "easy"
+},
+{
+"question": "Twenty plus ten is ____.",
+"options": ["thirty", "forty", "fifty", "sixty"],
+"answer": "thirty",
+"explanation": "本題考查數字單字。二十加十等於三十，因此答案是 thirty。forty 是四十，fifty 是五十，sixty 是六十。英文數字在日常生活中非常常見，例如時間、年齡、價格與電話號碼等，都需要熟悉數字的英文表達方式。",
+"id": "m1p7v4q8k2",
+"difficulty": "easy"
+},
+{
+"question": "Take an umbrella. It is ____ outside.",
+"options": ["rainy", "sunny", "windy", "hot"],
+"answer": "rainy",
+"explanation": "本題考查天氣單字。帶雨傘通常表示外面正在下雨，因此答案是 rainy。sunny 是晴朗的，windy 是有風的，hot 是炎熱的。學習天氣單字時，可以搭配生活經驗，例如下雨帶傘、天冷穿外套、晴天戴帽子，更容易理解與記憶。",
+"id": "r6n2k8m1q5",
+"difficulty": "easy"
+},
+{
+"question": "A ____ helps sick people in a hospital.",
+"options": ["doctor", "farmer", "driver", "cook"],
+"answer": "doctor",
+"explanation": "本題考查職業單字。doctor 是醫生，主要工作是在醫院幫助病人恢復健康。farmer 是農夫，driver 是司機，cook 是廚師。學習職業單字時，可以同時了解每種職業的工作內容，幫助記憶並提升閱讀理解能力。",
+"id": "n4v7q2m8p1",
+"difficulty": "easy"
+},
+{
+"question": "The ____ says 'meow'.",
+"options": ["cat", "cow", "duck", "horse"],
+"answer": "cat",
+"explanation": "本題考查動物單字。cat 是貓，貓的叫聲常以 meow 表示。cow 是牛，duck 是鴨子，horse 是馬，牠們的叫聲都不同。透過動物與叫聲的搭配來學習單字，是非常有效的記憶方式，也能增加學習的趣味性。",
+"id": "q1m8r4v6k2",
+"difficulty": "easy"
+},
+{
+"question": "Bananas are usually ____.",
+"options": ["yellow", "purple", "gray", "pink"],
+"answer": "yellow",
+"explanation": "本題考查顏色單字。成熟的香蕉通常是黃色，因此答案為 yellow。purple 是紫色，gray 是灰色，pink 是粉紅色，都不符合一般香蕉的顏色。透過食物與顏色的搭配記憶，能讓單字學習更加具體且容易理解。",
+"id": "k7p2m9v1r5",
+"difficulty": "easy"
+},
+{
+"question": "I eat ____ with milk for breakfast.",
+"options": ["bread", "window", "eraser", "pencil"],
+"answer": "bread",
+"explanation": "本題考查食物單字。bread 是麵包，常與牛奶一起作為早餐。window 是窗戶，eraser 是橡皮擦，pencil 是鉛筆，都不是食物。學習食物單字時，可以結合自己的日常飲食經驗，幫助記憶與應用。",
+"id": "v5q1n8m3r7",
+"difficulty": "easy"
+},
+{
+"question": "My father's sister is my ____.",
+"options": ["aunt", "mother", "daughter", "niece"],
+"answer": "aunt",
+"explanation": "本題考查家人稱謂。父親的姊妹稱為 aunt，也就是姑姑或阿姨。mother 是媽媽，daughter 是女兒，niece 是姪女。家人稱謂是國小英語的重要內容，透過家庭成員關係來理解，會更容易掌握。",
+"id": "p8r4m1q6k2",
+"difficulty": "easy"
+},
+{
+"question": "The teacher writes on the ____.",
+"options": ["blackboard", "banana", "shirt", "cloud"],
+"answer": "blackboard",
+"explanation": "本題考查學校用品與場所相關單字。老師上課時常在 blackboard（黑板）上寫字。其他選項香蕉、襯衫與雲朵都不符合課堂情境。學校相關單字是描述校園生活的重要基礎內容，應熟悉其用途與功能。",
+"id": "m6q2v8k1r4",
+"difficulty": "easy"
+},
+{
+"question": "One hundred minus ten is ____.",
+"options": ["ninety", "eighty", "seventy", "sixty"],
+"answer": "ninety",
+"explanation": "本題考查數字單字。100 減去 10 等於 90，因此答案為 ninety。英文數字除了背誦外，也要能應用在簡單計算、時間表達與生活情境中。熟悉數字有助於提升英文的實用能力。",
+"id": "q9n1m5r7v3",
+"difficulty": "easy"
+},
+{
+"question": "It is very cold and ____ today.",
+"options": ["snowy", "hungry", "happy", "busy"],
+"answer": "snowy",
+"explanation": "本題考查天氣單字。snowy 表示下雪的，與 very cold 的描述相符。hungry 是飢餓的，happy 是快樂的，busy 是忙碌的，都不是天氣狀態。學習天氣單字時，可以與季節和氣候現象一起記憶。",
+"id": "t4v8m2q1k6",
+"difficulty": "easy"
+},
+{
+"question": "A ____ grows vegetables on a farm.",
+"options": ["farmer", "teacher", "pilot", "nurse"],
+"answer": "farmer",
+"explanation": "本題考查職業單字。farmer 是農夫，主要工作是在農場種植蔬菜或水果。teacher 是老師，pilot 是飛行員，nurse 是護理師。透過工作內容來認識職業單字，可以幫助學生理解與記憶。",
+"id": "n2k7q5m1v8",
+"difficulty": "easy"
+},
+{
+"question": "The ____ is the king of the jungle.",
+"options": ["lion", "fish", "rabbit", "mouse"],
+"answer": "lion",
+"explanation": "本題考查動物單字。lion 是獅子，常被稱為森林之王或草原之王，因此符合題意。fish 是魚，rabbit 是兔子，mouse 是老鼠。透過動物特色與故事背景學習單字，可以讓記憶更加深刻。",
+"id": "r8m3p1v5q2",
+"difficulty": "easy"
+},
+{
+"question": "Grapes can be green or ____.",
+"options": ["purple", "silver", "gold", "white"],
+"answer": "purple",
+"explanation": "本題考查顏色單字。葡萄常見的顏色有綠色與紫色，因此答案是 purple。silver 是銀色，gold 是金色，white 是白色。學習顏色時，可以搭配水果、動物與生活用品一起記憶，效果更好。",
+"id": "k1v6m9q3r7",
+"difficulty": "easy"
+},
+{
+"question": "We make French fries from ____.",
+"options": ["potatoes", "oranges", "eggs", "tea"],
+"answer": "potatoes",
+"explanation": "本題考查食物單字。薯條是由馬鈴薯製作而成，因此答案是 potatoes。oranges 是橘子，eggs 是雞蛋，tea 是茶。認識食物來源不但有助於英文學習，也能增加生活常識與閱讀理解能力。",
+"id": "v3q8n1m5k2",
+"difficulty": "easy"
+},
+{
+"question": "My mother's mother is my ____.",
+"options": ["grandmother", "sister", "aunt", "daughter"],
+"answer": "grandmother",
+"explanation": "本題考查家人稱謂。媽媽的媽媽就是外婆或祖母，英文是 grandmother。其他選項分別是姊妹、阿姨與女兒，都不符合家族關係。熟悉家庭成員的英文稱呼，是國小英語的重要基礎能力。",
+"id": "m7r2q9v1k4",
+"difficulty": "easy"
+},
+{
+"question": "Students sit on a ____ in the classroom.",
+"options": ["chair", "cloud", "tree", "boat"],
+"answer": "chair",
+"explanation": "本題考查校園相關單字。學生在教室裡通常坐在 chair（椅子）上。cloud 是雲朵，tree 是樹，boat 是船，都不符合教室情境。透過日常校園生活來學習單字，可以提高實際運用能力。",
+"id": "p5v1k8m3q6",
+"difficulty": "easy"
+}
+
 ]
