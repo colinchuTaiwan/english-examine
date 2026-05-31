@@ -1701,5 +1701,391 @@
     "explanation": "本題測試國中必考動詞後接「動名詞 (V-ing)」作為受詞的文法。在英文中，動詞 enjoy (享受、喜愛) 後面若要再接另一個動作，該動作必須轉換為動名詞（V-ing）形式。故選 (D) walking。",
     "id": "8d652346-3976-41c4-9885-600c0d273fab",
     "difficulty": "medium"
-  }
+  },
+
+{
+"question": "My brother is very ____ and always finishes his homework on time.",
+"options": ["careful", "angry", "hungry", "noisy"],
+"answer": "careful",
+"explanation": "題目考查形容詞的使用。careful 表示「細心的、謹慎的」，與後面提到總是準時完成作業的情境相符。angry 是生氣的，hungry 是飢餓的，noisy 是吵鬧的，都無法合理解釋能夠穩定完成作業的原因。學習英文時，應根據前後文判斷最適合的形容詞。",
+"id": "k3m8x1p4q7",
+"difficulty": "medium"
+},
+{
+"question": "The weather is very ____ today, so let's go to the park.",
+"options": ["pleasant", "dangerous", "terrible", "weak"],
+"answer": "pleasant",
+"explanation": "pleasant 意為「令人愉快的」，與去公園遊玩的情境十分搭配。dangerous 表示危險的，terrible 表示糟糕的，weak 表示虛弱的或薄弱的，都不適合形容適合外出的天氣。作答時要觀察句子後半段提供的線索，推測最合理的答案。",
+"id": "n5r2t8v1c6",
+"difficulty": "medium"
+},
+{
+"question": "The museum is ____ for students under twelve years old.",
+"options": ["free", "busy", "thick", "dirty"],
+"answer": "free",
+"explanation": "free 在此表示「免費的」，常用於介紹門票或服務是否收費。句子說明十二歲以下學生可以免費參觀博物館。busy 是忙碌的，thick 是厚的，dirty 是骯髒的，都不符合語意。學生應注意 free 除了自由的意思外，也常表示免費。",
+"id": "h7d4s9k2m1",
+"difficulty": "medium"
+},
+{
+"question": "Jenny felt ____ after running five kilometers.",
+"options": ["exhausted", "curious", "polite", "clever"],
+"answer": "exhausted",
+"explanation": "exhausted 表示「筋疲力盡的」，非常符合跑完五公里後的身體狀態。curious 是好奇的，polite 是有禮貌的，clever 是聰明的，與運動後的疲勞感無關。閱讀題目時，應利用生活經驗與情境判斷最適合的單字。",
+"id": "w2f8j5n4q9",
+"difficulty": "medium"
+},
+{
+"question": "Tom is ____ in science and often wins competitions.",
+"options": ["talented", "empty", "silent", "cheap"],
+"answer": "talented",
+"explanation": "talented 意為「有天分的」，與經常在科學競賽獲獎的描述相符。empty 表示空的，silent 表示安靜的，cheap 表示便宜的，都無法說明獲獎原因。學習形容詞時，除了記憶意思，也要理解實際使用情境與搭配方式。",
+"id": "u6c1z8a4p3",
+"difficulty": "medium"
+},
+{
+"question": "Please keep the classroom ____ before the guests arrive.",
+"options": ["clean", "slow", "early", "short"],
+"answer": "clean",
+"explanation": "clean 表示「乾淨的」，符合在來賓到達前整理教室的情境。slow 是慢的，early 是早的，short 是短的，皆與教室整理無直接關聯。英文中 keep + 地方 + 形容詞 是常見結構，表示讓某個地方維持某種狀態。",
+"id": "b9x4m2q7r5",
+"difficulty": "medium"
+},
+{
+"question": "The teacher gave us a ____ explanation of the lesson.",
+"options": ["clear", "nervous", "famous", "lonely"],
+"answer": "clear",
+"explanation": "clear 意為「清楚的」，常用來形容說明、指示或解釋容易理解。nervous 是緊張的，famous 是有名的，lonely 是孤單的，都不適合修飾 explanation。學習時要熟悉形容詞與名詞的常見搭配，提高閱讀與寫作能力。",
+"id": "q1e7k5t8n2",
+"difficulty": "medium"
+},
+{
+"question": "Our school library is ____ with students during lunch break.",
+"options": ["crowded", "broken", "sweet", "empty"],
+"answer": "crowded",
+"explanation": "crowded 表示「擁擠的」，與午休時間很多學生在圖書館的情況相符。broken 是損壞的，sweet 是甜的，empty 是空的，皆不符合句意。閱讀時應注意介系詞 with 的搭配，crowded with people 是常見用法。",
+"id": "l4v8p2s6d1",
+"difficulty": "medium"
+},
+{
+"question": "The little girl was ____ when she saw the magic show.",
+"options": ["amazed", "lazy", "strict", "normal"],
+"answer": "amazed",
+"explanation": "amazed 表示「感到驚奇的」，觀看魔術表演時出現驚訝反應十分合理。lazy 是懶惰的，strict 是嚴格的，normal 是普通的，與情境不符。學生要分辨情緒形容詞的使用，並根據事件推測人物感受。",
+"id": "y7m3c9k1f4",
+"difficulty": "medium"
+},
+{
+"question": "The road became ____ after the heavy rain.",
+"options": ["slippery", "honest", "gentle", "healthy"],
+"answer": "slippery",
+"explanation": "slippery 意為「濕滑的」，下大雨後道路容易變得濕滑，因此最符合題意。honest 是誠實的，gentle 是溫和的，healthy 是健康的，都不能用來描述雨後路況。學習單字時應連結生活情境，增加理解與記憶效果。",
+"id": "p5n8w2r6t3",
+"difficulty": "medium"
+},
+{
+"question": "Please turn ____ the lights before you leave the room.",
+"options": ["off", "into", "across", "during"],
+"answer": "off",
+"explanation": "turn off 為固定片語，表示「關掉電器或燈光」。句子要求離開房間前關燈，因此應選 off。其他選項無法與 turn 組成符合語意的常見片語。片語學習重點在於整體記憶，而非單看個別單字意思。",
+"id": "g4k8n1v6r2",
+"difficulty": "medium"
+},
+{
+"question": "I need to look ____ this new word in the dictionary.",
+"options": ["up", "for", "under", "beside"],
+"answer": "up",
+"explanation": "look up 表示「查詢資料或單字」，是國中常見片語。句中提到在字典中查單字，因此使用 look up 最恰當。其他選項無法形成相同意思。學生要熟記常見動詞與副詞組成的片語動詞，避免直接逐字翻譯。",
+"id": "s8d2m5q1x7",
+"difficulty": "medium"
+},
+{
+"question": "My father picked me ____ at the station after school.",
+"options": ["up", "away", "through", "without"],
+"answer": "up",
+"explanation": "pick someone up 表示「接某人」，是生活中很常用的片語。句子描述父親到車站接我，因此答案為 up。其他選項都不能構成此固定用法。學習英文時，熟悉常見片語能大幅提升閱讀與口語理解能力。",
+"id": "r2f9c4v7k1",
+"difficulty": "medium"
+},
+{
+"question": "The meeting was put ____ because of the typhoon.",
+"options": ["off", "on", "under", "inside"],
+"answer": "off",
+"explanation": "put off 表示「延期」，颱風來襲時活動或會議延期是合理情況。其他選項無法表達延期之意。許多英文片語具有特殊意義，不能只依照字面翻譯，因此需要透過例句與情境反覆練習。",
+"id": "m6q1t8p3z5",
+"difficulty": "medium"
+},
+{
+"question": "We should take care ____ our environment.",
+"options": ["of", "from", "between", "against"],
+"answer": "of",
+"explanation": "take care of 表示「照顧、愛護」，是固定片語。句子提到保護環境，因此應選 of。其他介系詞無法形成正確搭配。英文中許多動詞與特定介系詞搭配後才具有完整意思，需特別記憶。",
+"id": "t7n3b8k4r2",
+"difficulty": "medium"
+},
+{
+"question": "Kevin gave ____ eating junk food last month.",
+"options": ["up", "down", "over", "behind"],
+"answer": "up",
+"explanation": "give up 表示「放棄」，題目表示 Kevin 上個月戒掉垃圾食物，因此選 up。其他選項不符合語意。學習片語時，要注意 give up 後面常接名詞或動名詞，表示放棄某種行為或習慣。",
+"id": "c1v5m8q2p7",
+"difficulty": "medium"
+},
+{
+"question": "The baby takes ____ her mother in appearance.",
+"options": ["after", "into", "upon", "about"],
+"answer": "after",
+"explanation": "take after 表示「長得像、性格像」，常用於描述親屬之間的相似之處。句子說嬰兒外表像媽媽，因此答案為 after。其他選項不符合固定搭配。透過實際家庭情境學習片語，有助於加深印象。",
+"id": "x8p2r5n1d4",
+"difficulty": "medium"
+},
+{
+"question": "Please hand ____ your report before Friday.",
+"options": ["in", "around", "across", "outside"],
+"answer": "in",
+"explanation": "hand in 表示「繳交」，是學生生活中非常常見的片語。句子要求星期五前繳交報告，因此答案為 in。其他選項皆不符合語意。熟悉學校情境常見片語，對考試與日常英語都很有幫助。",
+"id": "e3m7k9v2q1",
+"difficulty": "medium"
+},
+{
+"question": "The firemen quickly put ____ the fire.",
+"options": ["out", "through", "upon", "inside"],
+"answer": "out",
+"explanation": "put out 表示「撲滅」，常用於火災情境。消防員撲滅火勢是合理搭配，因此答案為 out。其他選項不能形成相同意思。片語動詞常出現在閱讀測驗中，必須熟悉其整體含義。",
+"id": "j6q2w8n4c9",
+"difficulty": "medium"
+},
+{
+"question": "I ran ____ an old friend at the night market.",
+"options": ["into", "among", "above", "beneath"],
+"answer": "into",
+"explanation": "run into 表示「偶然遇見」，與在夜市巧遇老朋友的情境完全相符。其他介系詞沒有這樣的固定意思。許多英文片語與中文表達不同，因此需要透過例句理解，而非逐字翻譯。",
+"id": "a8t4m1p6r3",
+"difficulty": "medium"
+},
+{
+"question": "Can you come ____ with a better idea?",
+"options": ["up", "off", "below", "toward"],
+"answer": "up",
+"explanation": "come up with 表示「想出、提出」，常用於創意或解決問題的情境。句子詢問是否能提出更好的點子，因此答案為 up。其他選項無法形成正確片語。學生應熟悉此常見表達方式。",
+"id": "v1k7n3d8m5",
+"difficulty": "medium"
+},
+{
+"question": "The airplane took ____ on time this morning.",
+"options": ["off", "up", "around", "beside"],
+"answer": "off",
+"explanation": "take off 表示「起飛」，是交通與旅行主題常見片語。句中提到飛機準時起飛，因此選 off。其他選項無法表達飛機起飛的意思。片語常具有特殊含義，需整體學習與記憶。",
+"id": "n4q8r2p5c1",
+"difficulty": "medium"
+},
+{
+"question": "The teacher asked us to carry ____ the experiment carefully.",
+"options": ["out", "under", "above", "beside"],
+"answer": "out",
+"explanation": "carry out 表示「執行、進行」，常用於實驗、計畫或任務。句中提到進行實驗，因此答案為 out。其他選項無法構成正確片語。學生應學會從上下文判斷片語的實際用途。",
+"id": "z5m1t7v3k8",
+"difficulty": "medium"
+},
+{
+"question": "The twins get ____ very well with each other.",
+"options": ["along", "inside", "through", "against"],
+"answer": "along",
+"explanation": "get along with 表示「相處融洽」。雙胞胎彼此相處得很好，因此選 along。其他選項皆無法形成此固定用法。人際關係主題常出現此片語，是國中英語的重要學習內容之一。",
+"id": "f2p8n4q6r1",
+"difficulty": "medium"
+},
+{
+"question": "Please take ____ your shoes before entering the house.",
+"options": ["off", "under", "toward", "outside"],
+"answer": "off",
+"explanation": "take off 在此表示「脫下」。進屋前脫鞋是合理情境，因此答案為 off。其他選項無法形成相同意思。學生應注意同一片語在不同情境中可能有不同用法，但都需依上下文理解。",
+"id": "d7v3m1k8p4",
+"difficulty": "medium"
+},
+{
+"question": "The company set ____ a new branch in Tainan.",
+"options": ["up", "inside", "across", "below"],
+"answer": "up",
+"explanation": "set up 表示「建立、設立」。公司設立新分公司是常見用法，因此選 up。其他選項皆不符合語意。片語學習除了記憶意思，也要了解常見使用對象與實際情境。",
+"id": "k9q2t5m1r7",
+"difficulty": "medium"
+},
+{
+"question": "I am looking forward ____ seeing you again.",
+"options": ["to", "for", "with", "from"],
+"answer": "to",
+"explanation": "look forward to 為固定片語，表示期待。後面需接名詞或動名詞，因此 seeing 前要用 to。其他選項都不符合文法規則。此用法在會考與校內考試中非常常見，需要熟練掌握。",
+"id": "p1m6v8q3n5",
+"difficulty": "medium"
+},
+{
+"question": "Lisa ____ to school by bus every day.",
+"options": ["goes", "go", "going", "gone"],
+"answer": "goes",
+"explanation": "本題考查一般現在式。主詞 Lisa 為第三人稱單數，因此動詞 go 必須加 es 成為 goes。其他選項不符合句型要求。一般現在式常用於表示習慣、事實或固定行為，是國中重要文法基礎。",
+"id": "r8k4n2m7c1",
+"difficulty": "medium"
+},
+{
+"question": "They ____ basketball when it started to rain.",
+"options": ["were playing", "play", "plays", "played"],
+"answer": "were playing",
+"explanation": "句中有 when it started to rain，表示某動作進行到一半時發生另一事件，因此使用過去進行式。主詞為 they，因此答案為 were playing。此文法常用來描述背景動作與突然發生的事件。",
+"id": "m2v9q5p1t7",
+"difficulty": "medium"
+},
+{
+"question": "If it ____ tomorrow, we will stay home.",
+"options": ["rains", "will rain", "raining", "rained"],
+"answer": "rains",
+"explanation": "第一類條件句中，if 子句使用一般現在式表示未來可能發生的情況，主要子句則使用未來式。因此答案是 rains。許多學生容易誤選 will rain，但英文條件句有固定結構需要遵守。",
+"id": "c5n1k8r4v2",
+"difficulty": "medium"
+},
+{
+"question": "This book is ____ than that one.",
+"options": ["more interesting", "interesting", "most interesting", "interest"],
+"answer": "more interesting",
+"explanation": "題目出現 than，表示比較級結構。interesting 為多音節形容詞，應使用 more interesting 形成比較級。其他選項不符合比較句型。學習比較級時，要依單字長度選擇正確變化方式。",
+"id": "v7p3m9q1d6",
+"difficulty": "medium"
+},
+{
+"question": "There ____ some milk in the fridge.",
+"options": ["is", "are", "be", "were"],
+"answer": "is",
+"explanation": "milk 為不可數名詞，因此在 there be 句型中應搭配 is。are 用於複數名詞，were 為過去式，be 則不能直接使用。學生應熟悉可數與不可數名詞對動詞形式的影響。",
+"id": "n8r2k5m1p4",
+"difficulty": "medium"
+},
+{
+"question": "I have lived here ____ five years.",
+"options": ["for", "since", "during", "until"],
+"answer": "for",
+"explanation": "for 用來表示一段時間，例如 five years。since 則接時間點。題目提供的是五年這段期間，因此答案為 for。完成式常搭配 for 與 since，是國中英文的重要考點之一。",
+"id": "t1q7v4m8c2",
+"difficulty": "medium"
+},
+{
+"question": "The homework ____ by the students yesterday.",
+"options": ["was finished", "finished", "is finishing", "finishes"],
+"answer": "was finished",
+"explanation": "句中有 yesterday，表示過去時間，且作業是被學生完成，因此需使用過去式被動語態 was finished。其他選項不符合被動結構。被動語態常用於強調接受動作的對象。",
+"id": "k4m9p2r6n1",
+"difficulty": "medium"
+},
+{
+"question": "Neither Amy nor her brothers ____ at home now.",
+"options": ["are", "is", "was", "be"],
+"answer": "are",
+"explanation": "neither...nor... 的動詞通常依靠近的主詞決定。此處靠近的是 brothers，為複數，因此使用 are。這種就近一致原則是國中常見文法題型，需要特別留意。",
+"id": "p6v1t8m3q5",
+"difficulty": "medium"
+},
+{
+"question": "Jack is one of the best students ____ our class.",
+"options": ["in", "on", "at", "from"],
+"answer": "in",
+"explanation": "表示在某個班級、團體或範圍之內，通常使用介系詞 in。句子意為傑克是班上最優秀的學生之一，因此選 in。介系詞雖然短小，但常是考試重點，需要熟悉固定搭配。",
+"id": "q3n7k2v9m1",
+"difficulty": "medium"
+},
+{
+"question": "She can speak English ____ than I can.",
+"options": ["better", "good", "best", "well"],
+"answer": "better",
+"explanation": "句中有 than，表示比較，因此副詞 well 的比較級應為 better。good 與 best 都不符合句型要求。學生要了解形容詞與副詞都有比較級變化，而且部分單字屬於不規則變化。",
+"id": "m5r8p1c4v7",
+"difficulty": "medium"
+},
+{
+"question": "____ you ever been to Japan?",
+"options": ["Have", "Has", "Did", "Do"],
+"answer": "Have",
+"explanation": "現在完成式的基本結構為 Have/Has + 過去分詞。主詞為 you，因此應使用 Have。此句是在詢問是否曾經去過日本的經驗。完成式常用於表達經驗、結果或持續狀態。",
+"id": "d2k9n4q6m8",
+"difficulty": "medium"
+},
+{
+"question": "The girl ____ won the contest is my cousin.",
+"options": ["who", "which", "where", "when"],
+"answer": "who",
+"explanation": "先行詞為 girl，代表人，因此關係代名詞應使用 who。which 用於事物，where 用於地點，when 用於時間。關係代名詞可以把兩個句子連接起來，是國中重要文法內容。",
+"id": "v4m1p8r3k6",
+"difficulty": "medium"
+},
+{
+"question": "You had better ____ an umbrella today.",
+"options": ["take", "takes", "taking", "took"],
+"answer": "take",
+"explanation": "had better 後面必須接原形動詞，因此答案是 take。其他形式皆不符合文法規則。這個句型表示建議或勸告，意思接近「最好……」，在口語與寫作中都很常見。",
+"id": "n1q5c8m4v2",
+"difficulty": "medium"
+},
+{
+"question": "The movie was so funny that everyone ____ loudly.",
+"options": ["laughed", "laugh", "laughs", "laughing"],
+"answer": "laughed",
+"explanation": "前半句使用 was，表示過去時間，因此後半句也應使用過去式 laughed。其他選項與時態不一致。解題時除了理解意思，也要注意整體句子的時間背景是否一致。",
+"id": "r7m2k9p5v1",
+"difficulty": "medium"
+},
+{
+"question": "There are ____ apples in the basket.",
+"options": ["many", "much", "little", "a little"],
+"answer": "many",
+"explanation": "apples 為可數複數名詞，因此應搭配 many。much 通常搭配不可數名詞，little 與 a little 也用於不可數名詞。可數與不可數名詞的搭配方式是基礎但重要的文法概念。",
+"id": "k8v3n1q6m4",
+"difficulty": "medium"
+},
+{
+"question": "I don't know ____ he will come or not.",
+"options": ["whether", "because", "although", "unless"],
+"answer": "whether",
+"explanation": "whether...or not 是固定結構，表示「是否」。句意為我不知道他是否會來。其他連接詞不符合語意。學生在閱讀長句時，要特別注意常見連接詞的固定搭配與使用情境。",
+"id": "p2m7r4v8k1",
+"difficulty": "medium"
+},
+{
+"question": "By the time we arrived, the train ____ already left.",
+"options": ["had", "has", "have", "having"],
+"answer": "had",
+"explanation": "句中出現 By the time we arrived，表示過去某時間點之前已完成的動作，因此需使用過去完成式 had left。此文法用來表示兩個過去事件中較早發生的那一個，非常重要。",
+"id": "m4q1v9n2c7",
+"difficulty": "medium"
+},
+{
+"question": "Not only Jack but also his sister ____ interested in art.",
+"options": ["is", "are", "were", "be"],
+"answer": "is",
+"explanation": "not only...but also... 採就近一致原則，靠近動詞的是 sister，為單數，因此使用 is。這類連接結構常出現在文法測驗中，需要注意主詞與動詞的一致性問題。",
+"id": "c8n5k2m7r4",
+"difficulty": "medium"
+},
+{
+"question": "The test was ____ difficult for most students to finish early.",
+"options": ["too", "very", "so", "such"],
+"answer": "too",
+"explanation": "too...to... 為固定句型，表示「太……而不能……」。題目表示考試太難，多數學生無法提早完成，因此答案為 too。掌握固定句型能有效提升閱讀與寫作能力。",
+"id": "v9p1m4q8n2",
+"difficulty": "medium"
+},
+{
+"question": "Would you mind ____ the window?",
+"options": ["opening", "open", "opens", "opened"],
+"answer": "opening",
+"explanation": "Would you mind 後面要接動名詞，因此答案為 opening。此句型常用於禮貌請求他人做某事。許多學生容易誤用原形動詞，因此需熟記這類固定文法結構。",
+"id": "t2m8r5k1v6",
+"difficulty": "medium"
+},
+{
+"question": "This is the most beautiful picture I have ever ____.",
+"options": ["seen", "see", "saw", "seeing"],
+"answer": "seen",
+"explanation": "現在完成式結構為 have + 過去分詞，因此 see 的過去分詞 seen 為正確答案。此句表示這是我看過最美的圖片。掌握不規則動詞三態是學習英文的重要基礎能力。",
+"id": "q6v2n8m3p5",
+"difficulty": "medium"
+}
+
 ]
